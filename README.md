@@ -1,2 +1,2 @@
-# CPRD-Aurum-Codelists
-Updated or created codelists for use in CPRD Aurum
+# CPRD-Aurum-Stata-Code
+Stata .do files for use with CPRD Aurum data

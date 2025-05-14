@@ -1,0 +1,1747 @@
+medcodeid	freq	final_term	site	Type_provisional	Diagnosis group
+7278014	 1,112 	Arthritis	Other	diagnosis	Arthritis NOS
+1464018	 167 	Monoarthritis	Other	diagnosis	Arthritis NOS
+20587019	 94 	Acute arthritis	Other	diagnosis	Arthritis NOS
+359169019	 91 	Arthritis of knee	Knee	diagnosis	Arthritis NOS
+359170018	 45 	Arthritis of hip	Hip/Pelvis	diagnosis	Arthritis NOS
+312529012	 44 	[X]Other specified arthritis	Other	diagnosis	Arthritis NOS
+59922014	 33 	Chronic arthritis	Other	diagnosis	Arthritis NOS
+411893012	 29 	Arthritis monitoring	Other	diagnosis	Arthritis NOS
+310172017	 28 	Unspecified monoarthritis of the lower leg	Leg	diagnosis	Arthritis NOS
+359168010	 27 	Ankle arthritis NOS	Foot/Ankle	diagnosis	Arthritis NOS
+359171019	 25 	Arthritis of wrist	Wrist	diagnosis	Arthritis NOS
+310173010	 20 	Unspecified monoarthritis of the ankle and foot	Foot/Ankle	diagnosis	Arthritis NOS
+310174016	 19 	Unspecified monoarthritis of other specified site	Other	diagnosis	Arthritis NOS
+310159018	 17 	Generalised arthritis	Multiple	diagnosis	Arthritis NOS
+815501000006110	 14 	Arthritis of hand	Hand	diagnosis	Arthritis NOS
+310175015	 11 	Unspecified monoarthritis NOS	Other	diagnosis	Arthritis NOS
+178465011	 246 	Arthrogryposis	Other	diagnosis	Arthrogryposis
+492481000006116	 46 	Arthrogryposis multiplex congenita.	Multiple	diagnosis	Arthrogryposis
+13784591000006110	 24 	Arthrogryposis multiplex congenita	Multiple	diagnosis	Arthrogryposis
+314951014	 18 	Arthrogryposis, unspecified	Other	diagnosis	Arthrogryposis
+55627011	 610 	Psoriatic arthropathy	Other	diagnosis	Axial spondyloarthritis
+16833013	 280 	Ankylosing spondylitis	Back	diagnosis	Axial spondyloarthritis
+55628018	 215 	Psoriatic arthritis	Other	diagnosis	Axial spondyloarthritis
+2472449013	 181 	Juvenile seronegative polyarthritis	Multiple	diagnosis	Axial spondyloarthritis
+359312010	 86 	Juvenile ankylosing spondylitis	Back	diagnosis	Axial spondyloarthritis
+2360741000000115	 55 	Axial spondyloarthritis	Back	diagnosis	Axial spondyloarthritis
+5139461000006110	 35 	Juvenile psoriatic arthritis with psoriasis	Other	diagnosis	Axial spondyloarthritis
+312521010	 27 	Psoriasis with arthropathy	Other	diagnosis	Axial spondyloarthritis
+311045018	 15 	Spondylitis	Back	diagnosis	Axial spondyloarthritis
+308730016	 14 	Psoriatic arthropathy NOS	Other	diagnosis	Axial spondyloarthritis
+288960017	 60 	Malignant neoplasm of connective and other soft tissue	Other	diagnosis	Cancer
+728491000006116	 39 	Malignant neoplasm of connective and soft tissues of thoracic spine	Back	diagnosis	Cancer
+5511671000006115	 32 	Malignant neoplasm of soft tissue	Other	diagnosis	Cancer
+396501000006117	 26 	[X]Malignant neoplasm/connective + soft tissue,unspecified	Other	diagnosis	Cancer
+291618010	 24 	[M]Soft tissue tumours and sarcomas NOS	Other	diagnosis	Cancer
+288979019	 24 	Malignant neoplasm of connective and soft tissue of foot	Foot/Ankle	diagnosis	Cancer
+380093012	 24 	Sarcoma of bone and connective tissue	Other	diagnosis	Cancer
+729431000006111	 21 	Malig neop of connective and soft tissue of pelvis NOS	Hip/Pelvis	diagnosis	Cancer
+60196010	 11,481 	Chondromalacia patellae	Knee	diagnosis	Chondromalacia
+312243018	 133 	Chondromalacia	Other	diagnosis	Chondromalacia
+206425010	 1,196 	Complex regional pain syndrome	Multiple	diagnosis	Complex regional pain
+2214301000000116	 503 	Chronic regional pain syndrome	Other	diagnosis	Complex regional pain
+495737017	 393 	Complex regional pain syndrome type I	Multiple	diagnosis	Complex regional pain
+14091391000006118	 262 	Reflex sympathetic dystrophy	Other	diagnosis	Complex regional pain
+2477180015	 104 	Complex regional pain syndrome type II	Multiple	diagnosis	Complex regional pain
+186201000006114	 99 	Reflex sympathetic dystrophy	Other	diagnosis	Complex regional pain
+6766451000006118	 33 	CRPS - Complex regional pain syndrome type II	Multiple	diagnosis	Complex regional pain
+95473010	 1,020 	Carpal tunnel syndrome	Wrist	diagnosis	CTS
+497880019	 118 	CTS - Carpal tunnel syndrome	Wrist	diagnosis	CTS
+36573015	 504 	de Quervain's disease	Hand	diagnosis	de Quervain's disease
+1777678019	 1,708 	Ehlers-Danlos syndrome	Other	diagnosis	Ehlers-Danos syndrome
+709441000006113	 919 	Fibromyalgia	Multiple	diagnosis	Fibromyalgia
+41386013	 309 	Fibromyalgia	Multiple	diagnosis	Fibromyalgia
+794581000006117	 685 	Freiberg's disease	Foot/Ankle	diagnosis	Freiberg's disease
+2551985013	 621 	Developmental dysplasia of the hip	Hip/Pelvis	diagnosis	Hip dysplasia
+633361000006118	 379 	Congenital dysplasia of the hip	Hip/Pelvis	diagnosis	Hip dysplasia
+87820017	 291 	Congenital hip dysplasia	Hip/Pelvis	diagnosis	Hip dysplasia
+314445010	 198 	Bilateral dysplastic hip	Hip/Pelvis	diagnosis	Hip dysplasia
+2694858012	 129 	Congenital acetabular dysplasia	Hip/Pelvis	diagnosis	Hip dysplasia
+314444014	 80 	Unilateral dysplastic hip	Hip/Pelvis	diagnosis	Hip dysplasia
+192631000006118	 219 	Reactive arthritis	Other	diagnosis	Infective arthritis
+179891000006115	 62 	Reiter's disease	Other	diagnosis	Infective arthritis
+312510018	 47 	Streptococcal arthritis	Other	diagnosis	Infective arthritis
+309572012	 40 	Reactive arthropathy of knee	Knee	diagnosis	Infective arthritis
+495040011	 27 	Pyogenic arthritis	Other	diagnosis	Infective arthritis
+111690011	 26 	Reiter's syndrome	Other	diagnosis	Infective arthritis
+309570016	 25 	Reactive arthropathy of hip	Hip/Pelvis	diagnosis	Infective arthritis
+312513016	 16 	[X]Other reactive arthropathies	Other	diagnosis	Infective arthritis
+309574013	 14 	Reactive arthropathy of ankle	Foot/Ankle	diagnosis	Infective arthritis
+56659013	 13 	Lyme arthritis	Other	diagnosis	Infective arthritis
+400159012	 11 	Pyogenic arthritis of the pelvic region and thigh	Hip/Pelvis	diagnosis	Infective arthritis
+309829012	 6,702 	Juvenile arthritis	Other	diagnosis	Juvenile/Inflamm arthritis
+755441000006119	 1,879 	Juvenile rheumatoid arthritis - Still's disease	Other	diagnosis	Juvenile/Inflamm arthritis
+5139361000006116	 1,442 	Juvenile chronic arthritis	Other	diagnosis	Juvenile/Inflamm arthritis
+116082011	 911 	Rheumatoid arthritis	Other	diagnosis	Juvenile/Inflamm arthritis
+125937016	 853 	Acute polyarticular juvenile rheumatoid arthritis	Multiple	diagnosis	Juvenile/Inflamm arthritis
+2472447010	 848 	Juvenile rheumatoid arthritis	Other	diagnosis	Juvenile/Inflamm arthritis
+309828016	 764 	Juvenile rheumatoid arthritis NOS	Other	diagnosis	Juvenile/Inflamm arthritis
+123542016	 683 	Pauciarticular juvenile rheumatoid arthritis	Other	diagnosis	Juvenile/Inflamm arthritis
+312523013	 579 	[X]Other juvenile arthritis	Other	diagnosis	Juvenile/Inflamm arthritis
+2196791000000119	 520 	Rheumatoid arthritis annual review	Other	diagnosis	Juvenile/Inflamm arthritis
+221661000006114	 435 	Inflammatory polyarthritis	Multiple	diagnosis	Juvenile/Inflamm arthritis
+359310019	 293 	Juvenile arthritis in psoriasis	Other	diagnosis	Juvenile/Inflamm arthritis
+219011000000115	 237 	Rheumatology disorder monitoring	Other	diagnosis	Juvenile/Inflamm arthritis
+502690012	 230 	Pauciarticular onset juvenile chronic arthritis	Other	diagnosis	Juvenile/Inflamm arthritis
+359292012	 205 	Seronegative rheumatoid arthritis	Other	diagnosis	Juvenile/Inflamm arthritis
+559621000000119	 189 	Suspected inflammatory arthritis	Other	diagnosis	Juvenile/Inflamm arthritis
+394571000006116	 178 	Chronic arthritis of juvenile onset	Other	diagnosis	Juvenile/Inflamm arthritis
+2159844013	 150 	Rheumatoid arthritis particle agglutination test	Other	diagnosis	Juvenile/Inflamm arthritis
+2558271000006115	 127 	Inflammatory arthritis	Other	diagnosis	Juvenile/Inflamm arthritis
+2548331017	 99 	Inflammatory polyarthropathy	Multiple	diagnosis	Juvenile/Inflamm arthritis
+311040011	 99 	Inflammatory spondylopathies	Back	diagnosis	Juvenile/Inflamm arthritis
+219271000000117	 99 	Seronegative arthritis	Other	diagnosis	Juvenile/Inflamm arthritis
+84036012	 93 	Palindromic rheumatism	Multiple	diagnosis	Juvenile/Inflamm arthritis
+168751000006115	 86 	Rheumatoid arthritis and other inflammatory polyarthropathy	Other	diagnosis	Juvenile/Inflamm arthritis
+2275671000000111	 63 	Rheumatoid arthritis monitoring invitation first letter	Other	diagnosis	Juvenile/Inflamm arthritis
+889841000006113	 63 	Still's disease - juvenile R.A	Other	diagnosis	Juvenile/Inflamm arthritis
+309850015	 59 	Inflammatory polyarthropathy NOS	Multiple	diagnosis	Juvenile/Inflamm arthritis
+309827014	 46 	Monarticular juvenile rheumatoid arthritis	Other	diagnosis	Juvenile/Inflamm arthritis
+311690014	 45 	Muscular rheumatism	Other	diagnosis	Juvenile/Inflamm arthritis
+149911000006117	 39 	Seropositive rheumatoid arthritis	Other	diagnosis	Juvenile/Inflamm arthritis
+219021000000114	 34 	Rheumatoid arthritis monitoring	Other	diagnosis	Juvenile/Inflamm arthritis
+309824019	 33 	Juvenile rheumatoid arthropathy unspecified	Other	diagnosis	Juvenile/Inflamm arthritis
+401537011	 33 	Rheumatism monitoring	Other	diagnosis	Juvenile/Inflamm arthritis
+1142861000000114	 30 	Rheumatology disorder annual review	Other	diagnosis	Juvenile/Inflamm arthritis
+2275711000000112	 26 	Rheumatoid arthritis monitoring invitation second letter	Other	diagnosis	Juvenile/Inflamm arthritis
+311044019	 24 	Other inflammatory spondylopathies NOS	Back	diagnosis	Juvenile/Inflamm arthritis
+309816012	 23 	Flare of rheumatoid arthritis	Other	diagnosis	Juvenile/Inflamm arthritis
+4809281000006113	 20 	Systemic onset juvenile chronic arthritis	Other	diagnosis	Juvenile/Inflamm arthritis
+463301000006112	 20 	Adult-onset Still's disease	Other	diagnosis	Juvenile/Inflamm arthritis
+2549731014	 20 	Undifferentiated inflammatory arthritis	Other	diagnosis	Juvenile/Inflamm arthritis
+1785082014	 15 	Rheumatic pain	Other	diagnosis	Juvenile/Inflamm arthritis
+311688013	 15 	Rheumatism	Other	diagnosis	Juvenile/Inflamm arthritis
+162381000006114	 15 	Rheumatol.dis. monitoring NOS	Other	diagnosis	Juvenile/Inflamm arthritis
+215551000000114	 14 	Sero negative polyarthritis	Multiple	diagnosis	Juvenile/Inflamm arthritis
+2275751000000111	 13 	Rheumatoid arthritis monitoring invitation third letter	Other	diagnosis	Juvenile/Inflamm arthritis
+1777368010	 346 	Avascular necrosis of bone	Other	diagnosis	Necrosis
+312195017	 187 	Avascular necrosis of the head of femur	Hip/Pelvis	diagnosis	Necrosis
+312701012	 55 	Osteonecrosis	Other	diagnosis	Necrosis
+312202018	 43 	Avascular necrosis of other bone	Other	diagnosis	Necrosis
+312209010	 28 	Avascular bone necrosis NOS	Other	diagnosis	Necrosis
+7298861000006114	 22 	Avascular necrosis of bone of hip	Hip/Pelvis	diagnosis	Necrosis
+312193012	 15 	Avascular necrosis of bone, site unspecified	Other	diagnosis	Necrosis
+312199011	 11 	Avascular necrosis of the talus	Foot/Ankle	diagnosis	Necrosis
+3672071000006112	 2,491 	Osgood Schlatter disease	Knee	diagnosis	Osgood Schlatter
+309972017	 604 	Osteoarthritis of multiple joints	Multiple	diagnosis	Osteoarthritis
+1776248011	 88 	Osteoarthritis	Other	diagnosis	Osteoarthritis
+221521000000114	 85 	Osteoarthritis of knee	Knee	diagnosis	Osteoarthritis
+265841000006115	 44 	Oligoarticular osteoarthritis, unspec, of unspecified sites	Other	diagnosis	Osteoarthritis
+221511000000115	 32 	Osteoarthritis of hip	Hip/Pelvis	diagnosis	Osteoarthritis
+310020013	 30 	Osteoarthritis NOS, of hip	Hip/Pelvis	diagnosis	Osteoarthritis
+41281000006113	 29 	Osteoarthritis NOS	Other	diagnosis	Osteoarthritis
+310024016	 28 	Osteoarthritis NOS, of knee	Knee	diagnosis	Osteoarthritis
+240071000006115	 21 	Patellofemoral osteoarthritis	Knee	diagnosis	Osteoarthritis
+265861000006116	 20 	Oligoarticular osteoarthritis, unspecified, multiple sites	Multiple	diagnosis	Osteoarthritis
+823951000006111	 18 	Hip osteoarthitis NOS	Hip/Pelvis	diagnosis	Osteoarthritis
+309979014	 18 	Oligoarticular osteoarthritis, unspecified, of lower leg	Leg	diagnosis	Osteoarthritis
+264501000006118	 18 	Oligoarticular osteoarthritis, unspecified, other spec sites	Other	diagnosis	Osteoarthritis
+41261000006115	 11 	Osteoarthritis and allied disorders	Other	diagnosis	Osteoarthritis
+40971000006113	 49,658 	Juvenile osteochondrosis of tibial tubercle	Knee	diagnosis	Osteochondropathy
+145941000006116	 8,093 	Osteochondritis of the calcaneum	Foot/Ankle	diagnosis	Osteochondropathy
+136950019	 983 	Osteochondritis dissecans	Other	diagnosis	Osteochondropathy
+400335012	 963 	Osteochondritis	Other	diagnosis	Osteochondropathy
+142291000006114	 702 	Sinding - Larsen's disease - osteochondrosis of the secondary patella centre	Knee	diagnosis	Osteochondropathy
+461541016	 351 	[Q] Osteochondral	Other	diagnosis	Osteochondropathy
+289841000006115	 273 	Juvenile osteochondrosis of lower extremity	Leg	diagnosis	Osteochondropathy
+400326017	 267 	Juvenile osteochondritis of the hip and pelvis	Hip/Pelvis	diagnosis	Osteochondropathy
+312091011	 238 	Juvenile osteochondritis	Other	diagnosis	Osteochondropathy
+31121000006117	 198 	Osteochondritis of knee	Knee	diagnosis	Osteochondropathy
+485824011	 152 	Kohler's disease - osteochondrosis of tarsal navicular	Foot/Ankle	diagnosis	Osteochondropathy
+312096018	 144 	Other osteochondritis dissecans of knee	Knee	diagnosis	Osteochondropathy
+312076014	 127 	Juvenile osteochondrosis of the secondary patellar centre	Knee	diagnosis	Osteochondropathy
+504088011	 121 	Tibial tubercle juvenile osteochondritis	Leg	diagnosis	Osteochondropathy
+18211000006119	 106 	Osteochondritis dissecans of the lateral femoral condyle	Leg	diagnosis	Osteochondropathy
+40491000006115	 105 	Osteochondrosis NOS	Other	diagnosis	Osteochondropathy
+312085014	 72 	Iselin's disease - osteochondrosis of fifth metatarsal	Foot/Ankle	diagnosis	Osteochondropathy
+221761000000112	 69 	Osteochondropathies	Other	diagnosis	Osteochondropathy
+312098017	 52 	Osteochondritis dissecans of the capitellum	Elbow	diagnosis	Osteochondropathy
+18231000006113	 48 	Osteochondritis dissecans of the patella	Knee	diagnosis	Osteochondropathy
+312103015	 44 	Osteochondritis dissecans of the talus	Foot/Ankle	diagnosis	Osteochondropathy
+400330019	 42 	Panner's disease - osteochondritis of capitulum of humerus	Arm	diagnosis	Osteochondropathy
+496648012	 35 	Juvenile osteochondritis of the spine	Back	diagnosis	Osteochondropathy
+312092016	 35 	Juvenile osteochondrosis NOS	Other	diagnosis	Osteochondropathy
+88796014	 32 	Juvenile osteochondrosis of spine	Back	diagnosis	Osteochondropathy
+312100017	 30 	Other osteochondritis dissecans of the elbow	Elbow	diagnosis	Osteochondropathy
+505902017	 28 	Osteochondritis of the carpal lunate	Wrist	diagnosis	Osteochondropathy
+40471000006116	 26 	Osteochondropathy	Other	diagnosis	Osteochondropathy
+892351000006110	 23 	Juvenile osteochond-hip/pelvis	Hip/Pelvis	diagnosis	Osteochondropathy
+312079019	 21 	Juvenile osteochondrosis of the foot	Foot/Ankle	diagnosis	Osteochondropathy
+312104014	 21 	Osteochondritis dissecans of other site	Other	diagnosis	Osteochondropathy
+310971013	 19 	Synovial osteochondromatosis of knee	Knee	diagnosis	Osteochondropathy
+310963014	 17 	Synovial osteochondromatosis of elbow	Elbow	diagnosis	Osteochondropathy
+4820611000006117	 16 	Iselin's disease	Foot/Ankle	diagnosis	Osteochondropathy
+359825012	 16 	Osteochondrodysplasia	Other	diagnosis	Osteochondropathy
+312087018	 13 	Juvenile osteochondrosis of the foot NOS	Foot/Ankle	diagnosis	Osteochondropathy
+892391000006116	 13 	Osteochond dissecans	Other	diagnosis	Osteochondropathy
+312112018	 13 	Osteochondropathy NOS	Other	diagnosis	Osteochondropathy
+404201000006115	 562 	Osteopenia	Other	diagnosis	Osteopenia
+360303015	 2,926 	Perthes' disease - osteochondritis of the femoral head	Hip/Pelvis	diagnosis	Perthes Disease
+221771000000117	 184 	Calve - Perthes' disease	Hip/Pelvis	diagnosis	Perthes Disease
+4193131000006114	 113 	Legg-Calve-Perthes disease	Leg	diagnosis	Perthes Disease
+311132015	 284 	Prolapsed lumbar intervertebral disc	Back	diagnosis	Prolapsed disc
+359855017	 231 	Intervertebral disc prolapse	Back	diagnosis	Prolapsed disc
+311168013	 133 	Lumbar disc prolapse with radiculopathy	Back	diagnosis	Prolapsed disc
+733681000006111	 72 	Lumbar disc displacement	Back	diagnosis	Prolapsed disc
+455431014	 26 	Prolapsed lumbar intervertebral disc with sciatica	Back	diagnosis	Prolapsed disc
+461573010	 23 	[Q] Central disc prolapse	Other	diagnosis	Prolapsed disc
+311164010	 17 	Cervical disc prolapse with radiculopathy	Neck	diagnosis	Prolapsed disc
+311163016	 15 	Disc prolapse with radiculopathy	Back	diagnosis	Prolapsed disc
+311162014	 12 	Lumbar disc prolapse with myelopathy	Back	diagnosis	Prolapsed disc
+311320010	 279 	Rotator cuff syndrome	Shoulder	diagnosis	Rotator cuff syndrome
+400295013	 130 	Rotator cuff syndrome, unspecified	Shoulder	diagnosis	Rotator cuff syndrome
+400296014	 129 	Rotator cuff syndrome NOS	Shoulder	diagnosis	Rotator cuff syndrome
+38727013	 2,559 	Sciatica	Back	diagnosis	Sciatica
+311252013	 744 	Lumbago with sciatica	Back	diagnosis	Sciatica
+369379014	 669 	Acute back pain with sciatica	Back	diagnosis	Sciatica
+309413012	 500 	Scleroderma	Other	diagnosis	Scleroderma
+312420013	 7,402 	Idiopathic scoliosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312419019	 7,230 	Kyphoscoliosis and scoliosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312428018	 4,139 	Adolescent idiopathic scoliosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312598012	 3,975 	Scoliosis deformity of spine	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312426019	 1,812 	Postural scoliosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+106745019	 1,659 	Curvature of spine	Back	diagnosis	Scoliosis/kyphosis/lordosis
+88799019	 1,366 	Scheuermann's disease	Back	diagnosis	Scoliosis/kyphosis/lordosis
+1772881000006115	 1,359 	Scoliosis of thoracic spine	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312431017	 1,265 	Kyphoscoliosis or scoliosis NOS	Back	diagnosis	Scoliosis/kyphosis/lordosis
+2532921014	 728 	Acquired kyphosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+121239018	 701 	Thoracogenic scoliosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312438011	 649 	Scoliosis associated with other condition	Back	diagnosis	Scoliosis/kyphosis/lordosis
+122060015	 471 	Adolescent postural kyphosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312597019	 260 	Acquired scoliosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+118450012	 248 	Congenital kyphosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312594014	 228 	Kyphosis deformity of spine	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312607015	 176 	Lordosis deformity of spine	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312421012	 161 	Idiopathic kyphoscoliosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+38401000006113	 158 	Other and unspecified kyphosis	Other	diagnosis	Scoliosis/kyphosis/lordosis
+312596011	 121 	[X]Other idiopathic scoliosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+734501000006118	 118 	Lordosis, unspecified	Back	diagnosis	Scoliosis/kyphosis/lordosis
+74984010	 105 	Acquired lordosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+97064010	 91 	Acquired postural kyphosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+605021000006115	 79 	Curvature of spine NOS	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312414012	 77 	Acquired kyphosis NOS	Neck	diagnosis	Scoliosis/kyphosis/lordosis
+752841000006112	 70 	Kyphoscoliosis deformity of spine	Back	diagnosis	Scoliosis/kyphosis/lordosis
+5852251000006112	 66 	Scoliosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312435014	 55 	Curvature of spine, unspecified	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312436010	 52 	Kyphosis associated with other condition	Back	diagnosis	Scoliosis/kyphosis/lordosis
+41723017	 50 	Congenital postural lordosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312595010	 38 	[X]Other lordosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312429014	 35 	Post-surgical scoliosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+400353018	 30 	Curvature of spine associated with other conditions	Back	diagnosis	Scoliosis/kyphosis/lordosis
+26185013	 27 	Acquired postural lordosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312453015	 27 	Other curvatures of spine	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312445011	 27 	Scoliosis in skeletal dysplasia	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312456011	 21 	Curvature of spine NOS	Back	diagnosis	Scoliosis/kyphosis/lordosis
+35274016	 19 	Progressive infantile idiopathic scoliosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312447015	 13 	Scoliosis in neurofibromatosis	Back	diagnosis	Scoliosis/kyphosis/lordosis
+312430016	 12 	Scoliosis secondary to other treatment	Back	diagnosis	Scoliosis/kyphosis/lordosis
+2881271000006115	 1,402 	Sever's disease	Foot/Ankle	diagnosis	Sever's disease
+359432012	 198 	Lumbar spondylosis	Back	diagnosis	Spondylosis
+130001000006111	 123 	Spondylosis	Back	diagnosis	Spondylosis
+400266016	 52 	Spondylosis and allied disorders	Back	diagnosis	Spondylosis
+1481870016	 44 	Cervical spondylosis	Neck	diagnosis	Spondylosis
+400267013	 23 	Cervical spondylosis without myelopathy	Neck	diagnosis	Spondylosis
+80324016	 12 	Lumbosacral spondylosis without myelopathy	Back	diagnosis	Spondylosis
+400271011	 12 	Spondylosis NOS	Back	diagnosis	Spondylosis
+1481872012	 12 	Thoracic spondylosis	Back	diagnosis	Spondylosis
+108811000006114	 14,337 	Temporomandibular joint disorder	Head	diagnosis	Temporomandibular joint disorder
+1480387016	 2,293 	Temporomandibular joint pain dysfunction syndrome	Head	diagnosis	Temporomandibular joint disorder
+302130018	 551 	Temporomandibular joint disorder NOS	Head	diagnosis	Temporomandibular joint disorder
+6451641000006112	 65 	TMJPDS - Temporomandibular joint pain dysfunction syndrome	Head	diagnosis	Temporomandibular joint disorder
+108791000006110	 40 	Temporomandibular joint internal derangement	Head	diagnosis	Temporomandibular joint disorder
+885611000006111	 22 	Temporomandibular joint dis.	Head	diagnosis	Temporomandibular joint disorder
+693461000006115	 34,160 	Musculoskeletal and connective tissue diseases	Other	diagnosis	Other
+311385019	 17,874 	Plantar fasciitis	Foot/Ankle	diagnosis	Other
+141799013	 17,386 	Hypermobility syndrome	Multiple	diagnosis	Other
+312729010	 11,225 	Musculoskeletal and connective tissue disorder	Other	diagnosis	Other
+359206015	 2,096 	Patellofemoral disorder	Knee	diagnosis	Other
+587351000006110	 1,927 	Non-traumatic slipped upper femoral epiphysis	Hip/Pelvis	diagnosis	Other
+628221000006110	 1,342 	Generalised benign joint hypermobility	Other	diagnosis	Other
+745601000006117	 956 	Irritable hip	Hip/Pelvis	diagnosis	Other
+297602013	 659 	Muscular dystrophies and other myopathies	Other	diagnosis	Other
+311041010	 617 	Sacroiliitis	Back	diagnosis	Other
+443295011	 473 	Irritable hip	Hip/Pelvis	diagnosis	Other
+784571000006116	 348 	Impingement syndrome of shoulder region	Shoulder	diagnosis	Other
+518891000006113	 277 	Blount's disease	Knee	diagnosis	Other
+1816911000006113	 271 	Irritable hip	Hip/Pelvis	diagnosis	Other
+359863016	 255 	Spondylolysis	Back	diagnosis	Other
+221451000000115	 228 	Connective tissue disease	Other	diagnosis	Other
+733661000006118	 222 	Degeneration of lumbar intervertebral disc	Back	diagnosis	Other
+150085018	 222 	Gout	Other	diagnosis	Other
+7912010	 208 	Osteomalacia	Other	diagnosis	Other
+312188014	 187 	Fibrous cortical defect	Other	diagnosis	Other
+587321000006118	 166 	Non-traumatic acute slipped upper femoral epiphysis	Hip/Pelvis	diagnosis	Other
+369383014	 165 	Facet joint syndrome	Back	diagnosis	Other
+1770781000006114	 162 	Impingement syndrome of hip	Hip/Pelvis	diagnosis	Other
+2923791000006111	 152 	Slipped upper femoral epiphysis	Hip/Pelvis	diagnosis	Other
+1786699016	 151 	Frozen shoulder	Shoulder	diagnosis	Other
+1591381000006114	 148 	Mixed connective tissue disease	Other	diagnosis	Other
+2767377016	 126 	Femoroacetabular impingement	Hip/Pelvis	diagnosis	Other
+742361000006117	 124 	Irritable hip	Hip/Pelvis	diagnosis	Other
+311336012	 107 	Subacromial impingement	Shoulder	diagnosis	Other
+444834014	 103 	Osteoma	Other	diagnosis	Other
+44918014	 85 	Antiphospholipid syndrome	Other	diagnosis	Other
+219651000000111	 82 	Adhesive capsulitis of shoulder	Shoulder	diagnosis	Other
+587341000006113	 82 	Non traumatic chronic slipped upper femoral epiphysis	Hip/Pelvis	diagnosis	Other
+147833014	 80 	Systemic sclerosis	Other	diagnosis	Other
+148958019	 76 	Monostotic fibrous dysplasia	Other	diagnosis	Other
+311389013	 74 	Anterior ankle impingement	Foot/Ankle	diagnosis	Other
+1234731016	 71 	Fibrodysplasia ossificans congenita	Other	diagnosis	Other
+311186011	 66 	Lumbar discitis	Back	diagnosis	Other
+93418010	 65 	Cubital tunnel syndrome	Wrist	diagnosis	Other
+611421000006111	 65 	Degeneration of lumbar spine	Back	diagnosis	Other
+40641000006114	 65 	Osteoma	Other	diagnosis	Other
+311335011	 63 	Scapulohumeral fibrositis	Shoulder	diagnosis	Other
+136731000006115	 59 	Slipped radial epiphysis	Wrist	diagnosis	Other
+311141013	 56 	Degenerative disc disease	Back	diagnosis	Other
+693491000006111	 55 	Musculoskeletal or connective tissue diseases OS	Other	diagnosis	Other
+30978014	 51 	Lumbar spinal stenosis	Back	diagnosis	Other
+587331000006115	 44 	Non traumatic acute-on-chronic slipped upp femoral epiphysis	Hip/Pelvis	diagnosis	Other
+207904011	 44 	Piriformis syndrome	Hip/Pelvis	diagnosis	Other
+7967011	 34 	Degenerative spondylolisthesis	Other	diagnosis	Other
+892361000006112	 30 	Slipped femoral epiphysis-uppr	Hip/Pelvis	diagnosis	Other
+143197013	 28 	Bertolotti's syndrome	Back	diagnosis	Other
+82541000006118	 28 	Tuberculosis of vertebral column	Back	diagnosis	Other
+543561000006117	 25 	Degeneration of cervical intervertebral disc	Neck	diagnosis	Other
+502473014	 24 	Slipped intervertebral disc	Back	diagnosis	Other
+512110018	 23 	Tendon sheath giant cell tumor	Other	diagnosis	Other
+137233019	 21 	Progressive myositis ossificans	Other	diagnosis	Other
+106931000006114	 21 	Thoracolumbar ankylosis	Back	diagnosis	Other
+444889012	 20 	Keratoconjunctivitis sicca	Other	diagnosis	Other
+106481000006117	 20 	Degeneration of thoracic intervertebral disc	Back	diagnosis	Other
+757071000006113	 20 	Joint degeneration	Other	diagnosis	Other
+78977014	 17 	Tarsal tunnel syndrome	Foot/Ankle	diagnosis	Other
+147834015	 14 	Progressive systemic sclerosis	Other	diagnosis	Other
+309433011	 12 	Collagen disease	Other	diagnosis	Other
+312466015	 12 	Dysplastic spondylolisthesis	Other	diagnosis	Other
+120088018	 12 	Relapsing polychondritis	Multiple	diagnosis	Other
+893411000006112	 12 	Spine anomaly - congenital	Back	diagnosis	Other
+1494889019	 12 	Tuberculosis of bones and joints	Other	diagnosis	Other
+51875014	 228,630 	Knee pain	Knee	neither	N/A
+416139010	 115,770 	Low back pain	Back	neither	N/A
+764321000006112	 81,707 	Foot pain	Foot/Ankle	neither	N/A
+483791000006115	 57,837 	Ankle pain	Foot/Ankle	neither	N/A
+81982015	 55,430 	Hip pain	Hip/Pelvis	neither	N/A
+215271000000119	 52,679 	Neck pain	Neck	neither	N/A
+317435015	 44,983 	Musculoskeletal chest pain	Chest	neither	N/A
+501991000006110	 44,603 	Back pain	Back	neither	N/A
+140741000006112	 44,381 	Shoulder pain	Shoulder	neither	N/A
+18423015	 39,216 	Leg pain	Leg	neither	N/A
+5621013	 34,016 	Heel pain	Foot/Ankle	neither	N/A
+252311015	 28,931 	Backache	Back	neither	N/A
+252315012	 25,570 	Back pain without radiation NOS	Back	neither	N/A
+424342012	 24,707 	Toe pain	Foot/Ankle	neither	N/A
+317145011	 24,403 	Musculoskeletal pain	Other	neither	N/A
+486291000006115	 24,304 	Anterior knee pain	Knee	neither	N/A
+252314011	 23,691 	C/O - low back pain	Back	neither	N/A
+310825019	 21,977 	Wrist joint pain	Wrist	neither	N/A
+496587018	 21,861 	Flat foot	Foot/Ankle	neither	N/A
+484754019	 20,215 	Knee joint pain	Knee	neither	N/A
+494960013	 20,148 	Foot pain	Foot/Ankle	neither	N/A
+106571018	 19,654 	Costochondritis	Chest	neither	N/A
+20135010	 19,253 	Achilles tendinitis	Foot/Ankle	neither	N/A
+437698016	 15,683 	Rib pain	Chest	neither	N/A
+1222484010	 14,046 	Musculoskeletal symptom	Other	neither	N/A
+221731000000119	 13,983 	Pain in leg	Leg	neither	N/A
+815651000006110	 13,750 	Hand pain	Hand	neither	N/A
+311482017	 13,595 	Ganglion of wrist	Wrist	neither	N/A
+31828016	 13,498 	Finger pain	Hand	neither	N/A
+317574012	 13,408 	Groin pain	Hip/Pelvis	neither	N/A
+1222482014	 13,287 	Generalised aches and pains	Multiple	neither	N/A
+764331000006110	 12,561 	Foot pain	Foot/Ankle	neither	N/A
+248581000006113	 11,890 	Joint pain	Other	neither	N/A
+165844010	 11,415 	Arm pain	Arm	neither	N/A
+443831012	 10,363 	Jaw pain	Head	neither	N/A
+150521017	 10,192 	Pain in limb	Other	neither	N/A
+317103014	 9,875 	[D]Nervous and musculoskeletal symptoms	Other	neither	N/A
+221721000000116	 9,600 	Pain in thumb	Hand	neither	N/A
+1228298012	 9,560 	Arthralgia of multiple joints	Multiple	neither	N/A
+75568012	 9,451 	Shoulder pain	Shoulder	neither	N/A
+405083016	 8,963 	Wry neck/torticollis	Neck	neither	N/A
+165907014	 8,820 	Chest wall pain	Chest	neither	N/A
+114543015	 8,658 	Muscle pain	Other	neither	N/A
+369388017	 8,448 	Ankle pain	Foot/Ankle	neither	N/A
+502061000006113	 8,192 	Backache symptom	Back	neither	N/A
+94135011	 8,179 	Pain in wrist	Wrist	neither	N/A
+400286017	 7,471 	Backache, unspecified	Back	neither	N/A
+455791000006110	 7,308 	Acute thoracic back pain	Back	neither	N/A
+503862017	 7,300 	Thigh pain	Leg	neither	N/A
+496539011	 6,307 	Hand pain	Hand	neither	N/A
+58058010	 6,295 	Coccygodynia	Back	neither	N/A
+198184013	 6,121 	Hip joint pain	Hip/Pelvis	neither	N/A
+1682431000006119	 5,811 	Wrist pain	Wrist	neither	N/A
+317575013	 5,803 	Loin pain	Hip/Pelvis	neither	N/A
+230261000006118	 5,715 	Acquired pes planus	Foot/Ankle	neither	N/A
+416146018	 5,483 	Mechanical low back pain	Back	neither	N/A
+123426014	 5,246 	Elbow pain	Elbow	neither	N/A
+407053012	 5,194 	C/O - foot symptom	Foot/Ankle	neither	N/A
+710171000006119	 4,643 	Swelling of finger	Hand	neither	N/A
+248531000006112	 4,622 	Pain in arm	Arm	neither	N/A
+400319017	 4,522 	Soft tissue disorder	Other	neither	N/A
+109021000006119	 4,499 	Tendonitis NOS	Other	neither	N/A
+815191000006110	 4,437 	Acquired hallux valgus	Foot/Ankle	neither	N/A
+442156014	 4,380 	Calf pain	Leg	neither	N/A
+400284019	 4,376 	Pain in lumbar spine	Back	neither	N/A
+397897014	 4,310 	Ankle swelling	Foot/Ankle	neither	N/A
+165836010	 4,128 	Cramp in lower limb	Leg	neither	N/A
+310982017	 4,092 	Clicking joint	Other	neither	N/A
+165730010	 4,047 	Growing pains	Other	neither	N/A
+598331000006118	 4,036 	Costochondritis NOS	Chest	neither	N/A
+400283013	 3,956 	Pain in thoracic spine	Back	neither	N/A
+311474017	 3,881 	Ganglion and cyst of synovium, tendon and bursa	Other	neither	N/A
+359208019	 3,858 	Anterior knee pain	Knee	neither	N/A
+252446012	 3,695 	Anterior chest wall pain	Chest	neither	N/A
+345241000000114	 3,689 	Pain in coccyx	Back	neither	N/A
+317265011	 3,629 	Facial pain	Head	neither	N/A
+123425013	 3,546 	Pain in elbow	Elbow	neither	N/A
+39291010	 3,441 	Congenital pes planus	Foot/Ankle	neither	N/A
+693501000006115	 3,401 	Musculoskeletal pain - joints	Multiple	neither	N/A
+853731000006117	 3,254 	Painful right knee	Knee	neither	N/A
+437673017	 3,248 	Ganglion of hand	Hand	neither	N/A
+370925016	 3,217 	Swollen knee	Knee	neither	N/A
+240041000006111	 3,195 	Patellar tendinitis	Knee	neither	N/A
+400314010	 3,187 	Myalgia	Other	neither	N/A
+400281010	 3,043 	Torticollis	Neck	neither	N/A
+454070017	 3,041 	C/O - pain in big toe	Foot/Ankle	neither	N/A
+400300010	 3,040 	Tendinitis	Other	neither	N/A
+490651000006110	 2,991 	Pes planus	Foot/Ankle	neither	N/A
+297707010	 2,873 	Pain in lower limb	Leg	neither	N/A
+484753013	 2,838 	Arthralgia of knee	Knee	neither	N/A
+310840017	 2,825 	Ankle joint pain	Foot/Ankle	neither	N/A
+311394013	 2,795 	Anterior shin splints	Leg	neither	N/A
+637511000006115	 2,681 	Elbow joint pain	Elbow	neither	N/A
+414623018	 2,643 	Swollen toe	Foot/Ankle	neither	N/A
+252296010	 2,587 	Stiff neck	Neck	neither	N/A
+5700371000006119	 2,578 	Pain in toe	Foot/Ankle	neither	N/A
+252316013	 2,569 	C/O - upper back ache	Back	neither	N/A
+411865013	 2,522 	O/E - soft tissue swelling	Other	neither	N/A
+398008014	 2,302 	C/O - a chest wall symptom	Chest	neither	N/A
+415893017	 2,276 	Acute back pain - lumbar	Back	neither	N/A
+437674011	 2,251 	Ganglion of foot	Foot/Ankle	neither	N/A
+116373011	 2,197 	Wry neck	Neck	neither	N/A
+2548690012	 2,180 	Exostosis	Other	neither	N/A
+455801000006111	 2,169 	Acute back pain - unspecified	Back	neither	N/A
+310640019	 2,000 	Effusion of knee	Knee	neither	N/A
+486238018	 1,997 	Multiple joint pain	Multiple	neither	N/A
+624151000006118	 1,777 	Disorder of patella	Knee	neither	N/A
+14156061000006115	 1,774 	Pain of knee region	Knee	neither	N/A
+252294013	 1,757 	Stiff neck symptom	Neck	neither	N/A
+50413010	 1,748 	Tietze's disease	Chest	neither	N/A
+483871000006113	 1,709 	Swollen ankle	Foot/Ankle	neither	N/A
+311380012	 1,688 	Metatarsalgia	Foot/Ankle	neither	N/A
+2476417011	 1,669 	Swollen hand	Hand	neither	N/A
+28870010	 1,660 	Prepatellar bursitis	Knee	neither	N/A
+437603016	 1,656 	Swollen foot	Foot/Ankle	neither	N/A
+76654019	 1,639 	Acquired pectus carinatum	Chest	neither	N/A
+496589015	 1,613 	Fallen arches	Foot/Ankle	neither	N/A
+310995010	 1,558 	Clicking knee	Knee	neither	N/A
+398007016	 1,552 	Symptom: chest wall	Chest	neither	N/A
+123444018	 1,543 	Spasmodic torticollis	Neck	neither	N/A
+13682017	 1,523 	Trochanteric bursitis	Hip/Pelvis	neither	N/A
+1485976019	 1,517 	Acquired pectus excavatum	Chest	neither	N/A
+310992013	 1,507 	Clicking hip	Hip/Pelvis	neither	N/A
+310826018	 1,425 	Arthralgia of wrist	Wrist	neither	N/A
+400305017	 1,392 	Ganglion cyst	Other	neither	N/A
+400280011	 1,390 	Torticollis unspecified	Neck	neither	N/A
+400345014	 1,384 	Flat foot NOS	Foot/Ankle	neither	N/A
+86578011	 1,375 	Acquired genu valgum	Knee	neither	N/A
+415888015	 1,374 	Chronic low back pain	Back	neither	N/A
+2552628011	 1,358 	Aching muscles	Multiple	neither	N/A
+2476418018	 1,342 	Swollen finger	Hand	neither	N/A
+317144010	 1,321 	Growing pains in limbs	Multiple	neither	N/A
+311416012	 1,248 	Synovitis and tenosynovitis	Other	neither	N/A
+734841000006119	 1,241 	Knee locking	Knee	neither	N/A
+114111014	 1,236 	Acquired unequal leg length	Leg	neither	N/A
+215431000000115	 1,212 	Torticollis - symptom	Neck	neither	N/A
+1230691015	 1,209 	Arthralgia of hip	Hip/Pelvis	neither	N/A
+4077121000006117	 1,194 	Inguinal pain	Hip/Pelvis	neither	N/A
+407052019	 1,155 	C/O - ankle symptom	Foot/Ankle	neither	N/A
+620911000006112	 1,115 	Walking disability	Leg	neither	N/A
+310993015	 1,114 	Multiple clicking joints	Multiple	neither	N/A
+136713011	 1,104 	Chronic pain	Other	neither	N/A
+3060241000006112	 1,103 	Pain in the coccyx	Back	neither	N/A
+454068014	 1,100 	C/O - pain in toe	Foot/Ankle	neither	N/A
+311343018	 1,091 	Tennis elbow	Elbow	neither	N/A
+310855014	 1,085 	Arthralgia	Other	neither	N/A
+1573941000006111	 1,078 	Thoracic back pain	Back	neither	N/A
+398010011	 1,069 	Symptom of ankle or foot	Foot/Ankle	neither	N/A
+442155013	 1,066 	Axillary pain	Arm	neither	N/A
+312238013	 1,054 	Clavicle pain	Shoulder	neither	N/A
+459326017	 1,025 	Swollen thumb	Hand	neither	N/A
+14156051000006117	 991 	Pain of joint of knee	Knee	neither	N/A
+46720015	 990 	Laxity of ligament	Other	neither	N/A
+21633013	 979 	Bone pain	Other	neither	N/A
+312274016	 961 	Hammer toe	Foot/Ankle	neither	N/A
+400244011	 944 	Shoulder joint pain	Shoulder	neither	N/A
+753081000006115	 926 	Knock-kneed	Knee	neither	N/A
+939761000006119	 921 	Musculoskeletal pain mild	Other	neither	N/A
+251922014	 915 	Chest wall tenderness	Chest	neither	N/A
+310639016	 897 	Knee joint effusion	Knee	neither	N/A
+137150010	 893 	Baker's cyst	Knee	neither	N/A
+494319014	 882 	Retrosternal pain	Chest	neither	N/A
+416149013	 865 	Pain in buttock	Hip/Pelvis	neither	N/A
+310271019	 859 	Patellofemoral maltracking	Knee	neither	N/A
+91936014	 857 	Cramp	Other	neither	N/A
+87741000006114	 853 	Acquired trigger finger	Hand	neither	N/A
+252450017	 841 	Costal margin chest pain	Chest	neither	N/A
+749561000006115	 825 	Lateral epicondylitis of elbow	Elbow	neither	N/A
+512242016	 806 	Pain in face	Head	neither	N/A
+312116015	 794 	Apophysitis	Other	neither	N/A
+2673129012	 788 	Olecranon bursitis	Elbow	neither	N/A
+402553012	 779 	O/E - soft tissue abnormality	Other	neither	N/A
+317086019	 772 	[D]Pain, generalized	Multiple	neither	N/A
+54781000006115	 768 	Wry neck symptom	Neck	neither	N/A
+582641000006117	 767 	Congenital valgus deformity of knee	Knee	neither	N/A
+158058014	 730 	Intercostal myalgia	Other	neither	N/A
+400251019	 714 	Arthralgia of the ankle and foot	Foot/Ankle	neither	N/A
+891891000006116	 699 	Pain in left leg	Leg	neither	N/A
+598311000006112	 698 	Costochondral joint syndrome	Chest	neither	N/A
+400250018	 694 	Arthralgia of the lower leg	Leg	neither	N/A
+891881000006119	 694 	Pain in right leg	Leg	neither	N/A
+14153011	 682 	Bunionette	Foot/Ankle	neither	N/A
+507071014	 675 	Claw toe - acquired	Foot/Ankle	neither	N/A
+311455013	 658 	Transient synovitis	Other	neither	N/A
+416143014	 658 	Lumbago	Back	neither	N/A
+251425018	 655 	Pain in upper limb	Arm	neither	N/A
+605971000006115	 654 	Bone cyst	Other	neither	N/A
+807451000006115	 654 	Growing pains symptom	Other	neither	N/A
+312599016	 645 	Spinal fusion	Back	neither	N/A
+373033016	 640 	Knee gives way	Knee	neither	N/A
+359560012	 626 	Tenosynovitis of wrist	Wrist	neither	N/A
+310997019	 617 	Clicking ankle	Foot/Ankle	neither	N/A
+130158018	 617 	Ganglion of joint	Other	neither	N/A
+372654019	 616 	Pes cavus	Foot/Ankle	neither	N/A
+311744014	 595 	Tender heel pad	Foot/Ankle	neither	N/A
+312303013	 591 	Persistent femoral anteversion	Hip/Pelvis	neither	N/A
+310803013	 587 	Hand joint pain	Hand	neither	N/A
+400297017	 583 	Bursitis of knee	Knee	neither	N/A
+75415016	 581 	Infrapatellar bursitis	Knee	neither	N/A
+310940016	 581 	Knee joint finding	Knee	neither	N/A
+5887131000006115	 566 	Pain in calf	Leg	neither	N/A
+713261000006110	 562 	Medial epicondylitis of elbow	Elbow	neither	N/A
+400301014	 546 	Exostosis of unspecified site	Other	neither	N/A
+400304018	 545 	Bursitis	Other	neither	N/A
+400302019	 530 	Tenosynovitis	Hand	neither	N/A
+2649445015	 529 	Iliotibial band friction syndrome	Leg	neither	N/A
+454069018	 527 	C/O - pain in hallux	Foot/Ankle	neither	N/A
+400289012	 525 	Disorder of back	Back	neither	N/A
+372797015	 520 	Stiff neck NOS	Neck	neither	N/A
+310792015	 517 	Arthralgia of unspecified site	Other	neither	N/A
+317427018	 515 	[D]Anterior chest wall pain	Chest	neither	N/A
+318040019	 490 	[X]Other chronic pain	Multiple	neither	N/A
+111967016	 484 	Instability of joint	Other	neither	N/A
+2579112017	 478 	C/O - lumbar pain	Back	neither	N/A
+221671000006119	 476 	Polyarthropathy	Multiple	neither	N/A
+312265018	 474 	Hypermobile flat foot	Foot/Ankle	neither	N/A
+310856010	 469 	Joint stiffness	Other	neither	N/A
+312294013	 468 	Flexion deformity of finger	Hand	neither	N/A
+452701000006110	 468 	Ache in joint	Other	neither	N/A
+891901000006117	 465 	Pain in right arm	Arm	neither	N/A
+334283017	 464 	Achilles bursitis	Foot/Ankle	neither	N/A
+310802015	 463 	Arthralgia of the hand	Hand	neither	N/A
+311686012	 463 	Other soft tissue disorders	Other	neither	N/A
+132837018	 460 	Swelling of limb	Other	neither	N/A
+2968012	 450 	Locked knee	Knee	neither	N/A
+311701010	 450 	Myositis	Other	neither	N/A
+311681019	 438 	Spasm of back muscles	Back	neither	N/A
+407048019	 434 	C/O - a back symptom	Hip/Pelvis	neither	N/A
+800781000006116	 434 	Generalised aches and pains	Multiple	neither	N/A
+20001010	 429 	Snapping hip	Hip/Pelvis	neither	N/A
+256003019	 423 	O/E - finger joint abnormal	Hand	neither	N/A
+406696011	 421 	Swollen joint	Other	neither	N/A
+400318013	 416 	Finding of limb structure	Other	neither	N/A
+256013010	 412 	O/E - joint swelling	Other	neither	N/A
+253293011	 412 	Symptom: lower limb	Leg	neither	N/A
+493021000006115	 411 	Arthropathy NOS	Other	neither	N/A
+140831000006110	 410 	Shoulder tendonitis	Shoulder	neither	N/A
+1784692011	 409 	Juvenile dermatomyositis	Other	neither	N/A
+453781000006111	 408 	Acquired deformity of toe	Foot/Ankle	neither	N/A
+1232667017	 406 	Acquired cavovarus foot deformity	Foot/Ankle	neither	N/A
+5606021000006110	 403 	Toe swelling	Foot/Ankle	neither	N/A
+359759017	 394 	Costochondritis NOS	Chest	neither	N/A
+493439016	 381 	Trigger thumb	Hand	neither	N/A
+80525019	 381 	Congenital dislocation of hip	Hip/Pelvis	neither	N/A
+5669011	 370 	Joint crepitus	Other	neither	N/A
+311417015	 365 	Synovitis or tenosynovitis NOS	Other	neither	N/A
+32624019	 362 	Ganglion of tendon sheath	Other	neither	N/A
+496608016	 361 	Golfer's elbow	Elbow	neither	N/A
+311485015	 344 	Ganglion of ankle	Foot/Ankle	neither	N/A
+411303010	 343 	Short Achilles tendon	Foot/Ankle	neither	N/A
+312465016	 342 	Acquired spondylolisthesis	Back	neither	N/A
+311325017	 339 	Supraspinatus tendinitis	Shoulder	neither	N/A
+5836761000006118	 332 	Foot swelling	Foot/Ankle	neither	N/A
+5861961000006118	 328 	Swelling of hand	Hand	neither	N/A
+311279012	 327 	Coccyx disorder NOS	Back	neither	N/A
+764251000006114	 324 	Foot-drop	Foot/Ankle	neither	N/A
+311445014	 318 	Extensor tenosynovitis of wrist	Wrist	neither	N/A
+892611000006119	 316 	Flat foot - pes planus	Foot/Ankle	neither	N/A
+400905013	 312 	Longitudinal deficiency of lower limb	Leg	neither	N/A
+253258016	 308 	C/O: stiffness	Other	neither	N/A
+310246017	 301 	Discoid lateral meniscus	Knee	neither	N/A
+311272015	 301 	Sacroiliac disorder	Back	neither	N/A
+402551014	 301 	O/E - shoulder joint abnormal	Shoulder	neither	N/A
+523531000006112	 299 	Boutonniere deformity of finger	Hand	neither	N/A
+451408018	 291 	O/E - Right foot deformity	Foot/Ankle	neither	N/A
+2725761000000117	 291 	Pain in upper arm	Arm	neither	N/A
+400259017	 288 	Joint problem	Other	neither	N/A
+312286018	 287 	Acquired toe deformity NOS	Foot/Ankle	neither	N/A
+400245012	 284 	Arthralgia of the shoulder region	Shoulder	neither	N/A
+91871010	 276 	Calcaneal spur	Foot/Ankle	neither	N/A
+2475502016	 276 	Crick in neck	Neck	neither	N/A
+1481722018	 265 	Joint effusion	Other	neither	N/A
+400249018	 264 	Arthralgia of the pelvic region and thigh	Hip/Pelvis	neither	N/A
+312460014	 263 	Acquired deformity of chest wall	Chest	neither	N/A
+111791000006117	 261 	Swollen lower leg	Leg	neither	N/A
+312281011	 257 	Acquired mallet toe	Foot/Ankle	neither	N/A
+314429013	 257 	Congenital dislocation and subluxation of the hip	Hip/Pelvis	neither	N/A
+124541000006110	 257 	Subluxation of joint	Other	neither	N/A
+311384015	 253 	Tibialis posterior tendinitis	Leg	neither	N/A
+311353017	 252 	Adductor tendinitis	Hip/Pelvis	neither	N/A
+96831000006114	 245 	Tibial torsion	Leg	neither	N/A
+310983010	 244 	Clicking shoulder	Shoulder	neither	N/A
+373007012	 244 	Hand cramps	Hand	neither	N/A
+611201000006119	 243 	Acquired deformity of clavicle	Shoulder	neither	N/A
+137149010	 242 	Synovial cyst of popliteal space	Knee	neither	N/A
+439689014	 240 	Shoulder joint unstable	Shoulder	neither	N/A
+710181000006116	 239 	Finger trigger	Hand	neither	N/A
+5138551000006118	 237 	Disorder of patellofemoral joint	Knee	neither	N/A
+310934011	 236 	Wrist symptom	Wrist	neither	N/A
+105778017	 235 	Internal derangement of knee joint	Knee	neither	N/A
+312350016	 235 	Chronic instability of knee	Knee	neither	N/A
+256005014	 235 	O/E - knee joint abnormal	Knee	neither	N/A
+406699016	 234 	Ankle instability	Foot/Ankle	neither	N/A
+312334012	 232 	Acquired pronated forefoot	Foot/Ankle	neither	N/A
+411284017	 231 	Aching leg syndrome	Leg	neither	N/A
+45014017	 228 	Subungual exostosis	Other	neither	N/A
+256101015	 227 	O/E-soft tissue swelling-local	Other	neither	N/A
+76993014	 221 	Chondritis	Other	neither	N/A
+310931015	 217 	Disorder of acromioclavicular joint	Shoulder	neither	N/A
+252586019	 217 	Right subcostal pain	Chest	neither	N/A
+5887111000006114	 216 	Pain in axilla	Shoulder	neither	N/A
+311345013	 215 	Biceps tendinitis	Arm	neither	N/A
+416128012	 215 	Pain in cervical spine	Neck	neither	N/A
+400892016	 213 	Congenital valgus deformity of foot	Foot/Ankle	neither	N/A
+398006013	 211 	Symptom: head/neck	Neck	neither	N/A
+1776211019	 210 	Dermatomyositis	Other	neither	N/A
+413691000006112	 209 	Disorder of soft tissue	Other	neither	N/A
+107916018	 208 	Acquired genu varum	Knee	neither	N/A
+88489011	 207 	Peroneal tendinitis	Knee	neither	N/A
+312565019	 207 	Disorder of patella	Knee	neither	N/A
+311487011	 206 	Ganglion of flexor tendon sheath of finger	Hand	neither	N/A
+252317016	 204 	Backache symptom NOS	Back	neither	N/A
+310822016	 203 	Arthralgia of elbow	Elbow	neither	N/A
+311439018	 201 	Tenosynovitis of foot	Foot/Ankle	neither	N/A
+311193010	 197 	Disorder of cervical spine	Neck	neither	N/A
+310880014	 197 	Multiple stiff joints	Multiple	neither	N/A
+30877015	 194 	Acquired deformity of nose	Head	neither	N/A
+256014016	 194 	O/E - swelling - joint	Other	neither	N/A
+312186013	 193 	Aneurysmal bone cyst	Other	neither	N/A
+311492013	 191 	Ganglion and synovial cyst	Other	neither	N/A
+890661000006115	 187 	Painful Shoulder	Shoulder	neither	N/A
+419523013	 186 	Subungual exostosis of great toe	Foot/Ankle	neither	N/A
+372799017	 185 	Back stiffness	Back	neither	N/A
+36572013	 182 	Radial styloid tenosynovitis	Wrist	neither	N/A
+256029019	 182 	O/E - joint movement painful	Other	neither	N/A
+256023018	 180 	O/E - reduced joint movement	Other	neither	N/A
+419883015	 180 	Swelling of calf	Leg	neither	N/A
+312351017	 179 	Flexion deformity	Other	neither	N/A
+5865551000006112	 179 	Knee joint valgus deformity	Knee	neither	N/A
+373031019	 179 	Unstable knee	Knee	neither	N/A
+491941000006112	 178 	Arthralgia of sacroiliac joint	Hip/Pelvis	neither	N/A
+256016019	 178 	O/E - joint effusion present	Other	neither	N/A
+1638641000006119	 177 	Musculoskeletal symptom	Other	neither	N/A
+891281000006115	 175 	Ganglion/synov.cyst - wrist	Wrist	neither	N/A
+5529171000006118	 175 	Joint swelling	Other	neither	N/A
+222191000000111	 175 	Retrosternal chest pain	Chest	neither	N/A
+400248014	 174 	Arthralgia of the forearm	Arm	neither	N/A
+309400018	 174 	Arthropathy	Other	neither	N/A
+492459010	 174 	Morning stiffness - joint	Other	neither	N/A
+828611000006114	 173 	Housemaids' knee	Knee	neither	N/A
+311224016	 169 	Disorder of neck	Neck	neither	N/A
+1682441000006112	 168 	Cervicalgia	Neck	neither	N/A
+256100019	 168 	O/E - soft tissue swelling-gen	Other	neither	N/A
+13498591000006113	 167 	Pain in upper arm	Arm	neither	N/A
+111401000006119	 164 	Swan-neck deformity of finger	Hand	neither	N/A
+113561000006116	 164 	Synovitis of knee	Knee	neither	N/A
+109031000006116	 163 	Tendonitis of thumb	Hand	neither	N/A
+135221013	 162 	Loose body in knee	Knee	neither	N/A
+359536013	 161 	Bone spur	Other	neither	N/A
+1229336018	 156 	Acquired equinus foot deformity	Foot/Ankle	neither	N/A
+987141000006115	 155 	Bipartite patella	Knee	neither	N/A
+400941013	 154 	Congenital musculoskeletal anomalies NOS	Multiple	neither	N/A
+359590017	 153 	Suprapatellar bursitis	Knee	neither	N/A
+311457017	 152 	Synovitis of hip	Hip/Pelvis	neither	N/A
+312504018	 151 	Musculoskeletal disorder	Other	neither	N/A
+311653013	 150 	Contracture of hamstring(s)	Leg	neither	N/A
+312001000000116	 149 	Synovitis	Other	neither	N/A
+311225015	 149 	Back problem	Back	neither	N/A
+310929012	 147 	Finding of shoulder region	Shoulder	neither	N/A
+372793016	 144 	Wrist stiff	Wrist	neither	N/A
+255998014	 140 	O/E - elbow joint abnormal	Elbow	neither	N/A
+2475754012	 139 	Lateral meniscus derangement	Knee	neither	N/A
+310986019	 138 	Clicking elbow	Elbow	neither	N/A
+131285010	 135 	Sprengel's deformity	Shoulder	neither	N/A
+137941000006113	 134 	Temporomandibular joint click	Head	neither	N/A
+314473012	 133 	Congenital varus deformity of foot	Foot/Ankle	neither	N/A
+359847012	 132 	Disorder of spinal region	Back	neither	N/A
+310914010	 131 	Other joint symptoms of the hand	Hand	neither	N/A
+255999018	 130 	O/E - wrist joint abnormal	Wrist	neither	N/A
+312573011	 129 	[X]Disorder of patella, unspecified	Knee	neither	N/A
+219601000000110	 128 	Hip snapping	Hip/Pelvis	neither	N/A
+41385012	 127 	Myofascial pain syndrome	Multiple	neither	N/A
+310942012	 127 	Symptom of ankle	Foot/Ankle	neither	N/A
+312300011	 126 	Acquired finger deformity NOS	Hand	neither	N/A
+221631000000112	 125 	Adductor tendonitis	Other	neither	N/A
+48884013	 125 	Trochanteric tendinitis	Hip/Pelvis	neither	N/A
+713281000006117	 124 	Derangement medial meniscus	Knee	neither	N/A
+312462018	 121 	Acquired rib deformity, unspecified	Chest	neither	N/A
+2402821000000112	 120 	Lumber disc bulge	Back	neither	N/A
+312349016	 120 	Acquired external tibial torsion	Leg	neither	N/A
+256004013	 120 	O/E - hip joint abnormal	Hip/Pelvis	neither	N/A
+311277014	 119 	Unspecified disorder of the coccyx	Back	neither	N/A
+310819018	 118 	Arthralgia of acromioclavicular joint	Shoulder	neither	N/A
+419882013	 118 	Swollen calf	Leg	neither	N/A
+311475016	 117 	Synovial cyst	Other	neither	N/A
+311483010	 117 	Ganglion of knee	Knee	neither	N/A
+312322016	 116 	Acquired valgus heel	Foot/Ankle	neither	N/A
+118437011	 115 	Myxoid cyst	Other	neither	N/A
+891271000006118	 115 	Ganglion/synov.cyst - hand	Hand	neither	N/A
+311448011	 114 	Achilles tenosynovitis	Foot/Ankle	neither	N/A
+371011000006114	 114 	Somatoform pain disorder	Other	neither	N/A
+317263016	 114 	Symptom of head and neck region	Head	neither	N/A
+256026014	 112 	O/E - reduced movement of wrist	Wrist	neither	N/A
+456085014	 111 	Cyst of tendon sheath	Other	neither	N/A
+311447018	 111 	Extensor tenosynovitis of thumb	Hand	neither	N/A
+359871017	 110 	Other deformity of bone	Other	neither	N/A
+310839019	 110 	Arthralgia of ankle	Foot/Ankle	neither	N/A
+312278018	 109 	Crossover toe	Foot/Ankle	neither	N/A
+312182010	 107 	Solitary bone cyst	Other	neither	N/A
+311387010	 107 	Plantar fascial fibromatosis	Foot/Ankle	neither	N/A
+3957951000006119	 107 	Congenital genu valgum	Knee	neither	N/A
+311396010	 106 	Enthesopathy	Other	neither	N/A
+2164079010	 105 	Ligament disorders	Other	neither	N/A
+28257010	 105 	Knuckle pads	Hand	neither	N/A
+411840011	 105 	O/E - painful arc	Shoulder	neither	N/A
+312494011	 105 	Other specified musculoskeletal disorders	Other	neither	N/A
+400262019	 104 	Other joint symptoms of the lower leg	Leg	neither	N/A
+310938014	 103 	Other symptoms - hip	Hip/Pelvis	neither	N/A
+253291013	 103 	Symptom: upper limb	Arm	neither	N/A
+252312010	 102 	Backache with radiation	Back	neither	N/A
+378065015	 102 	Bow legs	Leg	neither	N/A
+400263012	 102 	Arthralgia of the ankle and/or foot	Foot/Ankle	neither	N/A
+39292015	 102 	Congenital flat foot	Foot/Ankle	neither	N/A
+359542012	 101 	Painful arc syndrome	Shoulder	neither	N/A
+122681000006110	 101 	Subacromial bursitis	Shoulder	neither	N/A
+140171000006117	 101 	Acquired shortening of Achilles tendon	Foot/Ankle	neither	N/A
+256038017	 101 	O/E - joint stiffness	Other	neither	N/A
+256006010	 101 	O/E - locked knee	Knee	neither	N/A
+310511012	 98 	Equinus contracture of the ankle	Foot/Ankle	neither	N/A
+295191000006117	 98 	[D]Face ache	Head	neither	N/A
+310629010	 98 	Effusion of elbow	Elbow	neither	N/A
+256054019	 98 	O/E - lumbar spine abnormal	Back	neither	N/A
+588621000006114	 97 	Talipes valgus	Foot/Ankle	neither	N/A
+312571013	 97 	[X]Other instability of joint	Other	neither	N/A
+440239018	 96 	Bow legged	Leg	neither	N/A
+11065011	 96 	Residual foreign body in soft tissue	Other	neither	N/A
+311442012	 95 	Flexor tenosynovitis of wrist	Wrist	neither	N/A
+311655018	 95 	Contracture of tendo achilles	Foot/Ankle	neither	N/A
+856151000006116	 95 	Right hip clicks	Hip/Pelvis	neither	N/A
+215561000000112	 94 	Swelling of joint - effusion	Other	neither	N/A
+311177018	 93 	Disorder of lumbar disc	Back	neither	N/A
+256050011	 93 	O/E - spine abnormal	Back	neither	N/A
+5142451000006118	 92 	Synovial cyst of knee	Knee	neither	N/A
+312315012	 92 	Flexion deformity of knee	Knee	neither	N/A
+310988018	 92 	Clicking wrist	Wrist	neither	N/A
+312347019	 91 	Deformity of knee joint	Knee	neither	N/A
+311634015	 90 	Other fibromatoses	Other	neither	N/A
+455771000006114	 90 	Acute low back pain	Back	neither	N/A
+4816191000006111	 90 	Lateral epicondylitis	Elbow	neither	N/A
+857221000006118	 89 	Left hip clicks	Hip/Pelvis	neither	N/A
+221641000000115	 88 	Supraspinatus tendonitis	Shoulder	neither	N/A
+311438014	 88 	Tenosynovitis of ankle	Foot/Ankle	neither	N/A
+146974019	 88 	Acquired hammer toe, other than great toe	Foot/Ankle	neither	N/A
+311383014	 87 	Tibialis anterior tendinitis	Leg	neither	N/A
+253931000006113	 86 	Overriding fifth toe	Foot/Ankle	neither	N/A
+314494010	 85 	Valgus deformity of foot	Foot/Ankle	neither	N/A
+439051015	 84 	Locked temporomandibular joint	Head	neither	N/A
+310930019	 84 	Other symptoms in sternoclavicular joint	Shoulder	neither	N/A
+312314011	 83 	Acquired knee deformity NOS	Knee	neither	N/A
+127281000006111	 83 	Finger joint stiff	Hand	neither	N/A
+310932010	 83 	Other symptoms - elbow	Elbow	neither	N/A
+314845015	 82 	Congenital anomaly of the hand	Hand	neither	N/A
+81981010	 81 	Coxalgia	Hip/Pelvis	neither	N/A
+312191014	 81 	Cyst of bone NOS	Other	neither	N/A
+500464010	 81 	Hallux rigidus - acquired 	Foot/Ankle	neither	N/A
+405142017	 81 	Unspecified polyarthropathy or polyarthritis	Multiple	neither	N/A
+400247016	 81 	Arthralgia of the upper arm	Arm	neither	N/A
+891241000006114	 80 	Ganglion/synov.cyst-ankle/foot	Foot/Ankle	neither	N/A
+40831000006117	 79 	Osteophyte of bone	Other	neither	N/A
+761871000006117	 79 	Flexion deformity of fingers	Hand	neither	N/A
+317319011	 79 	[D]Other symptoms affecting head and neck	Neck	neither	N/A
+256010013	 79 	O/E - neck joint abnormal	Neck	neither	N/A
+491791000006117	 78 	Arthralgia of 1st metatarsophalangeal joint	Foot/Ankle	neither	N/A
+372790018	 78 	Knee stiff	Knee	neither	N/A
+312237015	 77 	Bony pelvic pain	Hip/Pelvis	neither	N/A
+312348012	 76 	Acquired internal tibial torsion	Leg	neither	N/A
+400200013	 76 	Derangement of meniscus	Knee	neither	N/A
+253294017	 76 	C/O - lower limb symptom	Leg	neither	N/A
+372795011	 76 	Shoulder stiff	Shoulder	neither	N/A
+493219017	 75 	Congenital talipes varus	Foot/Ankle	neither	N/A
+1572921000006110	 74 	Bone tenderness at navicular bone of foot	Foot/Ankle	neither	N/A
+405688012	 74 	Deformity of phalanx of toe	Foot/Ankle	neither	N/A
+317147015	 74 	[D]Clicking thumb	Hand	neither	N/A
+310607011	 74 	Joint disorder	Other	neither	N/A
+3364071000006115	 74 	Medial epicondylitis	Elbow	neither	N/A
+310951016	 74 	Walking difficulty due to unspecified site	Leg	neither	N/A
+484581000006111	 72 	Congenital malformation of spine	Back	neither	N/A
+310984016	 72 	Clicking sternoclavicular joint	Shoulder	neither	N/A
+299731000000113	 72 	Muscle wasting	Other	neither	N/A
+256030012	 72 	O/E - joint crepitation	Other	neither	N/A
+312633011	 70 	[X]Other myositis	Other	neither	N/A
+256053013	 70 	O/E - thoracic spine abnormal	Back	neither	N/A
+400288016	 70 	Other back symptoms	Back	neither	N/A
+311388017	 69 	Posterior calcaneal exostosis (pump bump)	Foot/Ankle	neither	N/A
+312318014	 69 	Acquired equinovarus - clubfoot	Foot/Ankle	neither	N/A
+451468015	 69 	[D]Retrosternal chest pain	Chest	neither	N/A
+416142016	 69 	Lumbalgia	Back	neither	N/A
+312560012	 68 	[X]Other hammer toe(s) (acquired)	Foot/Ankle	neither	N/A
+439693015	 68 	Shoulder joint painful on movement	Shoulder	neither	N/A
+252303013	 68 	Stiff neck symptom NOS	Neck	neither	N/A
+312316013	 67 	Other acquired ankle and foot deformity	Foot/Ankle	neither	N/A
+1566461000006118	 67 	Immediate swelling of knee	Knee	neither	N/A
+359327010	 65 	Synovitis of knee	Knee	neither	N/A
+490581000006118	 64 	Acquired cavus foot deformity	Foot/Ankle	neither	N/A
+135200013	 63 	Bursitis of hip	Hip/Pelvis	neither	N/A
+400192018	 63 	Unspecified polyarthropathy or polyarthritis NOS	Multiple	neither	N/A
+646081000006116	 63 	Enthesopathy of ankle AND/OR tarsus	Foot/Ankle	neither	N/A
+400878010	 62 	Congenital anomaly of musculoskeletal system	Other	neither	N/A
+14046016	 62 	Contracture of joint	Other	neither	N/A
+312495012	 62 	Disorder of musculoskeletal system	Other	neither	N/A
+400310018	 62 	Muscle, ligament and fascia disorders	Other	neither	N/A
+7299721000006119	 62 	Pain in forearm	Arm	neither	N/A
+1783067019	 61 	Digital mucous cyst	Hand	neither	N/A
+312346011	 61 	Acquired deformity of ankle AND/OR foot	Foot/Ankle	neither	N/A
+314491019	 61 	Congenital clubfoot - valgus	Foot/Ankle	neither	N/A
+314513015	 61 	Congenital deformity of foot	Foot/Ankle	neither	N/A
+646121000006119	 61 	Enthesopathy of knee region	Knee	neither	N/A
+312292012	 60 	Acquired finger deformity, unspecified	Hand	neither	N/A
+311443019	 59 	Flexor tenosynovitis of finger	Hand	neither	N/A
+125702014	 59 	Psoas tendinitis	Back	neither	N/A
+1226293012	 59 	Cubitus varus - acquired	Other	neither	N/A
+2157514012	 59 	Deformity of scapula	Shoulder	neither	N/A
+454631000006115	 59 	Acquired trigger thumb	Hand	neither	N/A
+541000006112	 59 	Finding of finger joint	Hand	neither	N/A
+405551018	 59 	Unstable hip	Hip/Pelvis	neither	N/A
+219621000000118	 58 	Disorder of intervertebral disc	Back	neither	N/A
+890521000006110	 58 	Effusion - knee joint	Knee	neither	N/A
+312291017	 57 	Acquired deformity of finger	Arm	neither	N/A
+314493016	 57 	Congenital talipes calcaneovalgus	Foot/Ankle	neither	N/A
+311704019	 56 	Myalgia or myositis NOS	Other	neither	N/A
+1484869018	 56 	Non-traumatic subluxation of acromioclavicular joint	Shoulder	neither	N/A
+311364019	 56 	Pes anserinus tendinitis and bursitis	Knee	neither	N/A
+419524019	 56 	Subungual exostosis of lesser toe	Foot/Ankle	neither	N/A
+405682013	 56 	Deformity of tibia	Leg	neither	N/A
+372792014	 56 	Hand joint stiff	Hand	neither	N/A
+256024012	 56 	O/E - reduced movement of spine	Back	neither	N/A
+68620010	 55 	Bicipital tenosynovitis	Arm	neither	N/A
+312559019	 53 	Acquired deformity of joint of big toe	Foot/Ankle	neither	N/A
+510851000006116	 53 	Congenital subluxation of hip, bilateral	Hip/Pelvis	neither	N/A
+311451016	 52 	Extensor hallucis longus tenosynovitis	Foot/Ankle	neither	N/A
+310818014	 52 	Arthralgia of sternoclavicular joint	Shoulder	neither	N/A
+558181000006112	 52 	Clawing of great toe	Foot/Ankle	neither	N/A
+310637019	 52 	Effusion of hip	Hip/Pelvis	neither	N/A
+310628019	 52 	Elbow joint effusion	Elbow	neither	N/A
+509813011	 51 	Benign neoplasm of bone and articular cartilage	Other	neither	N/A
+359805013	 51 	Synovial plica of knee	Knee	neither	N/A
+890991000006119	 51 	Backache NOS	Back	neither	N/A
+310928016	 51 	Joint finding	Other	neither	N/A
+400313016	 51 	Muscle, ligament or fascia disorder NOS	Other	neither	N/A
+255989011	 50 	O/E - joint abnormal	Other	neither	N/A
+451501010	 50 	Tendon disorder	Other	neither	N/A
+221611000000116	 49 	Bicipital tendinitis	Arm	neither	N/A
+311347017	 49 	Triceps tendinitis	Arm	neither	N/A
+400194017	 49 	Arthropathy NOS	Other	neither	N/A
+599131000006110	 48 	Coxalgia	Back	neither	N/A
+310510013	 48 	Flexion contracture of the knee	Knee	neither	N/A
+256002012	 48 	O/E - hand joint abnormal	Hand	neither	N/A
+400255011	 48 	Stiff joint, of the hand	Hand	neither	N/A
+311036019	 47 	Arthropathies NOS	Multiple	neither	N/A
+4507141000006118	 47 	Chronic back pain	Back	neither	N/A
+611321000006117	 47 	Deformity of phalanx of finger or thumb	Hand	neither	N/A
+256019014	 47 	O/E - joint swelling NOS	Other	neither	N/A
+311522018	 47 	Subluxation of peroneal tendon	Leg	neither	N/A
+310157016	 47 	Unspecified polyarthropathy of multiple sites	Multiple	neither	N/A
+359764018	 46 	Chondrolysis	Other	neither	N/A
+97681017	 46 	Gluteal tendinitis	Hip/Pelvis	neither	N/A
+400350015	 46 	Acquired deformity of limb	Other	neither	N/A
+815211000006111	 46 	Acquired hallux varus	Foot/Ankle	neither	N/A
+757291000006118	 46 	Joint disorders NOS	Other	neither	N/A
+310935012	 46 	Metacarpophalangeal joint pain	Hand	neither	N/A
+400261014	 46 	Other joint symptoms of the pelvic region and thigh	Hip/Pelvis	neither	N/A
+310955013	 46 	Walking difficulty due to ankle and foot	Foot/Ankle	neither	N/A
+494294019	 45 	Acquired hammer deformity of great toe	Foot/Ankle	neither	N/A
+317134013	 45 	Clubbing of fingers	Hand	neither	N/A
+314496012	 45 	Other valgus foot deformity NOS	Foot/Ankle	neither	N/A
+314687016	 45 	Unspecified congenital leg shortening NOS	Leg	neither	N/A
+453671000006115	 44 	Acquired clavicle deformity	Chest	neither	N/A
+311397018	 43 	Capsulitis	Other	neither	N/A
+60357013	 43 	Congenital subluxation of hip	Hip/Pelvis	neither	N/A
+312117012	 43 	Epiphysitis	Other	neither	N/A
+310911019	 43 	Other joint symptoms of the shoulder region	Shoulder	neither	N/A
+1705881000006115	 42 	Myofascial pain syndrome	Multiple	neither	N/A
+252447015	 42 	Parasternal pain	Chest	neither	N/A
+311450015	 41 	Tibialis posterior tenosynovitis	Leg	neither	N/A
+624681000006116	 41 	Disorder of coccyx	Back	neither	N/A
+2478745010	 41 	Medial meniscus, posterior horn derangement	Knee	neither	N/A
+256144016	 41 	O/E - sign - head/neck	Neck	neither	N/A
+312123019	 40 	Disorder of bone and articular cartilage	Other	neither	N/A
+253292018	 40 	C/O - upper limb symptom	Arm	neither	N/A
+314875013	 40 	Congenital anomaly of toe	Foot/Ankle	neither	N/A
+378066019	 40 	Congenital clicking hip	Hip/Pelvis	neither	N/A
+400882012	 40 	Congenital sternomastoid torticollis	Neck	neither	N/A
+1221447010	 40 	Coxa valga - acquired	Hip/Pelvis	neither	N/A
+761801000006111	 40 	Flexion contracture of proximal interphalangeal joint	Hand	neither	N/A
+312285019	 40 	Other acquired toe deformity	Foot/Ankle	neither	N/A
+75341011	 40 	Schmorl's nodes	Back	neither	N/A
+491891000006111	 39 	Arthralgia of metacarpophalangeal joint	Hand	neither	N/A
+400246013	 39 	Arthralgia of shoulder	Shoulder	neither	N/A
+256027017	 39 	O/E - reduced movement of hip	Hip/Pelvis	neither	N/A
+271821000006115	 39 	O/E medial joint line tenderness	Knee	neither	N/A
+126406018	 39 	Spinal stenosis	Back	neither	N/A
+312630014	 38 	[X]Other dorsalgia	Back	neither	N/A
+400344013	 38 	Bone or cartilage disorders NOS	Other	neither	N/A
+312574017	 38 	Disorder of connective tissue	Other	neither	N/A
+400199010	 38 	Disorder of joint of ankle and/or foot	Foot/Ankle	neither	N/A
+312582017	 38 	Overlap syndrome	Other	neither	N/A
+1573041000006110	 38 	Supination-eversion injury of ankle	Foot/Ankle	neither	N/A
+55971012	 38 	Unilateral congenital dislocation of hip	Hip/Pelvis	neither	N/A
+490918018	 37 	Acquired claw hand	Hand	neither	N/A
+458317014	 37 	Acquired varus deformity of toe	Foot/Ankle	neither	N/A
+310286013	 37 	Derangement of knee	Knee	neither	N/A
+624721000006111	 37 	Disorder of sacrum	Back	neither	N/A
+7301371000006113	 37 	Ganglion	Other	neither	N/A
+312562016	 36 	[X]Other acquired deformities of ankle and foot	Foot/Ankle	neither	N/A
+372794010	 36 	Elbow stiff	Elbow	neither	N/A
+314844016	 36 	Other anomaly of fingers NOS	Hand	neither	N/A
+312687017	 35 	[X]Other cyst of bone	Other	neither	N/A
+312298011	 35 	Deviation of finger	Hand	neither	N/A
+256025013	 35 	O/E - reduced movement of arm	Arm	neither	N/A
+26511000006110	 35 	Other musc skeletal deformity	Other	neither	N/A
+311395014	 34 	Posterior shin splints	Leg	neither	N/A
+312680015	 34 	[X]Disorders of bone density and structure	Other	neither	N/A
+5865591000006118	 34 	Bandy legged	Leg	neither	N/A
+314833012	 34 	Congenital anomaly of finger	Hand	neither	N/A
+891911000006119	 34 	Pain in left arm	Arm	neither	N/A
+130171000006116	 34 	Spontaneous joint dislocation	Other	neither	N/A
+398009018	 34 	Symptom: trunk posterior	Trunk	neither	N/A
+41141000006111	 33 	Osteitis	Other	neither	N/A
+310642010	 33 	Ankle joint effusion	Foot/Ankle	neither	N/A
+558931000006114	 33 	Clicky hips - congenital	Hip/Pelvis	neither	N/A
+377851000006114	 33 	Disorder of muscle	Other	neither	N/A
+629981000006113	 33 	Dropfoot	Foot/Ankle	neither	N/A
+311689017	 33 	Fibrositis	Other	neither	N/A
+310636011	 33 	Hip joint effusion	Hip/Pelvis	neither	N/A
+372791019	 33 	Hip stiff	Hip/Pelvis	neither	N/A
+311606010	 33 	Muscle atrophy	Other	neither	N/A
+256052015	 33 	O/E - cervical spine abnormal	Neck	neither	N/A
+314888011	 33 	Other toe anomalies NOS	Foot/Ankle	neither	N/A
+312702017	 32 	[X]Other disorders of bone development and growth	Other	neither	N/A
+312464017	 32 	Acquired chest or rib deformity NOS	Chest	neither	N/A
+405670016	 32 	Deformity of bone	Other	neither	N/A
+312253017	 32 	Osteolysis	Other	neither	N/A
+310579016	 32 	Snapping shoulder	Shoulder	neither	N/A
+58951000006119	 32 	Weakness of joint	Other	neither	N/A
+491821000006114	 31 	Arthralgia of distal interphalangeal joint of finger	Hand	neither	N/A
+411282018	 31 	O/E - lumbar pain on palpation	Back	neither	N/A
+5852101000006115	 31 	Temporomandibular joint locking	Head	neither	N/A
+4816351000006119	 30 	Posterior calcaneal exostosis	Foot/Ankle	neither	N/A
+315761019	 30 	[X]Other congenital deformities of feet	Foot/Ankle	neither	N/A
+312313017	 30 	Acquired deformity of knee	Knee	neither	N/A
+372789010	 30 	Ankle stiff	Foot/Ankle	neither	N/A
+491931000006119	 30 	Arthralgia of proximal interphalangeal joint of finger	Hand	neither	N/A
+310944013	 30 	Arthropathy of ankle and/or foot	Foot/Ankle	neither	N/A
+314441018	 30 	Congenital subluxation of hip NOS	Hip/Pelvis	neither	N/A
+451465017	 30 	Disorder of bone	Other	neither	N/A
+753841000006117	 30 	Knee pathological dislocation	Knee	neither	N/A
+256102010	 30 	O/E - soft tissue crepitus	Other	neither	N/A
+5721831000006111	 30 	Pain in left lower limb	Leg	neither	N/A
+311446010	 29 	Extensor tenosynovitis of finger	Hand	neither	N/A
+311719018	 29 	Fasciitis	Other	neither	N/A
+318012012	 29 	[X]Difficulty in walking, not elsewhere classified	Leg	neither	N/A
+405678011	 29 	Deformity of metacarpal	Hand	neither	N/A
+405685010	 29 	Deformity of talus	Foot/Ankle	neither	N/A
+310287016	 29 	Joint derangement	Other	neither	N/A
+310949015	 29 	Joint finding	Other	neither	N/A
+501640011	 28 	Discoid meniscus - congenital	Knee	neither	N/A
+400303012	 28 	Other synovitis and tenosynovitis	Other	neither	N/A
+311386018	 28 	Policeman's heel	Foot/Ankle	neither	N/A
+906561000006114	 28 	[RFC] Chronic back and neck problems	Back	neither	N/A
+17705012	 28 	Bilateral congenital dislocation of hip	Hip/Pelvis	neither	N/A
+1231355011	 28 	Cubitus valgus - acquired	Elbow	neither	N/A
+310585011	 28 	Derangement of shoulder	Shoulder	neither	N/A
+310198011	 28 	Disorder of joint of shoulder region	Shoulder	neither	N/A
+216625013	 28 	Exacerbation of backache	Back	neither	N/A
+764261000006111	 28 	Foot drop	Foot/Ankle	neither	N/A
+511000006113	 28 	Interphalangeal joint of toe pain	Foot/Ankle	neither	N/A
+312032019	 28 	Ischiopubic synchondrosis	Hip/Pelvis	neither	N/A
+1231946018	 28 	Wrist drop - acquired	Wrist	neither	N/A
+3060271000006116	 27 	Coccydynia	Back	neither	N/A
+558721000006114	 27 	Clicking 1st metatarsophalangeal joint	Foot/Ankle	neither	N/A
+405684014	 27 	Deformity of calcaneum	Foot/Ankle	neither	N/A
+256079016	 27 	O/E - foot bone abnormal	Foot/Ankle	neither	N/A
+497071000006114	 26 	Atlantoaxial instability	Neck	neither	N/A
+657981000006117	 26 	Extensor pollicis longus rupture	Hand	neither	N/A
+359579010	 26 	Ischial bursitis	Hip/Pelvis	neither	N/A
+310328014	 26 	Loose body in elbow joint	Elbow	neither	N/A
+99020011	 26 	Protrusio acetabuli	Hip/Pelvis	neither	N/A
+312470011	 26 	Acquired deformity of spine	Back	neither	N/A
+311378018	 26 	Enthesopathy of lower leg and ankle region	Foot/Ankle	neither	N/A
+400232013	 26 	Joint effusion of the lower leg	Leg	neither	N/A
+372801019	 26 	Locking of joint	Other	neither	N/A
+256075010	 26 	O/E - hand bone abnormal	Hand	neither	N/A
+5721851000006116	 26 	Pain in right lower limb	Leg	neither	N/A
+3788301000006115	 25 	Bifid patella	Knee	neither	N/A
+312181015	 25 	Localised bone cyst, unspecified	Other	neither	N/A
+409341000006112	 25 	[X]Other disorders of muscle in diseases CE	Other	neither	N/A
+801311000006115	 25 	Acquired genu recurvatum	Knee	neither	N/A
+310205010	 25 	Arthropathy of joint of hand	Hand	neither	N/A
+252313017	 25 	Back pain worse on sneezing	Back	neither	N/A
+98163016	 25 	Congenital dislocation of knee	Knee	neither	N/A
+400287014	 25 	Disorders of the sacrum NOS	Back	neither	N/A
+841591000006113	 25 	Hip clicks	Hip/Pelvis	neither	N/A
+140651000006116	 25 	Shoulder girdle aches	Shoulder	neither	N/A
+219661000000114	 24 	Bursitis - shoulder	Shoulder	neither	N/A
+1779395011	 24 	Nodular fasciitis	Other	neither	N/A
+359561011	 24 	Tenosynovitis of hand	Hand	neither	N/A
+453481000006115	 24 	Acquired deformity of joint of lower limb	Foot/Ankle	neither	N/A
+3912841000006115	 24 	Acquired pes cavus	Foot/Ankle	neither	N/A
+890671000006110	 24 	Ankle/foot joint pain	Foot/Ankle	neither	N/A
+558791000006111	 24 	Clicking interphalangeal joint of toe	Foot/Ankle	neither	N/A
+92062017	 24 	Congenital pseudarthrosis of tibia	Leg	neither	N/A
+405676010	 24 	Deformity of ulna	Arm	neither	N/A
+256011012	 24 	O/E - locked joint	Other	neither	N/A
+240351000006110	 24 	Pathological dislocation of proximal interphalangeal joint	Hand	neither	N/A
+311414010	 24 	Peripheral enthesopathy	Other	neither	N/A
+311523011	 24 	Subluxation of tendon, wrist or hand	Hand/Wrist	neither	N/A
+310245018	 23 	Cyst of lateral meniscus	Knee	neither	N/A
+312561011	 23 	[X]Other deformities of toe(s) (acquired)	Foot/Ankle	neither	N/A
+312335013	 23 	Acquired forefoot adductus	Foot/Ankle	neither	N/A
+491000006119	 23 	Finger joint painful on movement	Hand	neither	N/A
+311746011	 23 	Other musculoskeletal limb symptoms	Other	neither	N/A
+372668014	 23 	Pes varus	Foot/Ankle	neither	N/A
+163471000006113	 23 	Rigid flat foot	Foot/Ankle	neither	N/A
+11902311000006117	 23 	Sacroiliac joint pain	Hip/Pelvis	neither	N/A
+155331000006111	 23 	Schmorl's nodes of lumbar region	Back	neither	N/A
+310892014	 23 	Stiff knee NEC	Knee	neither	N/A
+891011000006115	 22 	Coccygeal disorder NOS	Back	neither	N/A
+311481012	 22 	Cyst of bursa	Other	neither	N/A
+314450016	 22 	Congenital dislocation of hip NOS	Hip/Pelvis	neither	N/A
+131284014	 22 	Congenital elevation of scapula	Shoulder	neither	N/A
+255922017	 22 	O/E - ulnar deviation	Arm	neither	N/A
+400343019	 22 	Other and unspecified bone or cartilage disorders	Other	neither	N/A
+311312013	 22 	Peripheral enthesopathies and allied syndromes	Other	neither	N/A
+161571000006113	 22 	SAPHO syndrome	Other	neither	N/A
+155341000006118	 22 	Schmorl's nodes of thoracic region	Back	neither	N/A
+400282015	 22 	Spinal stenosis, excluding cervical region	Back	neither	N/A
+311064012	 21 	Cervical myelopathy	Neck	neither	N/A
+311444013	 21 	Flexor tenosynovitis of thumb	Hand	neither	N/A
+311449015	 21 	Tibialis anterior tenosynovitis	Leg	neither	N/A
+512112014	 21 	Villonodular synovitis	Other	neither	N/A
+1490679012	 21 	Conjoined toes	Foot/Ankle	neither	N/A
+310821011	 21 	Elbow joint pain	Elbow	neither	N/A
+471000006115	 21 	Finding of joint of toe	Foot/Ankle	neither	N/A
+101011000006114	 21 	Thumb trigger	Hand	neither	N/A
+312564015	 20 	[X]Other derangements of patella	Knee	neither	N/A
+310762012	 20 	Pigmented villonodular synovitis of knee joint	Knee	neither	N/A
+891131000006110	 20 	Synovitis/tenosynovitis	Other	neither	N/A
+317325010	 20 	[D]Head and neck symptoms NOS	Neck	neither	N/A
+405675014	 20 	Deformity of radius	Arm	neither	N/A
+3609071000006114	 20 	Disorder of tendon	Other	neither	N/A
+892711000006110	 20 	Musculoskeletal problems NOS	Multiple	neither	N/A
+256103017	 20 	O/E - soft tissue abn. NOS	Other	neither	N/A
+2364511000000117	 20 	Shoulder joint painful on external rotation	Shoulder	neither	N/A
+5460271000006115	 20 	Subluxation of shoulder joint	Shoulder	neither	N/A
+108781000006112	 19 	Ankylosis of temporomandibular joint	Head	neither	N/A
+891101000006119	 19 	Bursitis - knee	Knee	neither	N/A
+551000006114	 19 	Finding of sacroiliac joint	Hip/Pelvis	neither	N/A
+65074016	 19 	Pelvic obliquity	Hip/Pelvis	neither	N/A
+158050019	 19 	Polymyalgia	Multiple	neither	N/A
+68050018	 19 	Subacromial bursitis	Shoulder	neither	N/A
+312656019	 19 	[X]Other soft tissue disorders	Other	neither	N/A
+5276711000006112	 19 	Abduction deformity of the foot	Foot/Ankle	neither	N/A
+507073012	 19 	Acquired cavus deformity of foot	Foot/Ankle	neither	N/A
+453771000006113	 19 	Acquired deformities of hip	Hip/Pelvis	neither	N/A
+312320012	 19 	Acquired talipes NEC	Foot/Ankle	neither	N/A
+314511018	 19 	Congenital claw foot	Foot/Ankle	neither	N/A
+493220011	 19 	Congenital clubfoot - varus	Foot/Ankle	neither	N/A
+117414019	 19 	Congenital discoid meniscus	Knee	neither	N/A
+892621000006110	 19 	Hammer toe - acquired	Foot/Ankle	neither	N/A
+91494016	 19 	Muscle contracture	Other	neither	N/A
+271751000006118	 19 	O/E lateral joint line tenderness	Other	neither	N/A
+312299015	 19 	Rotational deformity of finger	Hand	neither	N/A
+311392012	 18 	Ankle or tarsus enthesopathy NOS	Foot/Ankle	neither	N/A
+5142461000006116	 18 	Baker's cyst of knee	Knee	neither	N/A
+400277010	 18 	Cervical radiculitis	Neck	neither	N/A
+255921012	 18 	O/E - arachnodactyly	Hand	neither	N/A
+317434016	 18 	[D]Parasternal chest pain	Chest	neither	N/A
+312302015	 18 	Acquired internal femoral torsion	Hip/Pelvis	neither	N/A
+312321011	 18 	Acquired varus heel	Foot/Ankle	neither	N/A
+757001000006119	 18 	Joint contracture of hand	Hand	neither	N/A
+310222012	 18 	Medial meniscus derangement, unspecified	Knee	neither	N/A
+400258013	 18 	Stiff joint NEC, of the ankle and foot	Foot/Ankle	neither	N/A
+311182013	 18 	Thoracic discitis	Back	neither	N/A
+407171000006113	 17 	[X]Other bursa disorder	Other	neither	N/A
+256017011	 17 	O/E -joint synovial thickening	Other	neither	N/A
+1666701000000114	 17 	Osteitis of symphysis pubis	Hip/Pelvis	neither	N/A
+311303011	 17 	Other specified disorders of vertebral column	Back	neither	N/A
+221591000000112	 17 	Semimembranosus bursitis	Knee	neither	N/A
+311354011	 17 	Tendonitis adductor	Leg	neither	N/A
+427141000006110	 17 	[X]Somatoform pain disorder	Other	neither	N/A
+135491019	 17 	Cervicalgia	Neck	neither	N/A
+314532014	 17 	Congenital flexion contracture of knee	Knee	neither	N/A
+592151000006113	 17 	Contracture of muscle	Other	neither	N/A
+405687019	 17 	Deformity of metatarsal	Foot/Ankle	neither	N/A
+623891000006117	 17 	Disorder of cartilage, unspecified	Other	neither	N/A
+4821541000006110	 17 	Overlapping toe	Foot/Ankle	neither	N/A
+310954012	 17 	Walking difficulty due to lower leg	Leg	neither	N/A
+5859711000006112	 16 	Shoulder joint instability	Shoulder	neither	N/A
+359326018	 16 	Synovitis of elbow	Elbow	neither	N/A
+109341000006111	 16 	Tenosynovitis of fingers	Hand	neither	N/A
+400265017	 16 	Vertebral column syndromes	Back	neither	N/A
+310302011	 16 	Articular cartilage disorder	Other	neither	N/A
+505951000006118	 16 	Benign neoplasm of connective and soft tissue shoulder NEC	Shoulder	neither	N/A
+314865010	 16 	Congenital deformity of hip joint	Hip/Pelvis	neither	N/A
+581851000006112	 16 	Congenital dislocation of hip NOS	Hip/Pelvis	neither	N/A
+310643017	 16 	Effusion of ankle	Foot/Ankle	neither	N/A
+646111000006110	 16 	Enthesopathy of hip region	Hip/Pelvis	neither	N/A
+400260010	 16 	Other joint symptoms of unspecified site	Other	neither	N/A
+312267014	 16 	Peroneal spastic flat foot	Foot/Ankle	neither	N/A
+11902301000006115	 16 	Proximal interphalangeal joint of finger pain	Hand	neither	N/A
+310884017	 16 	Stiff elbow NEC	Elbow	neither	N/A
+359546010	 15 	Bursitis of shoulder	Shoulder	neither	N/A
+311454012	 15 	Peroneus brevis tenosynovitis	Foot/Ankle	neither	N/A
+558851000006111	 15 	Clicking proximal interphalangeal joint of finger	Hand	neither	N/A
+310485014	 15 	Contracture of multiple joints	Multiple	neither	N/A
+112059012	 15 	Contracture of tendon sheath	Other	neither	N/A
+310233010	 15 	Derangement of medial meniscus	Knee	neither	N/A
+311692018	 15 	Fibrositis of neck	Neck	neither	N/A
+823841000006116	 15 	Hip girdle aches	Hip/Pelvis	neither	N/A
+2478844015	 15 	Lateral meniscus, posterior horn derangement	Knee	neither	N/A
+256072013	 15 	O/E - shoulder bone abnormal	Shoulder	neither	N/A
+311610013	 15 	Other specific muscle disorder	Other	neither	N/A
+114691000006114	 15 	Talipes planus - acquired	Foot/Ankle	neither	N/A
+451500011	 14 	Disorder of synovium	Other	neither	N/A
+311192017	 14 	Intervertebral disc disorder	Back	neither	N/A
+451903015	 14 	Other synovial, tendon or bursa disorder NOS	Other	neither	N/A
+359624014	 14 	Postcalcaneal bursitis	Foot/Ankle	neither	N/A
+310815012	 14 	Arthralgia of other specified site	Other	neither	N/A
+312715014	 14 	Cartilage disorder	Other	neither	N/A
+310985015	 14 	Clicking acromioclavicular joint	Shoulder	neither	N/A
+1210251018	 14 	Congenital dislocation of elbow	Elbow	neither	N/A
+1220506018	 14 	Coxa vara - acquired	Hip/Pelvis	neither	N/A
+312721013	 14 	Disorder of cartilage	Other	neither	N/A
+312673017	 14 	Enthesopathy of foot region	Foot/Ankle	neither	N/A
+310496018	 14 	Flexion contracture - wrist	Wrist	neither	N/A
+310881013	 14 	Stiff shoulder NEC	Shoulder	neither	N/A
+5460341000006116	 14 	Subluxation of knee joint	Knee	neither	N/A
+891041000006116	 14 	Tennis elbow - epicondylitis	Elbow	neither	N/A
+314862013	 14 	Upper limb or shoulder anomaly NOS	Shoulder	neither	N/A
+312657011	 13 	Bursitis of elbow	Elbow	neither	N/A
+52463013	 13 	Polymyositis	Other	neither	N/A
+1831121000006116	 13 	Ankle anterior drawer test positive	Foot/Ankle	neither	N/A
+400886010	 13 	Congenital spine deformity NOS	Back	neither	N/A
+310943019	 13 	Finding of subtalar joint	Foot/Ankle	neither	N/A
+891551000006113	 13 	Laxity of ligaments	Other	neither	N/A
+256034015	 13 	O/E - fixed joint deformity	Other	neither	N/A
+311663017	 13 	Other muscle, ligament and fascia disorder	Other	neither	N/A
+4821551000006112	 13 	Overriding toe	Foot/Ankle	neither	N/A
+248721000006117	 13 	Pain on stressing lateral collateral ligament	Knee	neither	N/A
+2226881000000118	 13 	Posterior tibial tendon insufficiency	Leg	neither	N/A
+400257015	 13 	Stiff joint NEC, of the lower leg	Leg	neither	N/A
+314759016	 13 	Upper limb anomaly, unspecified	Arm	neither	N/A
+314781014	 12 	Cleft hand with syndactyly	Hand	neither	N/A
+311278016	 12 	Hypermobility of the coccyx	Back	neither	N/A
+311696015	 12 	Myalgia and myositis unspecified	Other	neither	N/A
+311708016	 12 	Radiculitis	Other	neither	N/A
+312496013	 12 	Segmental and somatic dysfunction	Other	neither	N/A
+359328017	 12 	Shoulder synovitis	Shoulder	neither	N/A
+312649013	 12 	Tendon contracture	Other	neither	N/A
+310435017	 12 	Carpal instability	Wrist	neither	N/A
+23251014	 12 	Congenital cleft hand	Hand	neither	N/A
+46489018	 12 	Congenital deformity of ankle joint	Foot/Ankle	neither	N/A
+310654010	 12 	Effusion of joint	Other	neither	N/A
+312679018	 12 	Enthesopathy of lower limb	Leg	neither	N/A
+310492016	 12 	Flexion contracture - elbow	Elbow	neither	N/A
+104925016	 12 	Hajdu-Cheney syndrome	Other	neither	N/A
+757321000006110	 12 	Joint effusion of ankle AND/OR foot	Foot/Ankle	neither	N/A
+310903012	 12 	Joint stiffness NEC, NOS	Other	neither	N/A
+310239014	 12 	Lateral meniscus derangement NOS	Knee	neither	N/A
+312637012	 12 	Muscle atrophy	Other	neither	N/A
+256022011	 12 	O/E - abnormal joint movement	Other	neither	N/A
+256036018	 12 	O/E - joint unstable	Other	neither	N/A
+312287010	 12 	Other acquired limb deformity	Other	neither	N/A
+312663019	 11 	[X]Other bursitis, not elsewhere classified	Other	neither	N/A
+217231000006115	 11 	Post-operative heterotopic calcification	Other	neither	N/A
+106668015	 11 	Subpatellar bursitis	Knee	neither	N/A
+1778711014	 11 	Supraspinatus syndrome	Shoulder	neither	N/A
+315759011	 11 	[X]Other congenital varus deformities of feet	Foot/Ankle	neither	N/A
+310506010	 11 	Abduction contracture of hip	Hip/Pelvis	neither	N/A
+400347018	 11 	Acquired deformity of other limb parts	Other	neither	N/A
+310846011	 11 	Arthralgia of talonavicular joint	Foot/Ankle	neither	N/A
+891021000006111	 11 	Back disorder/symptom NOS	Back	neither	N/A
+315020010	 11 	Congenital anomalies of cervical vertebrae NEC	Neck	neither	N/A
+581631000006116	 11 	Congenital deformity of hip, unspecified	Hip/Pelvis	neither	N/A
+1491483014	 11 	Costen's syndrome	Chest	neither	N/A
+40511019	 11 	Eosinophilic fasciitis	Other	neither	N/A
+312327010	 11 	Flexion contracture of toe joint	Foot/Ankle	neither	N/A
+2764811000006113	 11 	Garrod's pads	Hand	neither	N/A
+311025014	 11 	Joint disorder NOS, of shoulder region	Shoulder	neither	N/A
+959971000006110	 11 	Limited range of motion	Other	neither	N/A
+736251000006113	 11 	Localized connective tissue disorder, unspecified	Other	neither	N/A
+299380018	 11 	Myopathy	Other	neither	N/A
+310895011	 11 	Stiff ankle NEC	Foot/Ankle	neither	N/A
+5278211000006115	 11 	Stiff back	Back	neither	N/A
+493899010	 77,023 	Ankle sprain	Foot/Ankle	trauma	N/A
+323987011	 52,874 	Knee injury	Knee	trauma	N/A
+323989014	 47,784 	Ankle injury	Foot/Ankle	trauma	N/A
+323990017	 41,745 	Foot injury	Foot/Ankle	trauma	N/A
+323965019	 32,175 	Wrist injury	Wrist	trauma	N/A
+1231070017	 31,392 	Finger injury	Hand	trauma	N/A
+453254017	 28,675 	Injury of hand	Hand	trauma	N/A
+774741000006112	 25,505 	Injury of toe	Foot/Ankle	trauma	N/A
+324041012	 20,156 	Injury	Other	trauma	N/A
+323961011	 20,055 	Injury of elbow	Elbow	trauma	N/A
+323975016	 19,215 	Thumb injury	Hand	trauma	N/A
+323972018	 19,150 	Other finger injuries	Hand	trauma	N/A
+453253011	 18,985 	Injury of wrist	Wrist	trauma	N/A
+906591000006118	 16,597 	[RFC] Soft tissue injuries	Multiple	trauma	N/A
+320169013	 14,336 	Wrist sprain NOS	Wrist	trauma	N/A
+323956014	 14,275 	Shoulder injury	Shoulder	trauma	N/A
+739261000006118	 13,453 	Arm injury	Arm	trauma	N/A
+80869018	 11,809 	Muscle strain	Other	trauma	N/A
+497076011	 11,206 	Knee sprain	Knee	trauma	N/A
+323973011	 11,140 	Injury of finger	Hand	trauma	N/A
+1230712018	 9,676 	Foot sprain	Foot/Ankle	trauma	N/A
+320110018	 8,365 	Sprains and strains of joints and adjacent muscles	Other	trauma	N/A
+60171000006117	 8,357 	Whiplash injury	Neck	trauma	N/A
+402920010	 8,180 	Sprains and strains NOS	Multiple	trauma	N/A
+3216431000006113	 8,151 	Sprain of ankle	Foot/Ankle	trauma	N/A
+320295018	 7,999 	Neck sprain	Neck	trauma	N/A
+323988018	 7,991 	Injury of lower extremity	Leg	trauma	N/A
+325463018	 7,222 	Injury of foot	Foot/Ankle	trauma	N/A
+694101000006113	 6,738 	Muscle injury / strain	Other	trauma	N/A
+807281000006112	 6,523 	Groin strain	Hip/Pelvis	trauma	N/A
+131171000006111	 6,299 	Sprain of wrist	Wrist	trauma	N/A
+492282010	 5,515 	Whiplash injury	Neck	trauma	N/A
+403060017	 4,859 	Other hand injury, excluding finger	Hand	trauma	N/A
+323946010	 4,406 	Traumatic and/or non-traumatic injury of back	Back	trauma	N/A
+319624010	 4,198 	Dislocation of knee NOS	Knee	trauma	N/A
+323939018	 4,057 	Injury of neck	Neck	trauma	N/A
+391057017	 3,890 	Muscle sprain NOS	Other	trauma	N/A
+101001000006111	 3,887 	Sprain of thumb	Hand	trauma	N/A
+391249010	 3,679 	Ligament sprain	Other	trauma	N/A
+320256019	 3,675 	Knee sprain NOS	Knee	trauma	N/A
+319412012	 3,668 	Dislocation of shoulder	Shoulder	trauma	N/A
+320318018	 3,507 	Back sprain	Back	trauma	N/A
+710161000006114	 3,428 	Sprain of ligament of finger	Hand	trauma	N/A
+391098012	 3,356 	Hamstring sprain	Leg	trauma	N/A
+194090018	 3,354 	Injury of lower leg	Leg	trauma	N/A
+402889014	 2,962 	Dislocation or subluxation of knee	Knee	trauma	N/A
+130611000006116	 2,805 	Sprain finger	Hand	trauma	N/A
+222521000000119	 2,798 	Contusion of foot	Foot/Ankle	trauma	N/A
+402882017	 2,771 	Dislocation or subluxation of shoulder	Shoulder	trauma	N/A
+320145014	 2,742 	Sprain of wrist and hand	Hand/Wrist	trauma	N/A
+402918012	 2,558 	Neck sprain, unspecified	Neck	trauma	N/A
+494279018	 2,380 	Leg bruise	Leg	trauma	N/A
+320147018	 2,372 	Wrist sprain	Wrist	trauma	N/A
+507743013	 2,368 	Hand sprain	Hand	trauma	N/A
+130991000006117	 2,303 	Sprain thumb	Hand	trauma	N/A
+320130019	 2,277 	Sprain of shoulder	Shoulder	trauma	N/A
+403059010	 2,222 	Injury of forearm	Arm	trauma	N/A
+320270019	 2,133 	Ankle sprain NOS	Foot/Ankle	trauma	N/A
+1222991015	 2,133 	Contusion, knee	Knee	trauma	N/A
+325451011	 2,122 	Sprain of knee	Knee	trauma	N/A
+320262012	 2,096 	Sprain, ankle joint, lateral	Foot/Ankle	trauma	N/A
+106879011	 2,051 	Mallet finger	Hand	trauma	N/A
+240031000006118	 1,992 	Recurrent dislocation of the patellofemoral joint	Knee	trauma	N/A
+568471000006114	 1,977 	Closed traumatic dislocation of patellofemoral joint	Knee	trauma	N/A
+320377019	 1,863 	Complete tear, knee, anterior cruciate ligament	Knee	trauma	N/A
+162641000006113	 1,834 	Sprain of costal cartilage	Chest	trauma	N/A
+320220017	 1,827 	Sprain of wrist and/or hand	Hand/Wrist	trauma	N/A
+323960012	 1,815 	Injury of upper extremity	Elbow	trauma	N/A
+320143019	 1,766 	Elbow sprain	Elbow	trauma	N/A
+323980013	 1,765 	Injury of hip region	Hip/Pelvis	trauma	N/A
+319441015	 1,736 	Dislocation of elbow joint	Elbow	trauma	N/A
+310455016	 1,706 	Recurrent dislocation of the patella	Knee	trauma	N/A
+135862013	 1,646 	Sprain of medial collateral ligament of knee	Knee	trauma	N/A
+325470018	 1,587 	Sprain of foot	Foot/Ankle	trauma	N/A
+232231000006111	 1,573 	Injury - disorder	Other	trauma	N/A
+481614012	 1,567 	Temporomandibular sprain	Head	trauma	N/A
+402890017	 1,426 	Acute meniscal tear, medial	Knee	trauma	N/A
+391105019	 1,399 	Toe sprain	Foot/Ankle	trauma	N/A
+325413011	 1,392 	[X]Injuries to the wrist and hand	Hand/Wrist	trauma	N/A
+319530015	 1,376 	Dislocation of finger or thumb not otherwise specified	Hand	trauma	N/A
+1871131000006116	 1,241 	Lower back injury	Back	trauma	N/A
+319565015	 1,227 	Acute meniscal tear, lateral	Knee	trauma	N/A
+131591000006117	 1,227 	Strain of Achilles tendon	Foot/Ankle	trauma	N/A
+402888018	 1,216 	Dislocation or subluxation of finger or thumb	Hand	trauma	N/A
+320111019	 1,207 	Sprain of shoulder and upper arm	Shoulder	trauma	N/A
+2645968013	 1,169 	Hyperextension injury of finger	Hand	trauma	N/A
+494277016	 1,156 	Contusion, lower leg	Leg	trauma	N/A
+320258018	 1,135 	Sprain of ankle and foot	Foot/Ankle	trauma	N/A
+402914014	 1,080 	Sprain of knee and leg	Knee	trauma	N/A
+4378771000006115	 1,047 	Injury of ankle	Foot/Ankle	trauma	N/A
+421171017	 956 	Calf injury	Leg	trauma	N/A
+2645967015	 932 	Hyperextension injury of thumb	Hand	trauma	N/A
+323981012	 915 	Injury of thigh	Leg	trauma	N/A
+320247010	 897 	Partial tear, knee, anterior cruciate ligament	Knee	trauma	N/A
+320259014	 885 	Ankle sprain, unspecified	Foot/Ankle	trauma	N/A
+320319014	 884 	Pulled back muscle	Back	trauma	N/A
+169727012	 865 	Injury of musculoskeletal system	Other	trauma	N/A
+320206012	 850 	Volar plate injury, finger, proximal interphalangeal joint	Hand	trauma	N/A
+320307018	 831 	Lumbar sprain	Back	trauma	N/A
+1221607010	 801 	Hip sprain	Hip/Pelvis	trauma	N/A
+8258016	 785 	Repetitive strain injury	Other	trauma	N/A
+194108018	 781 	Dislocation of thumb	Hand	trauma	N/A
+402911018	 779 	Sprain of elbow and forearm	Elbow	trauma	N/A
+131181000006114	 764 	Sprain of ligament of acromioclavicular joint	Shoulder	trauma	N/A
+106921000006111	 753 	Thoracic back sprain	Back	trauma	N/A
+323977012	 748 	Other finger injuries NOS	Hand	trauma	N/A
+322801017	 726 	Contusion wrist or hand	Hand/Wrist	trauma	N/A
+896341000006114	 701 	Sprained ankle	Foot/Ankle	trauma	N/A
+323949015	 697 	Injury of groin	Hip/Pelvis	trauma	N/A
+159841000006114	 696 	Sacroiliac sprain	Back	trauma	N/A
+6901791000006119	 693 	Dislocation of shoulder joint	Shoulder	trauma	N/A
+454086012	 680 	[X]Unspecified injury of wrist and hand	Hand/Wrist	trauma	N/A
+411301012	 673 	Shoulder strain	Shoulder	trauma	N/A
+182691000006118	 664 	Recurrent dislocation of shoulder region	Shoulder	trauma	N/A
+1494890011	 623 	Sprain of hip and thigh	Hip/Pelvis	trauma	N/A
+319531016	 609 	Dislocation of hip joint	Hip/Pelvis	trauma	N/A
+183001000006111	 585 	Recurrent subluxation of patella	Knee	trauma	N/A
+402912013	 569 	Sprain of hand	Hand	trauma	N/A
+131491000006116	 559 	Strain of quadriceps tendon	Leg	trauma	N/A
+320281016	 553 	Ankle and foot sprain NOS	Foot/Ankle	trauma	N/A
+323957017	 544 	Injury of upper arm	Arm	trauma	N/A
+403061018	 540 	Other knee, leg, ankle and foot injuries	Knee	trauma	N/A
+391096011	 526 	Forearm sprain	Arm	trauma	N/A
+1494891010	 514 	Thigh sprain	Leg	trauma	N/A
+310457012	 511 	Recurrent subluxation of the patella	Knee	trauma	N/A
+391100012	 496 	Leg sprain	Leg	trauma	N/A
+1874161000006110	 493 	Child young persons injury - other soft tissue	Other	trauma	N/A
+320316019	 491 	Coccyx sprain	Back	trauma	N/A
+325412018	 479 	[X]Unspecified injury of elbow and forearm	Elbow	trauma	N/A
+164851000006115	 467 	Strain of rotator cuff of shoulder	Shoulder	trauma	N/A
+320280015	 459 	Foot sprain NOS	Foot/Ankle	trauma	N/A
+131521000006119	 458 	Sprain of shoulder joint	Shoulder	trauma	N/A
+320210010	 457 	Sprain tendon wrist or hand	Hand/Wrist	trauma	N/A
+319552012	 450 	Dislocation of hip NOS	Hip/Pelvis	trauma	N/A
+319413019	 435 	Dislocation or subluxation of elbow	Elbow	trauma	N/A
+325446017	 409 	[X]Injuries to the knee and lower leg	Knee	trauma	N/A
+325376013	 400 	Injury of shoulder and upper arm	Shoulder	trauma	N/A
+323924019	 398 	Traumatic AND/OR non-traumatic injury	Other	trauma	N/A
+391132012	 398 	Anterior dislocation of shoulder	Shoulder	trauma	N/A
+5461071000006116	 392 	Sprain of ligament of elbow	Elbow	trauma	N/A
+402880013	 387 	Dislocation of joint	Other	trauma	N/A
+325317013	 385 	[X]Injuries to the neck	Neck	trauma	N/A
+131401000006111	 384 	Sprain of lateral collateral ligament of knee	Knee	trauma	N/A
+325395018	 369 	[X]Injuries to the elbow and forearm	Arm	trauma	N/A
+896231000006112	 360 	Sprain - wrist	Wrist	trauma	N/A
+411296012	 358 	Dislocation of radius - distal	Wrist	trauma	N/A
+3141251000006116	 350 	Whiplash injury to neck	Neck	trauma	N/A
+320305014	 349 	Neck sprain NOS	Neck	trauma	N/A
+5652861000006115	 345 	Strain of tendon of medial thigh muscle	Leg	trauma	N/A
+320257011	 341 	Leg sprain NOS	Leg	trauma	N/A
+324040013	 335 	Other injury NOS	Other	trauma	N/A
+5460041000006118	 333 	Dislocation of patellofemoral joint	Knee	trauma	N/A
+9611013	 329 	Recurrent dislocation of joint	Other	trauma	N/A
+130721000006116	 321 	Strain of gastrocnemius tendon	Leg	trauma	N/A
+476266016	 316 	Strain of neck muscle	Neck	trauma	N/A
+131351000006115	 291 	Strain of hamstring tendon	Leg	trauma	N/A
+320205011	 285 	Volar plate injury, finger, metacarpophalangeal joint	Hand	trauma	N/A
+899331000006111	 283 	Foot injury	Foot/Ankle	trauma	N/A
+159821000006119	 278 	Sprain of ligament of sacroiliac joint	Back	trauma	N/A
+320560015	 278 	Sprained rib	Chest	trauma	N/A
+13899011000006111	 272 	Dislocation of knee joint	Knee	trauma	N/A
+312089015	 271 	Juvenile apophysitis	Other	trauma	N/A
+325447014	 261 	Contusion of lower leg	Leg	trauma	N/A
+325334017	 250 	Chest injury	Chest	trauma	N/A
+320271015	 249 	Foot sprain, unspecified	Foot/Ankle	trauma	N/A
+189471000006112	 234 	Recurrent dislocation of shoulder - anterior	Shoulder	trauma	N/A
+391135014	 233 	Dislocation of radial head	Shoulder	trauma	N/A
+131461000006112	 232 	Strain of patellar tendon	Knee	trauma	N/A
+319560013	 226 	Acute meniscal tear, medial, posterior horn	Knee	trauma	N/A
+391056014	 225 	Rectus muscle sprain	Hip/Pelvis	trauma	N/A
+320207015	 214 	Volar plate injury, finger, distal interphalangeal joint	Hand	trauma	N/A
+334287016	 213 	Haglund's deformity	Foot/Ankle	trauma	N/A
+568881000006114	 211 	Closed traumatic subluxation acromioclavicular joint	Shoulder	trauma	N/A
+320131015	 210 	Sprain of upper extremity	Arm	trauma	N/A
+131391000006114	 207 	Sprain of interphalangeal joint of toe	Foot/Ankle	trauma	N/A
+5658961000006113	 206 	Soft tissue injury	Other	trauma	N/A
+158621000006114	 200 	Rupture of Achilles tendon	Foot/Ankle	trauma	N/A
+99770017	 198 	Sprain of cruciate ligament of knee	Knee	trauma	N/A
+391102016	 198 	Sprain of joint	Other	trauma	N/A
+319561012	 196 	Acute meniscal tear, medial, bucket handle tear	Knee	trauma	N/A
+402909010	 196 	Other shoulder sprain	Shoulder	trauma	N/A
+319572019	 193 	Tear of meniscus of knee	Knee	trauma	N/A
+323959019	 192 	Other shoulder and upper arm injury NOS	Arm	trauma	N/A
+320162016	 191 	Sprain ulnar collateral ligament	Wrist	trauma	N/A
+424381012	 183 	Strain of calf muscle	Leg	trauma	N/A
+323993015	 181 	Knee, leg, ankle and foot injuries NOS	Leg	trauma	N/A
+330547017	 179 	Traumatic injury	Other	trauma	N/A
+320260016	 176 	Sprain, ankle joint, medial	Foot/Ankle	trauma	N/A
+324018016	 171 	Injury of muscle and tendon at ankle and foot level	Foot/Ankle	trauma	N/A
+320234017	 171 	Sprain of hip	Hip/Pelvis	trauma	N/A
+568371000006118	 162 	Closed traumatic dislocation of joint of finger	Hand	trauma	N/A
+445004010	 161 	Dislocation of temporomandibular joint	Head	trauma	N/A
+131411000006114	 161 	Sprain, knee joint, medial collateral	Knee	trauma	N/A
+319931012	 156 	Other dislocation NOS	Other	trauma	N/A
+320291010	 153 	Sacroiliac sprain NOS	Back	trauma	N/A
+402881012	 152 	Dislocation or subluxation of jaw	Head	trauma	N/A
+568101000006114	 151 	Closed traumatic dislocation acromioclavicular joint	Shoulder	trauma	N/A
+319375018	 150 	Closed traumatic dislocation of shoulder	Shoulder	trauma	N/A
+5459701000006116	 149 	Sprain of toe joint	Foot/Ankle	trauma	N/A
+896041000006112	 148 	Dislocated patella	Knee	trauma	N/A
+310577019	 147 	Acetabular labrum tear	Shoulder	trauma	N/A
+409930017	 144 	Thoracic back sprain	Back	trauma	N/A
+319568018	 136 	Acute meniscal tear, lateral, bucket handle tear	Knee	trauma	N/A
+159011000006116	 136 	Patellar tendon rupture	Knee	trauma	N/A
+933111000006118	 136 	Wrist injury	Wrist	trauma	N/A
+325394019	 133 	[X]Unspecified injury of shoulder and upper arm	Shoulder	trauma	N/A
+319370011	 132 	Dislocated jaw	Head	trauma	N/A
+1494798013	 132 	Sternum sprain	Chest	trauma	N/A
+391086019	 130 	Torn gastrocnemius	Leg	trauma	N/A
+319386016	 128 	Closed dislocation of acromioclavicular joint	Shoulder	trauma	N/A
+320236015	 127 	Hip sprain NOS	Hip/Pelvis	trauma	N/A
+323955013	 126 	Injury of scapular region	Shoulder	trauma	N/A
+391075016	 125 	Tendon strain	Other	trauma	N/A
+451462019	 124 	Recurrent subluxation of the hip joint	Hip/Pelvis	trauma	N/A
+310453011	 123 	Recurrent dislocation of the knee	Knee	trauma	N/A
+320120011	 122 	Sprain, biceps tendon	Arm	trauma	N/A
+391082017	 120 	Rupture of tendon	Other	trauma	N/A
+3527272012	 119 	Injury of muscle of lower back	Back	trauma	N/A
+320141017	 118 	Other elbow sprain	Elbow	trauma	N/A
+320557010	 118 	Rib sprain unspecified	Chest	trauma	N/A
+6613421000006112	 118 	Sprain of ligament	Other	trauma	N/A
+108921000006110	 117 	Tendon injury to hand NOS	Hand	trauma	N/A
+933121000006114	 116 	Ankle injury	Foot/Ankle	trauma	N/A
+320181012	 115 	Hand sprain NOS	Hand	trauma	N/A
+310452018	 115 	Knee - recurrent dislocation	Knee	trauma	N/A
+896291000006111	 115 	Sprained knee	Knee	trauma	N/A
+319634018	 112 	Dislocation of ankle NOS	Foot/Ankle	trauma	N/A
+320531012	 111 	Mallet finger with closed tendon injury	Hand	trauma	N/A
+130581000006112	 109 	Late effect of sprain AND/OR strain without tendon injury	Other	trauma	N/A
+322807018	 105 	Contusion, wrist and hand NOS	Hand/Wrist	trauma	N/A
+319567011	 104 	Acute meniscal tear, lateral, posterior horn	Knee	trauma	N/A
+568561000006118	 102 	Closed traumatic dislocation patellofemoral joint, lateral	Knee	trauma	N/A
+896411000006117	 102 	Sprained neck	Neck	trauma	N/A
+575291000006113	 100 	Compartment syndrome of leg	Leg	trauma	N/A
+320237012	 100 	Thigh sprain NOS	Knee	trauma	N/A
+598231000006114	 98 	Costal cartilage sprain	Chest	trauma	N/A
+324025011	 98 	Other multiple injuries	Multiple	trauma	N/A
+320565013	 98 	Xiphoid cartilage sprain	Chest	trauma	N/A
+568351000006111	 94 	Closed traumatic dislocation of elbow NOS	Elbow	trauma	N/A
+324011010	 94 	Injury of adductor muscle and tendon of thigh	Leg	trauma	N/A
+320246018	 91 	Partial tear, knee, medial collateral ligament	Knee	trauma	N/A
+320216016	 91 	Sprain tendon of finger	Hand	trauma	N/A
+320308011	 89 	Lumbar back sprain	Back	trauma	N/A
+323889010	 89 	Traumatic complications and unspecified injuries	Other	trauma	N/A
+320563018	 88 	Sternoclavicular sprain	Shoulder	trauma	N/A
+5668791000006112	 88 	Upper back injury	Back	trauma	N/A
+183021000006118	 86 	Recurrent subluxation of shoulder - anterior	Shoulder	trauma	N/A
+131361000006118	 86 	Sprain of hip joint	Hip/Pelvis	trauma	N/A
+131061000006115	 85 	Sprain thumb, metacarpophalangeal joint nonspecific	Hand	trauma	N/A
+319497017	 83 	Closed traumatic dislocation of finger, unspecified	Hand	trauma	N/A
+453181013	 82 	Lumbosacral strain	Back	trauma	N/A
+568671000006112	 79 	Closed traumatic dislocation toe, interphalangeal joint, single	Foot/Ankle	trauma	N/A
+320261017	 79 	Deltoid ligament ankle sprain	Foot/Ankle	trauma	N/A
+8261991000006112	 78 	Injury of tendon of finger	Hand	trauma	N/A
+319501010	 77 	Closed traumatic dislocation, proximal interphalangeal joint	Hand	trauma	N/A
+310422014	 77 	Habitual subluxation of the shoulder	Shoulder	trauma	N/A
+896371000006118	 77 	Sprained foot	Foot/Ankle	trauma	N/A
+320251012	 76 	Other specified knee sprain	Knee	trauma	N/A
+411294010	 75 	Bucket handle tear - current injury	Knee	trauma	N/A
+319498010	 75 	Closed traumatic dislocation, metacarpophalangeal joint	Hand	trauma	N/A
+323927014	 75 	Other face and neck injuries	Neck	trauma	N/A
+4379021000006110	 75 	Traumatic dislocation of joint of finger	Hand	trauma	N/A
+8261561000006110	 74 	Injury of muscle of upper back	Back	trauma	N/A
+130711000006112	 73 	Sprain finger, proximal interphalangeal joint, nonspecific	Hand	trauma	N/A
+568171000006115	 72 	Closed traumatic dislocation of elbow joint	Elbow	trauma	N/A
+325265011	 72 	Dislocations, sprains and strains involving head with neck	Neck	trauma	N/A
+569181000006114	 71 	Closed traumatic subluxation patellofemoral joint	Knee	trauma	N/A
+3447641000006113	 71 	Traumatic dislocation of knee joint	Knee	trauma	N/A
+320144013	 70 	Forearm sprain NOS	Arm	trauma	N/A
+391266012	 69 	Tear of ligament of knee joint	Knee	trauma	N/A
+310374013	 66 	Pathological dislocation of patellofemoral joint	Knee	trauma	N/A
+319496014	 66 	Closed traumatic dislocation digit	Hand	trauma	N/A
+325374011	 66 	Injury of trunk	Back	trauma	N/A
+2917025019	 66 	Strain of hamstring muscle	Leg	trauma	N/A
+195948016	 65 	Compartment syndrome	Other	trauma	N/A
+896351000006111	 65 	Sprain - Achilles tendon	Foot/Ankle	trauma	N/A
+2124011000000110	 64 	Injury of muscle of rotator cuff	Shoulder	trauma	N/A
+320213012	 64 	Sprain tendon of thumb	Hand	trauma	N/A
+320269015	 63 	Partial tear, ankle, lateral ligament	Foot/Ankle	trauma	N/A
+324013013	 62 	Injury of muscle and tendon at lower leg level	Leg	trauma	N/A
+427441000006117	 61 	[X]Sprain & strain of oth & unspecif parts of wrist & hand	Hand/Wrist	trauma	N/A
+319492011	 61 	Dislocation of wrist NOS	Wrist	trauma	N/A
+623361000006116	 61 	Dislocations, sprains and strains involving thorax with lower back and pelvis	Back	trauma	N/A
+402910017	 61 	Other upper arm sprain	Arm	trauma	N/A
+320524013	 61 	Rupture tendon of finger	Hand	trauma	N/A
+481611016	 60 	Jaw sprain	Head	trauma	N/A
+14427013	 59 	Closed dislocation of jaw	Head	trauma	N/A
+5460061000006119	 59 	Dislocation of toe joint	Foot/Ankle	trauma	N/A
+310572013	 59 	Glenoid labrum tear	Shoulder	trauma	N/A
+131441000006113	 59 	Sprain, metatarsophalangeal joint	Foot/Ankle	trauma	N/A
+899311000006117	 58 	Injury arm NOS	Arm	trauma	N/A
+320569019	 58 	Sprain, symphysis pubis	Hip/Pelvis	trauma	N/A
+324010011	 57 	Injury of muscle and tendon at hip and thigh level	Hip/Pelvis	trauma	N/A
+569261000006111	 56 	Closed traumatic subluxation sternoclavicular joint	Shoulder	trauma	N/A
+899321000006113	 56 	Injury leg NOS	Leg	trauma	N/A
+325436019	 56 	Injury of hip and thigh	Hip/Pelvis	trauma	N/A
+898431000006112	 55 	Bruise NOS	Other	trauma	N/A
+1233051016	 55 	Quadriceps tendon rupture	Hip/Pelvis	trauma	N/A
+131551000006111	 55 	Strain of subscapularis tendon	Shoulder	trauma	N/A
+8261791000006110	 54 	Injury of muscle of foot	Foot/Ankle	trauma	N/A
+325493012	 54 	Multiple injuries	Multiple	trauma	N/A
+131031000006112	 54 	Sprain thumb, metacarpophalangeal joint, ulnar collateral ligament	Hand	trauma	N/A
+4378711000006112	 53 	Hand injury	Hand	trauma	N/A
+7862881000006114	 53 	Injury of muscle at shoulder level	Shoulder	trauma	N/A
+8275491000006113	 53 	Injury of tendon of ankle	Foot/Ankle	trauma	N/A
+320211014	 53 	Sprain wrist extensors	Wrist	trauma	N/A
+320242016	 52 	Sprain or partial tear, knee, lateral collateral ligament	Knee	trauma	N/A
+896241000006119	 52 	Sprained finger/thumb	Hand	trauma	N/A
+4378981000006115	 52 	Traumatic dislocation of shoulder region	Shoulder	trauma	N/A
+561241000006113	 51 	Closed dislocation of sternoclavicular joint	Shoulder	trauma	N/A
+411297015	 51 	Current knee cartilage tear	Knee	trauma	N/A
+4378651000006115	 51 	Elbow injury	Elbow	trauma	N/A
+320578013	 51 	Other specified sprains and strains	Other	trauma	N/A
+896191000006119	 51 	Sprained shoulder	Shoulder	trauma	N/A
+5461211000006118	 50 	Rupture of ligament of knee joint	Knee	trauma	N/A
+896361000006113	 50 	Sprain - ankle NOS	Foot/Ankle	trauma	N/A
+896331000006116	 50 	Sprained knee NOS	Knee	trauma	N/A
+4379031000006113	 50 	Traumatic dislocation of joint of thumb	Hand	trauma	N/A
+319566019	 49 	Acute meniscal tear, lateral, anterior horn	Knee	trauma	N/A
+310459010	 48 	Habitual dislocation of the patella	Knee	trauma	N/A
+320208013	 48 	Volar plate injury, thumb, metacarpophalangeal joint	Hand	trauma	N/A
+323967010	 47 	Other elbow, wrist and forearm injuries NOS	Arm	trauma	N/A
+319580014	 46 	Closed traumatic dislocation of knee, unspecified	Knee	trauma	N/A
+320227019	 45 	Iliofemoral sprain	Hip/Pelvis	trauma	N/A
+323953018	 45 	Other shoulder and upper arm injuries	Shoulder	trauma	N/A
+402891018	 44 	Dislocation or subluxation of ankle	Foot/Ankle	trauma	N/A
+310412015	 44 	Recurrent subluxation of shoulder - anterior	Shoulder	trauma	N/A
+359841013	 44 	Rupture of Baker's cyst - knee	Knee	trauma	N/A
+117800011	 44 	Traumatic myositis ossificans	Other	trauma	N/A
+222391000000114	 44 	Traumatic torticollis	Neck	trauma	N/A
+311509014	 43 	Hand and wrist extensor tendon rupture	Wrist	trauma	N/A
+319579011	 43 	Other closed traumatic dislocation of knee	Knee	trauma	N/A
+158711000006114	 43 	Rupture of hamstring tendon	Leg	trauma	N/A
+402917019	 43 	Sprain of spinal ligament	Back	trauma	N/A
+325414017	 42 	[X]Contusion of other parts of wrist and hand	Hand/Wrist	trauma	N/A
+8262051000006113	 42 	Injury of tendon of foot	Foot/Ankle	trauma	N/A
+131021000006114	 41 	Sprain thumb, metacarpophalangeal joint, radial collateral ligament	Hand	trauma	N/A
+4378611000006116	 40 	Injury of shoulder region	Shoulder	trauma	N/A
+320179010	 40 	Interphalangeal sprain	Hand	trauma	N/A
+320376011	 39 	Complete tear, knee, posterior cruciate ligament	Knee	trauma	N/A
+896391000006117	 39 	Sprain - foot NOS	Foot/Ankle	trauma	N/A
+8261751000006116	 38 	Injury of muscle of hand	Hand	trauma	N/A
+321735014	 38 	Multiple injuries of ankle and foot	Foot/Ankle	trauma	N/A
+1495246018	 38 	Sprained toe	Foot/Ankle	trauma	N/A
+4378741000006111	 37 	Injury of knee	Knee	trauma	N/A
+310410011	 37 	Recurrent dislocation of shoulder - anterior	Shoulder	trauma	N/A
+325464012	 36 	[X]Contusion of other and unspecified parts of foot	Foot/Ankle	trauma	N/A
+325519012	 36 	[X]Unspecified injury of upper limb, level unspecified	Arm	trauma	N/A
+311187019	 36 	Annular tear of lumbar disc	Back	trauma	N/A
+568921000006118	 36 	Closed traumatic subluxation costo-vertebral joint	Chest	trauma	N/A
+895941000006117	 36 	Dislocated shoulder	Shoulder	trauma	N/A
+4395951000006111	 36 	Injury of lower limb	Leg	trauma	N/A
+131561000006113	 36 	Strain of supraspinatus tendon	Shoulder	trauma	N/A
+427491000006114	 35 	[X]Sprain/strain of joint/ligam of oth & unsp part of neck	Neck	trauma	N/A
+319635017	 35 	Dislocation or subluxation of foot	Foot/Ankle	trauma	N/A
+8261971000006111	 35 	Injury of tendon of wrist joint	Wrist	trauma	N/A
+320178019	 35 	Metacarpophalangeal sprain	Hand	trauma	N/A
+320518019	 35 	Rupture tendon of thumb	Hand	trauma	N/A
+320137016	 35 	Sprain, elbow joint, medial collateral ligament	Elbow	trauma	N/A
+5459941000006116	 35 	Anterior dislocation of shoulder joint	Shoulder	trauma	N/A
+319442010	 34 	Dislocation or subluxation of wrist	Wrist	trauma	N/A
+320248017	 34 	Partial tear, knee, posterior cruciate ligament	Knee	trauma	N/A
+320566014	 34 	Sternum sprain NOS	Chest	trauma	N/A
+320209017	 34 	Volar plate injury, thumb, interphalangeal joint	Hand	trauma	N/A
+320382014	 33 	Complete tear, ankle ligament	Foot/Ankle	trauma	N/A
+451083015	 33 	Injury of tendon of the rotator cuff of shoulder	Shoulder	trauma	N/A
+320184016	 33 	Sprain thumb, carpometacarpal joint	Hand	trauma	N/A
+320122015	 33 	Sprain, triceps tendon	Arm	trauma	N/A
+96651000006115	 33 	Torn Achilles tendon	Foot/Ankle	trauma	N/A
+390421000006114	 32 	[X]Injuries to the abdomen, lower back, lumbar spine and pelvis	Multiple	trauma	N/A
+310413013	 32 	Recurrent subluxation of shoulder - posterior	Shoulder	trauma	N/A
+131381000006111	 32 	Strain of infraspinatus tendon	Shoulder	trauma	N/A
+320373015	 31 	Complete tear, knee ligament	Knee	trauma	N/A
+623471000006115	 31 	Dislocation of joint of upper limb	Shoulder	trauma	N/A
+323941017	 31 	Other trunk injuries	Trunk	trauma	N/A
+411302017	 31 	Ruptured Achilles tendon - traumatic	Foot/Ankle	trauma	N/A
+130701000006114	 31 	Sprain finger, metacarpophalangeal joint, non specific	Hand	trauma	N/A
+159031000006110	 30 	Rupture of quadriceps tendon	Leg	trauma	N/A
+5461141000006111	 30 	Sprain of lateral ligament of ankle joint	Foot/Ankle	trauma	N/A
+159761000006115	 30 	Sprain of sacrococcygeal ligament	Back	trauma	N/A
+320118013	 30 	Sprain, shoulder joint, anterior	Shoulder	trauma	N/A
+569231000006119	 29 	Closed traumatic subluxation shoulder	Shoulder	trauma	N/A
+1715851000006113	 29 	Compartment syndrome	Other	trauma	N/A
+7863251000006113	 29 	Injury of muscle at forearm level	Arm	trauma	N/A
+320151016	 29 	Sprain radial collateral ligament	Wrist	trauma	N/A
+320279018	 29 	Sprain, extensor tendon, foot	Foot/Ankle	trauma	N/A
+569391000006114	 28 	Closed traumatic subluxation, sterno-clavicular joint, ant	Shoulder	trauma	N/A
+319508016	 28 	Open dislocation of finger	Hand	trauma	N/A
+320142012	 28 	Other forearm sprain	Arm	trauma	N/A
+310419012	 28 	Recurrent subluxation of shoulder - multidirectional	Shoulder	trauma	N/A
+320311012	 28 	Sacral sprain, unspecified	Back	trauma	N/A
+325287019	 28 	Severe multiple injuries	Multiple	trauma	N/A
+3216461000006116	 28 	Sprain of ligament of ankle joint	Foot/Ankle	trauma	N/A
+390401000006116	 27 	[X]Injuries involving multiple body regions	Multiple	trauma	N/A
+510491000006113	 27 	Biceps tendon rupture	Arm	trauma	N/A
+814701000006117	 27 	Haglund's disease - osteochondrosis of os tibiale externum	Foot/Ankle	trauma	N/A
+391114012	 27 	Hand dislocation NOS	Hand	trauma	N/A
+311326016	 27 	Partial thickness rotator cuff tear	Shoulder	trauma	N/A
+182671000006119	 27 	Recurrent joint dislocation, of the lower leg	Leg	trauma	N/A
+320375010	 26 	Complete tear, knee, medial collateral ligament	Knee	trauma	N/A
+131581000006115	 26 	Sprain, tarsometatarsal joint	Foot/Ankle	trauma	N/A
+570891000006117	 25 	Closed traumatic dislocation shoulder joint, anterior (sub-coracoid)	Shoulder	trauma	N/A
+3216441000006115	 25 	Sprain of ankle joint	Foot/Ankle	trauma	N/A
+131011000006118	 25 	Sprain thumb, interphalangeal joint, ulnar collateral ligament	Hand	trauma	N/A
+323940016	 24 	Other face and neck injuries NOS	Neck	trauma	N/A
+320532017	 24 	Rupture of tendon of finger	Hand	trauma	N/A
+568571000006113	 23 	Closed traumatic dislocation patello-femoral joint, medial	Knee	trauma	N/A
+569191000006112	 23 	Closed traumatic subluxation patello-femoral joint, lateral	Knee	trauma	N/A
+891941000006115	 23 	F.B. left in ankle/foot	Foot/Ankle	trauma	N/A
+896211000006118	 23 	Sprained elbow	Elbow	trauma	N/A
+390731000006118	 22 	[X]Injury of other muscles & tendons at ankle & foot level	Foot/Ankle	trauma	N/A
+576481000006115	 22 	Complete tear of scapholunate ligament	Wrist	trauma	N/A
+320343012	 22 	Complete tear ulnar collateral ligament	Wrist	trauma	N/A
+320548016	 22 	Jaw sprain NOS	Head	trauma	N/A
+320235016	 22 	Other thigh sprain	Leg	trauma	N/A
+310573015	 22 	Triangular fibrocartilage tear	Shoulder	trauma	N/A
+325434016	 21 	[X]Other specified injuries of wrist and hand	Hand/Wrist	trauma	N/A
+319368019	 21 	Closed subluxation jaw	Head	trauma	N/A
+1230246016	 21 	Closed traumatic dislocation carpometacarpal joint	Hand	trauma	N/A
+568501000006119	 21 	Closed traumatic dislocation of shoulder NOS	Shoulder	trauma	N/A
+402886019	 21 	Closed traumatic dislocation of wrist, unspecified	Wrist	trauma	N/A
+319376017	 21 	Closed traumatic dislocation shoulder joint, unspecified	Shoulder	trauma	N/A
+568641000006116	 21 	Closed traumatic dislocation sterno-clavicular joint	Shoulder	trauma	N/A
+411299017	 21 	Dislocation of fibula, distal end	Leg	trauma	N/A
+319684013	 21 	Dislocation of foot NOS	Foot/Ankle	trauma	N/A
+182981000006112	 21 	Recurrent subluxation of metacarpophalangeal joint	Hand	trauma	N/A
+158631000006112	 21 	Rupture biceps tendon	Arm	trauma	N/A
+891421000006115	 21 	Tendon rupture - knee	Knee	trauma	N/A
+391133019	 20 	Posterior dislocation of shoulder	Shoulder	trauma	N/A
+320212019	 20 	Sprain wrist flexors	Wrist	trauma	N/A
+320284012	 20 	Sprain, lumbosacral ligament	Back	trauma	N/A
+895951000006115	 19 	Dislocated elbow	Elbow	trauma	N/A
+5460051000006116	 19 	Dislocated patella	Knee	trauma	N/A
+324001015	 19 	Injury of muscle and tendon at forearm level	Arm	trauma	N/A
+319622014	 19 	Injury to multiple structures of knee	Knee	trauma	N/A
+325512015	 19 	Muscle and tendon injury	Other	trauma	N/A
+896221000006114	 19 	Sprain - hand	Hand	trauma	N/A
+130691000006114	 19 	Sprain finger, distal interphalangeal joint, non specific	Hand	trauma	N/A
+3649971000006118	 19 	Sprain of wrist joint	Wrist	trauma	N/A
+320562011	 19 	Sternum sprain unspecified	Back	trauma	N/A
+319415014	 18 	Closed traumatic dislocation of elbow, unspecified	Elbow	trauma	N/A
+319454010	 18 	Closed traumatic dislocation proximal metacarpal	Hand	trauma	N/A
+320320015	 18 	Complete tear, shoulder joint	Shoulder	trauma	N/A
+320150015	 18 	Distal radioulnar joint sprain	Wrist	trauma	N/A
+777711000006115	 18 	Inj of unspecified muscle & tendon at wrist & hand level	Hand/Wrist	trauma	N/A
+320546017	 18 	Jaw sprain, unspecified	Head	trauma	N/A
+323948011	 18 	Other flank injuries	Trunk	trauma	N/A
+130931000006116	 18 	Sprain of scapholunate ligament	Wrist	trauma	N/A
+320278014	 18 	Sprain, flexor tendon, foot	Foot/Ankle	trauma	N/A
+13905331000006112	 17 	Repetitive motion disorder	Other	trauma	N/A
+390611000006116	 17 	[X]Injury of other & unspecif musc & tendons at thigh level	Leg	trauma	N/A
+319630010	 17 	Closed traumatic dislocation ankle joint	Foot/Ankle	trauma	N/A
+319584017	 17 	Closed traumatic dislocation knee joint, lateral	Knee	trauma	N/A
+891971000006111	 17 	F.B. left in hand	Hand	trauma	N/A
+8262081000006117	 17 	Injury of tendon of shoulder joint	Shoulder	trauma	N/A
+320544019	 17 	Other and ill-defined sprains and strains	Other	trauma	N/A
+320252017	 17 	Other specified leg sprain	Leg	trauma	N/A
+1786831018	 17 	Rupture supraspinatus tendon	Shoulder	trauma	N/A
+320138014	 17 	Sprain, elbow joint, ulnar collateral ligament	Elbow	trauma	N/A
+319569014	 16 	Acute meniscal tear, lateral, radial	Knee	trauma	N/A
+390961000006113	 16 	[X]Injury of unspecified muscle & tendon of ankle and foot	Foot/Ankle	trauma	N/A
+576661000006110	 16 	Complete tear, acromioclavicular ligament	Shoulder	trauma	N/A
+320387015	 16 	Complete tear, ankle, lateral ligament	Foot/Ankle	trauma	N/A
+895971000006113	 16 	Dislocated thumb	Hand	trauma	N/A
+135401010	 16 	Dislocation of mandible	Head	trauma	N/A
+5459801000006112	 16 	Dislocation of sternoclavicular joint	Shoulder	trauma	N/A
+411298013	 16 	Dislocation of tibia, distal end	Leg	trauma	N/A
+320263019	 16 	Distal tibiofibular sprain	Foot/Ankle	trauma	N/A
+761911000006119	 16 	Flexor digitorum profundus tendon rupture	Hand	trauma	N/A
+8261961000006116	 16 	Injury of tendon of elbow joint	Elbow	trauma	N/A
+320579017	 16 	Other and ill-defined sprains and strains NOS	Other	trauma	N/A
+323954012	 16 	Other axilla injuries	Shoulder	trauma	N/A
+320268011	 16 	Partial tear, ankle, medial ligament	Foot/Ankle	trauma	N/A
+310415018	 16 	Recurrent subluxation of shoulder - inferior	Shoulder	trauma	N/A
+130661000006118	 16 	Sprain finger, proximal interphalangeal joint, radial collateral ligament	Hand	trauma	N/A
+391074017	 16 	Tendon strain	Other	trauma	N/A
+390741000006111	 15 	[X]Injury of other muscles & tendons at wrist & hand level	Hand/Wrist	trauma	N/A
+391112011	 15 	Arm dislocation NOS	Arm	trauma	N/A
+898351000006112	 15 	Bruise - wrist/hand	Hand/Wrist	trauma	N/A
+319417018	 15 	Closed traumatic dislocation elbow joint, posterior	Elbow	trauma	N/A
+319516013	 15 	Closed traumatic subluxation digit	Hand	trauma	N/A
+310421019	 15 	Habitual dislocation of the shoulder	Shoulder	trauma	N/A
+310424010	 15 	Recurrent dislocation of elbow	Elbow	trauma	N/A
+130551000006116	 15 	Sprain & strain of oth & unsp parts of lumb spine & pelv	Back	trauma	N/A
+131451000006110	 15 	Sprain, mid tarsal joint	Foot/Ankle	trauma	N/A
+320119017	 15 	Sprain, shoulder joint, posterior	Shoulder	trauma	N/A
+310242015	 14 	Radial tear of lateral meniscus	Knee	trauma	N/A
+310227018	 14 	Radial tear of medial meniscus	Knee	trauma	N/A
+319825013	 14 	Closed subluxation cervical spine	Neck	trauma	N/A
+575301000006114	 14 	Compartment syndrome, thigh	Leg	trauma	N/A
+895981000006111	 14 	Dislocated finger	Hand	trauma	N/A
+4816371000006112	 14 	Haglund's deformity	Foot/Ankle	trauma	N/A
+4378731000006118	 14 	Hip injury	Hip/Pelvis	trauma	N/A
+8262071000006115	 14 	Injury of tendon of toe	Foot/Ankle	trauma	N/A
+775171000006118	 14 	Injury of unspecified muscle & tendon of ankle and foot	Foot/Ankle	trauma	N/A
+1494989015	 14 	Lumbosacral sprain	Back	trauma	N/A
+320244015	 14 	Partial tear, knee, lateral collateral ligament	Knee	trauma	N/A
+310373019	 14 	Pathological dislocation of knee joint	Knee	trauma	N/A
+131421000006118	 14 	Strain of long head of biceps	Arm	trauma	N/A
+320558017	 13 	Chondrocostal joint sprain	Chest	trauma	N/A
+568161000006110	 13 	Closed traumatic dislocation distal radio-ulnar joint	Wrist	trauma	N/A
+568911000006114	 13 	Closed traumatic subluxation costo-chondral joint	Chest	trauma	N/A
+576541000006110	 13 	Complete tear, thumb, metacarpophalangeal joint, ulnar collateral ligament	Hand	trauma	N/A
+311524017	 13 	Dislocation of tendon, wrist or hand	Hand/Wrist	trauma	N/A
+320530013	 13 	Rupture extensor digitorum tendon	Hand	trauma	N/A
+320514017	 13 	Rupture tendon forearm or wrist	Arm	trauma	N/A
+896311000006110	 13 	Sprain - medial knee ligament	Knee	trauma	N/A
+131001000006116	 13 	Sprain thumb, interphalangeal joint, radial collateral ligament	Hand	trauma	N/A
+320136013	 13 	Sprain, elbow joint, lateral collateral ligament	Elbow	trauma	N/A
+320289019	 13 	Sprain, iliolumbar ligament	Back	trauma	N/A
+319621019	 13 	Tear of articular cartilage of knee, current	Knee	trauma	N/A
+319559015	 12 	Acute meniscal tear, medial, anterior horn	Knee	trauma	N/A
+890081000006116	 12 	Torn medial meniscus	Knee	trauma	N/A
+391101011	 12 	Back sprain excluding lumbosacral	Back	trauma	N/A
+319603017	 12 	Closed traumatic subluxation knee joint	Knee	trauma	N/A
+319405015	 12 	Closed traumatic subluxation shoulder joint	Shoulder	trauma	N/A
+4812801000006114	 12 	Detachment of the glenoid labrum and/or capsule of the shoulder joint	Shoulder	trauma	N/A
+895991000006114	 12 	Dislocated finger NOS	Hand	trauma	N/A
+4395921000006119	 12 	Injury of upper limb	Arm	trauma	N/A
+51101000006111	 12 	Open traumatic dislocation of patello-femoral joint	Knee	trauma	N/A
+320527018	 12 	Rupture flexor digitorum profundus tendon	Hand	trauma	N/A
+4852291000006110	 12 	Rupture of ankle ligament	Foot/Ankle	trauma	N/A
+320537011	 12 	Rupture of tendon of lower limb	Leg	trauma	N/A
+320310013	 12 	Sacrum sprain	Back	trauma	N/A
+3390741000006115	 12 	Sprain of ligament of knee joint	Knee	trauma	N/A
+320576012	 12 	Sprain of pelvis NOS	Hip/Pelvis	trauma	N/A
+896481000006112	 12 	Sprained ribs	Chest	trauma	N/A
+319500011	 11 	Closed traumatic dislocation, distal interphalangeal joint	Hand	trauma	N/A
+319518014	 11 	Closed traumatic subluxation, metacarpophalangeal joint	Hand	trauma	N/A
+575271000006112	 11 	Compartment syndrome of forearm	Arm	trauma	N/A
+896011000006113	 11 	Dislocated knee	Knee	trauma	N/A
+325487016	 11 	Dislocations, sprains and strains involving multiple body regions	Other	trauma	N/A
+310423016	 11 	Elbow - recurrent dislocation	Elbow	trauma	N/A
+777771000006112	 11 	Inj/extensor muscle+tendon/oth finger(s) at forearm level	Arm	trauma	N/A
+5453841000006111	 11 	Injury of thumb	Hand	trauma	N/A
+321597018	 11 	Mallet finger with open tendon injury	Hand	trauma	N/A
+320543013	 11 	Other specified tendon rupture	Other	trauma	N/A
+189541000006115	 11 	Recurrent dislocation of hip	Hip/Pelvis	trauma	N/A
+310429017	 11 	Recurrent subluxation of radial head	Arm	trauma	N/A
+310462013	 11 	Recurrent subluxation of the ankle	Foot/Ankle	trauma	N/A
+5459561000006111	 11 	Rupture of gastrocnemius tendon	Leg	trauma	N/A
+320219011	 11 	Sprain, extensor digitorum tendon	Hand	trauma	N/A
+320229016	 11 	Strain of quadriceps tendon	Leg	trauma	N/A

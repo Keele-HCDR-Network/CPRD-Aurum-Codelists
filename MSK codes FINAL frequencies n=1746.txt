@@ -1,0 +1,1747 @@
+medcodeid	freq	final_term	originalreadcode	snomedctconceptid	site
+51875014	228630	Knee pain	1M10	30989003	Knee
+416139010	115770	Low back pain	N142-1	279039007	Back
+764321000006112	81707	Foot pain	N245-3	47933007	Foot/Ankle
+493899010	77023	Ankle sprain	S550	44465007	Foot/Ankle
+483791000006115	57837	Ankle pain	N245-1	247373008	Foot/Ankle
+81982015	55430	Hip pain	N094K-2	49218002	Hip/Pelvis
+323987011	52874	Knee injury	SK170	125601008	Knee
+215271000000119	52679	Neck pain	N131	81680005	Neck
+40971000006113	49658	Juvenile osteochondrosis of tibial tubercle	N3244	72047008	Knee
+323989014	47784	Ankle injury	SK172	125603006	Foot/Ankle
+317435015	44983	Musculoskeletal chest pain	R065A	281245003	Chest
+501991000006110	44603	Back pain	N145-2	161891005	Back
+140741000006112	44381	Shoulder pain	N245-7	45326000	Shoulder
+323990017	41745	Foot injury	SK173	125604000	Foot/Ankle
+18423015	39216	Leg pain	N245-6	10601006	Leg
+693461000006115	34160	Musculoskeletal and connective tissue diseases	N	312225001	Other
+5621013	34016	Heel pain	N245-5	2733002	Foot/Ankle
+323965019	32175	Wrist injury	SK132	125598003	Wrist
+1231070017	31392	Finger injury	SK154	52011008	Hand
+252311015	28931	Backache	16C2	161891005	Back
+453254017	28675	Injury of hand	SK140	125599006	Hand
+252315012	25570	Back pain without radiation NOS	16C6	161891005	Back
+774741000006112	25505	Injury of toe	SK17-1	282776008	Foot/Ankle
+424342012	24707	Toe pain	N2451-1	285365001	Foot/Ankle
+317145011	24403	Musculoskeletal pain	R01z2	279069000	Other
+486291000006115	24304	Anterior knee pain	N094W	239733006	Knee
+252314011	23691	C/O - low back pain	16C5	161894002	Back
+310825019	21977	Wrist joint pain	N0943-1	202482009	Wrist
+496587018	21861	Flat foot	N34	53226007	Foot/Ankle
+484754019	20215	Knee joint pain	N0946-1	30989003	Knee
+324041012	20156	Injury	SKz	417163006	Other
+494960013	20148	Foot pain	1M11	47933007	Foot/Ankle
+323961011	20055	Injury of elbow	SK130	125596004	Elbow
+106571018	19654	Costochondritis	N33zE	64109004	Chest
+20135010	19253	Achilles tendinitis	N2174	11654001	Foot/Ankle
+323975016	19215	Thumb injury	SK152	262520005	Hand
+323972018	19150	Other finger injuries	SK15	52011008	Hand
+453253011	18985	Injury of wrist	SK133	125598003	Wrist
+311385019	17874	Plantar fasciitis	N2179	202882003	Foot/Ankle
+141799013	17386	Hypermobility syndrome	N235	85551004	Multiple
+906591000006118	16597	[RFC] Soft tissue injuries	HNG0162	906591000006102	Multiple
+437698016	15683	Rib pain	182B	297217002	Chest
+108811000006114	14337	Temporomandibular joint disorder	J046	41888000	Head
+320169013	14336	Wrist sprain NOS	S520z	70704007	Wrist
+323956014	14275	Shoulder injury	SK122	125594001	Shoulder
+1222484010	14046	Musculoskeletal symptom	R01-1	84869007	Other
+221731000000119	13983	Pain in leg	N2452	10601006	Leg
+815651000006110	13750	Hand pain	N245-4	53057004	Hand
+311482017	13595	Ganglion of wrist	N2245	202942009	Wrist
+31828016	13498	Finger pain	N2450-2	18876004	Hand
+739261000006118	13453	Arm injury	SK131-1	127278005	Arm
+317574012	13408	Groin pain	R090B	102570003	Hip/Pelvis
+1222482014	13287	Generalised aches and pains	R00z2-1	82991003	Multiple
+764331000006110	12561	Foot pain	N2451	47933007	Foot/Ankle
+248581000006113	11890	Joint pain	N094	57676002	Other
+80869018	11809	Muscle strain	N23yD	48532005	Other
+60196010	11481	Chondromalacia patellae	N074	36071006	Knee
+165844010	11415	Arm pain	N245-2	102556003	Arm
+312729010	11225	Musculoskeletal and connective tissue disorder	Nz	312225001	Other
+497076011	11206	Knee sprain	S54-1	54888009	Knee
+323973011	11140	Injury of finger	SK150	52011008	Hand
+443831012	10363	Jaw pain	R040z-1	274667000	Head
+150521017	10192	Pain in limb	N245	90834002	Other
+317103014	9875	[D]Nervous and musculoskeletal symptoms	R01	496031000000102	Other
+1230712018	9676	Foot sprain	S551	49388007	Foot/Ankle
+221721000000116	9600	Pain in thumb	N2450-1	300955002	Hand
+1228298012	9560	Arthralgia of multiple joints	N0949	35678005	Multiple
+75568012	9451	Shoulder pain	N2457	45326000	Shoulder
+405083016	8963	Wry neck/torticollis	16A3	270476009	Neck
+165907014	8820	Chest wall pain	182C	102588006	Chest
+114543015	8658	Muscle pain	N2410-2	68962001	Other
+369388017	8448	Ankle pain	1M13	247373008	Foot/Ankle
+320110018	8365	Sprains and strains of joints and adjacent muscles	S5	209409002	Other
+60171000006117	8357	Whiplash injury	S5700-2	39848009	Neck
+502061000006113	8192	Backache symptom	16C	161891005	Back
+402920010	8180	Sprains and strains NOS	S5z	209409002	Multiple
+94135011	8179	Pain in wrist	1M01	56608008	Wrist
+3216431000006113	8151	Sprain of ankle	^ESCTSP321643	44465007	Foot/Ankle
+145941000006116	8093	Osteochondritis of the calcaneum	N3252	23890000	Foot/Ankle
+320295018	7999	Neck sprain	S570	209557005	Neck
+323988018	7991	Injury of lower extremity	SK171	127279002	Leg
+400286017	7471	Backache, unspecified	N145	161891005	Back
+312420013	7402	Idiopathic scoliosis	N3730	203639008	Back
+455791000006110	7308	Acute thoracic back pain	N141-1	279035001	Back
+503862017	7300	Thigh pain	N245-8	78514002	Leg
+312419019	7230	Kyphoscoliosis and scoliosis	N373	203638000	Back
+325463018	7222	Injury of foot	Syu9	125604000	Foot/Ankle
+694101000006113	6738	Muscle injury / strain	S5yz1	48532005	Other
+309829012	6702	Juvenile arthritis	N045	239796000	Other
+807281000006112	6523	Groin strain	S53-1	281543009	Hip/Pelvis
+496539011	6307	Hand pain	N2450	53057004	Hand
+131171000006111	6299	Sprain of wrist	S520	70704007	Wrist
+58058010	6295	Coccygodynia	N1472	34789001	Back
+198184013	6121	Hip joint pain	N0945-2	49218002	Hip/Pelvis
+1682431000006119	5811	Wrist pain	N094F-1	56608008	Wrist
+317575013	5803	Loin pain	R090C	271857006	Hip/Pelvis
+230261000006118	5715	Acquired pes planus	N340	203534009	Foot/Ankle
+492282010	5515	Whiplash injury	S5704	39848009	Neck
+416146018	5483	Mechanical low back pain	16CA	279040009	Back
+123426014	5246	Elbow pain	1M00-1	74323005	Elbow
+407053012	5194	C/O - foot symptom	1D28-2	272014002	Foot/Ankle
+403060017	4859	Other hand injury, excluding finger	SK14	125599006	Hand
+710171000006119	4643	Swelling of finger	1834	299060006	Hand
+248531000006112	4622	Pain in arm	N2453	102556003	Arm
+400319017	4522	Soft tissue disorder	N24z	19660004	Other
+109021000006119	4499	Tendonitis NOS	N21z2-1	34840004	Other
+815191000006110	4437	Acquired hallux valgus	N350	65358001	Foot/Ankle
+323946010	4406	Traumatic and/or non-traumatic injury of back	SK114	712893003	Back
+442156014	4380	Calf pain	N2454	300954003	Leg
+400284019	4376	Pain in lumbar spine	N142	267982002	Back
+397897014	4310	Ankle swelling	1832	267039000	Foot/Ankle
+319624010	4198	Dislocation of knee NOS	S46z	269112001	Knee
+312428018	4139	Adolescent idiopathic scoliosis	N3737	203646004	Back
+165836010	4128	Cramp in lower limb	N2471	449917004	Leg
+310982017	4092	Clicking joint	N099	202596000	Other
+323939018	4057	Injury of neck	SK10y	90460009	Neck
+165730010	4047	Growing pains	16Z2	102482005	Other
+598331000006118	4036	Costochondritis NOS	N30z8-1	64109004	Chest
+312598012	3975	Scoliosis deformity of spine	Nyu55	298382003	Back
+400283013	3956	Pain in thoracic spine	N141	267981009	Back
+391057017	3890	Muscle sprain NOS	S5z-3	48532005	Other
+101001000006111	3887	Sprain of thumb	S5210-2	263130004	Hand
+311474017	3881	Ganglion and cyst of synovium, tendon and bursa	N224	202936005	Other
+359208019	3858	Anterior knee pain	1M12	239733006	Knee
+252446012	3695	Anterior chest wall pain	1824	161973001	Chest
+345241000000114	3689	Pain in coccyx	N1472-1	34789001	Back
+391249010	3679	Ligament sprain	S5z-2	398878007	Other
+320256019	3675	Knee sprain NOS	S54y	54888009	Knee
+319412012	3668	Dislocation of shoulder	S41z	417076003	Shoulder
+317265011	3629	Facial pain	R0400	95668009	Head
+123425013	3546	Pain in elbow	1M00	74323005	Elbow
+320318018	3507	Back sprain	S57z	281598004	Back
+39291010	3441	Congenital pes planus	PE61	23407003	Foot/Ankle
+710161000006114	3428	Sprain of ligament of finger	S5210-1	263129009	Hand
+693501000006115	3401	Musculoskeletal pain - joints	N096-2	57676002	Multiple
+391098012	3356	Hamstring sprain	S53-2	262992000	Leg
+194090018	3354	Injury of lower leg	SK175	125602001	Leg
+853731000006117	3254	Painful right knee	EGTON279	853731000006101	Knee
+437673017	3248	Ganglion of hand	N224B	297193007	Hand
+370925016	3217	Swollen knee	16J4	248491001	Knee
+240041000006111	3195	Patellar tendinitis	N2164	37785001	Knee
+400314010	3187	Myalgia	N2410	68962001	Other
+400281010	3043	Torticollis	N135z	70070008	Neck
+454070017	3041	C/O - pain in big toe	1D131-1	310484009	Foot/Ankle
+400300010	3040	Tendinitis	N21z2	34840004	Other
+490651000006110	2991	Pes planus	N34z-1	53226007	Foot/Ankle
+402889014	2962	Dislocation or subluxation of knee	S46	269112001	Knee
+360303015	2926	Perthes' disease - osteochondritis of the femoral head	N3211	111255008	Hip/Pelvis
+297707010	2873	Pain in lower limb	1M1	10601006	Leg
+484753013	2838	Arthralgia of knee	N094M	30989003	Knee
+310840017	2825	Ankle joint pain	N0947-1	202490009	Foot/Ankle
+130611000006116	2805	Sprain finger	S523	263129009	Hand
+222521000000119	2798	Contusion of foot	SE420	74814004	Foot/Ankle
+311394013	2795	Anterior shin splints	N21y0	202888004	Leg
+402882017	2771	Dislocation or subluxation of shoulder	S41	269105005	Shoulder
+320145014	2742	Sprain of wrist and hand	S52	209436000	Hand/Wrist
+637511000006115	2681	Elbow joint pain	N0942-1	202480001	Elbow
+414623018	2643	Swollen toe	16J1	277890004	Foot/Ankle
+252296010	2587	Stiff neck	16A2	161882006	Neck
+5700371000006119	2578	Pain in toe	^ESCTPA570037	285365001	Foot/Ankle
+252316013	2569	C/O - upper back ache	16C7	161896000	Back
+38727013	2559	Sciatica	N143	23056005	Back
+402918012	2558	Neck sprain, unspecified	S5700	209557005	Neck
+411865013	2522	O/E - soft tissue swelling	2HC-1	275897000	Other
+3672071000006112	2491	Osgood Schlatter disease	^ESCTOS367207	72047008	Knee
+494279018	2380	Leg bruise	SE4-1	45613006	Leg
+320147018	2372	Wrist sprain	S5200	70704007	Wrist
+507743013	2368	Hand sprain	S521	87778004	Hand
+130991000006117	2303	Sprain thumb	S522	263130004	Hand
+398008014	2302	C/O - a chest wall symptom	1D22-1	267107009	Chest
+1480387016	2293	Temporomandibular joint pain dysfunction syndrome	J0464	386207004	Head
+320130019	2277	Sprain of shoulder	S50y	3199001	Shoulder
+415893017	2276	Acute back pain - lumbar	N142-3	278862001	Back
+437674011	2251	Ganglion of foot	N224C	297194001	Foot/Ankle
+403059010	2222	Injury of forearm	SK131	125597008	Arm
+116373011	2197	Wry neck	N135z-2	70070008	Neck
+2548690012	2180	Exostosis	N21z7	416189003	Other
+455801000006111	2169	Acute back pain - unspecified	N145-1	161891005	Back
+1222991015	2133	Contusion, knee	SE411	22878006	Knee
+320270019	2133	Ankle sprain NOS	S550z	44465007	Foot/Ankle
+325451011	2122	Sprain of knee	Syu84	54888009	Knee
+320262012	2096	Sprain, ankle joint, lateral	S5502	209532000	Foot/Ankle
+359206015	2096	Patellofemoral disorder	N09A	239732001	Knee
+106879011	2051	Mallet finger	N361	64298006	Hand
+310640019	2000	Effusion of knee	N090M	202381003	Knee
+486238018	1997	Multiple joint pain	N0949-99	35678005	Multiple
+240031000006118	1992	Recurrent dislocation of the patellofemoral joint	N0836-2	202246002	Knee
+568471000006114	1977	Closed traumatic dislocation of patellofemoral joint	S463	208929003	Knee
+587351000006110	1927	Non-traumatic slipped upper femoral epiphysis	N322	26460006	Hip/Pelvis
+755441000006119	1879	Juvenile rheumatoid arthritis - Still's disease	N043	410795001	Other
+320377019	1863	Complete tear, knee, anterior cruciate ligament	S5C3	209629006	Knee
+162641000006113	1834	Sprain of costal cartilage	S5y3	209799008	Chest
+320220017	1827	Sprain of wrist and/or hand	S52z	209436000	Hand/Wrist
+323960012	1815	Injury of upper extremity	SK13	127278005	Elbow
+312426019	1812	Postural scoliosis	N3736	203645000	Back
+624151000006118	1777	Disorder of patella	N09AX	721291009	Knee
+14156061000006115	1774	Pain of knee region	^ESCT1415606	1003722009	Knee
+320143019	1766	Elbow sprain	S51y	263128001	Elbow
+323980013	1765	Injury of hip region	SK160	125600009	Hip/Pelvis
+252294013	1757	Stiff neck symptom	16A	161880003	Neck
+50413010	1748	Tietze's disease	N336	30128009	Chest
+319441015	1736	Dislocation of elbow joint	S42z	417558002	Elbow
+483871000006113	1709	Swollen ankle	1832-1	267039000	Foot/Ankle
+1777678019	1708	Ehlers-Danlos syndrome	PGy2	398114001	Other
+310455016	1706	Recurrent dislocation of the patella	N083p	202246002	Knee
+311380012	1688	Metatarsalgia	N2172	10085004	Foot/Ankle
+2476417011	1669	Swollen hand	16J6	299037003	Hand
+28870010	1660	Prepatellar bursitis	N2165	17059001	Knee
+106745019	1659	Curvature of spine	N37	64217002	Back
+437603016	1656	Swollen foot	16J7	297142003	Foot/Ankle
+135862013	1646	Sprain of medial collateral ligament of knee	S541	81902001	Knee
+76654019	1639	Acquired pectus carinatum	N3832	45973002	Chest
+496589015	1613	Fallen arches	N34-1	53226007	Foot/Ankle
+325470018	1587	Sprain of foot	Syu96	49388007	Foot/Ankle
+232231000006111	1573	Injury - disorder	SN552-2	417746004	Other
+481614012	1567	Temporomandibular sprain	S5y11	23415000	Head
+310995010	1558	Clicking knee	N099C	202609006	Knee
+398007016	1552	Symptom: chest wall	1D22	267107009	Chest
+123444018	1543	Spasmodic torticollis	F1382	74333002	Neck
+13682017	1523	Trochanteric bursitis	N2157	7674000	Hip/Pelvis
+1485976019	1517	Acquired pectus excavatum	N3833	391986001	Chest
+310992013	1507	Clicking hip	N0999	202606004	Hip/Pelvis
+5139361000006116	1442	Juvenile chronic arthritis	^ESCTJU513936	239796000	Other
+402890017	1426	Acute meniscal tear, medial	S460	269113006	Knee
+310826018	1425	Arthralgia of wrist	N094F	202482009	Wrist
+2881271000006115	1402	Sever's disease	^ESCTSE288127	23890000	Foot/Ankle
+391105019	1399	Toe sprain	S5513-1	262998001	Foot/Ankle
+325413011	1392	[X]Injuries to the wrist and hand	Syu6	125599006	Hand/Wrist
+400305017	1392	Ganglion cyst	N2243	445008009	Other
+400280011	1390	Torticollis unspecified	N135	70070008	Neck
+400345014	1384	Flat foot NOS	N34z	53226007	Foot/Ankle
+319530015	1376	Dislocation of finger or thumb not otherwise specified	S44z	269111008	Hand
+86578011	1375	Acquired genu valgum	N3640	52012001	Knee
+415888015	1374	Chronic low back pain	16C9	278860009	Back
+88799019	1366	Scheuermann's disease	N3201	53406005	Back
+1772881000006115	1359	Scoliosis of thoracic spine	EMISNQSC20	298494008	Back
+2552628011	1358	Aching muscles	1DCC	68962001	Multiple
+2476418018	1342	Swollen finger	1834-1	299060006	Hand
+628221000006110	1342	Generalised benign joint hypermobility	N235-1	240261009	Other
+317144010	1321	Growing pains in limbs	R01z1	102482005	Multiple
+312431017	1265	Kyphoscoliosis or scoliosis NOS	N373z	64217002	Back
+311416012	1248	Synovitis and tenosynovitis	N220	202900007	Other
+1871131000006116	1241	Lower back injury	Syu37	282766005	Back
+734841000006119	1241	Knee locking	N07yH	1126007	Knee
+114111014	1236	Acquired unequal leg length	N36y0	203601000	Leg
+131591000006117	1227	Strain of Achilles tendon	S5504	22817005	Foot/Ankle
+319565015	1227	Acute meniscal tear, lateral	S461	208921000	Knee
+402888018	1216	Dislocation or subluxation of finger or thumb	S44	269111008	Hand
+215431000000115	1212	Torticollis - symptom	16A3-1	70070008	Neck
+1230691015	1209	Arthralgia of hip	N094K	49218002	Hip/Pelvis
+320111019	1207	Sprain of shoulder and upper arm	S50	123536004	Shoulder
+206425010	1196	Complex regional pain syndrome	F369	128200000	Multiple
+4077121000006117	1194	Inguinal pain	^ESCTIN407712	102570003	Hip/Pelvis
+2645968013	1169	Hyperextension injury of finger	S523F	423657003	Hand
+494277016	1156	Contusion, lower leg	SE410	45613006	Leg
+407052019	1155	C/O - ankle symptom	1D28-1	272013008	Foot/Ankle
+320258018	1135	Sprain of ankle and foot	S55	209529003	Foot/Ankle
+620911000006112	1115	Walking disability	N097	228158008	Leg
+310993015	1114	Multiple clicking joints	N099A	202607008	Multiple
+7278014	1112	Arthritis	N06z-1	3723001	Other
+136713011	1104	Chronic pain	1M52	82423001	Other
+3060241000006112	1103	Pain in the coccyx	^ESCTPA306024	34789001	Back
+454068014	1100	C/O - pain in toe	1D130	310483003	Foot/Ankle
+311343018	1091	Tennis elbow	N2132-1	202855006	Elbow
+310855014	1085	Arthralgia	N094z	57676002	Other
+402914014	1080	Sprain of knee and leg	S54	269137006	Knee
+1573941000006111	1078	Thoracic back pain	EMISNQTH14	279038004	Back
+398010011	1069	Symptom of ankle or foot	1D28	267109007	Foot/Ankle
+442155013	1066	Axillary pain	N2455	300953009	Arm
+312238013	1054	Clavicle pain	N33A1	203509009	Shoulder
+4378771000006115	1047	Injury of ankle	^ESCTIN437877	125603006	Foot/Ankle
+459326017	1025	Swollen thumb	16J2	314916002	Hand
+95473010	1020	Carpal tunnel syndrome	F340	57406009	Wrist
+14156051000006117	991	Pain of joint of knee	^ESCT1415605	1003721002	Knee
+46720015	990	Laxity of ligament	N234	27911000	Other
+136950019	983	Osteochondritis dissecans	N327	82562007	Other
+21633013	979	Bone pain	N33A	12584003	Other
+400335012	963	Osteochondritis	N32z2	70736000	Other
+312274016	961	Hammer toe	N354	122481008	Foot/Ankle
+421171017	956	Calf injury	SK174	282775007	Leg
+745601000006117	956	Irritable hip	N064K-1	301813003	Hip/Pelvis
+400244011	944	Shoulder joint pain	N0941-1	267949000	Shoulder
+2645967015	932	Hyperextension injury of thumb	S5227	422444006	Hand
+753081000006115	926	Knock-kneed	N3640-1	299330008	Knee
+939761000006119	921	Musculoskeletal pain mild	EMISNQMU3	939761000006103	Other
+709441000006113	919	Fibromyalgia	N239	203082005	Multiple
+251922014	915	Chest wall tenderness	1D220	102591006	Chest
+323981012	915	Injury of thigh	SK161	7523003	Leg
+116082011	911	Rheumatoid arthritis	N040	69896004	Other
+310639016	897	Knee joint effusion	N0906-1	202381003	Knee
+320247010	897	Partial tear, knee, anterior cruciate ligament	S5421	209520004	Knee
+137150010	893	Baker's cyst	N224A-1	82675004	Knee
+320259014	885	Ankle sprain, unspecified	S5500	44465007	Foot/Ankle
+320319014	884	Pulled back muscle	S57z0	209574005	Back
+494319014	882	Retrosternal pain	1829	4568003	Chest
+169727012	865	Injury of musculoskeletal system	ESCTIN21	105606008	Other
+416149013	865	Pain in buttock	N245-9	279043006	Hip/Pelvis
+310271019	859	Patellofemoral maltracking	N07y6	202114006	Knee
+91936014	857	Cramp	N2472	55300003	Other
+125937016	853	Acute polyarticular juvenile rheumatoid arthritis	N0431	75822003	Multiple
+87741000006114	853	Acquired trigger finger	N2203	1539003	Hand
+320206012	850	Volar plate injury, finger, proximal interphalangeal joint	S523B	209489004	Hand
+2472447010	848	Juvenile rheumatoid arthritis	N0455	410795001	Other
+252450017	841	Costal margin chest pain	182B0	161977000	Chest
+320307018	831	Lumbar sprain	S572	209565008	Back
+749561000006115	825	Lateral epicondylitis of elbow	N2132	202855006	Elbow
+512242016	806	Pain in face	1M3	95668009	Head
+1221607010	801	Hip sprain	S53-3	17883008	Hip/Pelvis
+312116015	794	Apophysitis	N32z0	29321007	Other
+2673129012	788	Olecranon bursitis	N2133	425940002	Elbow
+8258016	785	Repetitive strain injury	Ny2	4308002	Other
+194108018	781	Dislocation of thumb	S44-1	125620005	Hand
+402553012	779	O/E - soft tissue abnormality	2HC	268993003	Other
+402911018	779	Sprain of elbow and forearm	S51	269134004	Elbow
+317086019	772	[D]Pain, generalized	R00z2	82991003	Multiple
+54781000006115	768	Wry neck symptom	16A3-2	70070008	Neck
+582641000006117	767	Congenital valgus deformity of knee	PF641	89689008	Knee
+131181000006114	764	Sprain of ligament of acromioclavicular joint	S500	27182002	Shoulder
+309828016	764	Juvenile rheumatoid arthritis NOS	N043z	410795001	Other
+106921000006111	753	Thoracic back sprain	S571	274162005	Back
+323977012	748	Other finger injuries NOS	SK15z	52011008	Hand
+311252013	744	Lumbago with sciatica	N1420	202794004	Back
+158058014	730	Intercostal myalgia	N2410-1	95421005	Other
+2532921014	728	Acquired kyphosis	N371	413428007	Back
+322801017	726	Contusion wrist or hand	SE32	211506004	Hand/Wrist
+400251019	714	Arthralgia of the ankle and foot	N0947	267954009	Foot/Ankle
+142291000006114	702	Sinding - Larsen's disease - osteochondrosis of the secondary patella centre	N3243-1	203389008	Knee
+121239018	701	Thoracogenic scoliosis	N3735	72992003	Back
+896341000006114	701	Sprained ankle	S550-99	44465007	Foot/Ankle
+891891000006116	699	Pain in left leg	N245-96	287047008	Leg
+598311000006112	698	Costochondral joint syndrome	N336-1	64109004	Chest
+323949015	697	Injury of groin	SK117	11805005	Hip/Pelvis
+159841000006114	696	Sacroiliac sprain	N146z-1	12519004	Back
+400250018	694	Arthralgia of the lower leg	N0946	267953003	Leg
+891881000006119	694	Pain in right leg	N245-95	287048003	Leg
+6901791000006119	693	Dislocation of shoulder joint	^ESCTDI690179	417076003	Shoulder
+794581000006117	685	Freiberg's disease	N3253	28466007	Foot/Ankle
+123542016	683	Pauciarticular juvenile rheumatoid arthritis	N0432	74391003	Other
+14153011	682	Bunionette	N359	7951001	Foot/Ankle
+454086012	680	[X]Unspecified injury of wrist and hand	Syu6M	125599006	Hand/Wrist
+507071014	675	Claw toe - acquired	N355	86380000	Foot/Ankle
+411301012	673	Shoulder strain	S50w-1	275334004	Shoulder
+369379014	669	Acute back pain with sciatica	N143-1	247366003	Back
+182691000006118	664	Recurrent dislocation of shoulder region	N0831	30556007	Shoulder
+297602013	659	Muscular dystrophies and other myopathies	F39	75047002	Other
+311455013	658	Transient synovitis	N220Q	202924004	Other
+416143014	658	Lumbago	N142-4	279039007	Back
+251425018	655	Pain in upper limb	1M0	102556003	Arm
+605971000006115	654	Bone cyst	N332	203465002	Other
+807451000006115	654	Growing pains symptom	16Z2-1	102482005	Other
+312438011	649	Scoliosis associated with other condition	N3743	64217002	Back
+312599016	645	Spinal fusion	Nyu56	55705006	Back
+373033016	640	Knee gives way	N0966-1	250102002	Knee
+359560012	626	Tenosynovitis of wrist	N2205-2	442048005	Wrist
+1494890011	623	Sprain of hip and thigh	S53	17883008	Hip/Pelvis
+2551985013	621	Developmental dysplasia of the hip	PF631-1	52781008	Hip/Pelvis
+130158018	617	Ganglion of joint	N2241	78435003	Other
+310997019	617	Clicking ankle	N099E	202611002	Foot/Ankle
+311041010	617	Sacroiliitis	N102	55146009	Back
+372654019	616	Pes cavus	PE71-2	36755004	Foot/Ankle
+55627011	610	Psoriatic arthropathy	M160	33339001	Other
+319531016	609	Dislocation of hip joint	S45	157265008	Hip/Pelvis
+309972017	604	Osteoarthritis of multiple joints	N054	268054009	Multiple
+311744014	595	Tender heel pad	N2456	203131005	Foot/Ankle
+312303013	591	Persistent femoral anteversion	N3634	203561009	Hip/Pelvis
+310803013	587	Hand joint pain	N0944-1	202472008	Hand
+183001000006111	585	Recurrent subluxation of patella	S46D	202248001	Knee
+400297017	583	Bursitis of knee	N2160	111243002	Knee
+310940016	581	Knee joint finding	N096M	299321000	Knee
+75415016	581	Infrapatellar bursitis	N2166	45231001	Knee
+312523013	579	[X]Other juvenile arthritis	Nyu15	239796000	Other
+402912013	569	Sprain of hand	S5210	87778004	Hand
+5887131000006115	566	Pain in calf	^ESCTPA588713	300954003	Leg
+404201000006115	562	Osteopenia	NyuBC	312894000	Other
+713261000006110	562	Medial epicondylitis of elbow	N2131	53286005	Elbow
+131491000006116	559	Strain of quadriceps tendon	S533	209507002	Leg
+320281016	553	Ankle and foot sprain NOS	S55z	209529003	Foot/Ankle
+302130018	551	Temporomandibular joint disorder NOS	J046z	41888000	Head
+400301014	546	Exostosis of unspecified site	N21z3	416189003	Other
+400304018	545	Bursitis	N223	84017003	Other
+323957017	544	Injury of upper arm	SK123	125595000	Arm
+403061018	540	Other knee, leg, ankle and foot injuries	SK17	127279002	Knee
+400302019	530	Tenosynovitis	N2205	67801009	Hand
+2649445015	529	Iliotibial band friction syndrome	N2159	423849004	Leg
+454069018	527	C/O - pain in hallux	1D131	310484009	Foot/Ankle
+391096011	526	Forearm sprain	S51-1	262990008	Arm
+400289012	525	Disorder of back	N14z	33308003	Back
+2196791000000119	520	Rheumatoid arthritis annual review	66HB0	847261000000104	Other
+372797015	520	Stiff neck NOS	N135z-1	161882006	Neck
+310792015	517	Arthralgia of unspecified site	N0940	57676002	Other
+317427018	515	[D]Anterior chest wall pain	R0652	161973001	Chest
+1494891010	514	Thigh sprain	S53-4	17883008	Leg
+310457012	511	Recurrent subluxation of the patella	N083q	202248001	Knee
+36573015	504	de Quervain's disease	N2204-1	21794005	Hand
+2214301000000116	503	Chronic regional pain syndrome	F369-1	128200000	Other
+309413012	500	Scleroderma	N001	89155008	Other
+391100012	496	Leg sprain	S54-2	262994004	Leg
+1874161000006110	493	Child young persons injury - other soft tissue	EMISNQCH196	1874161000006106	Other
+320316019	491	Coccyx sprain	S574	90631008	Back
+318040019	490	[X]Other chronic pain	Ryu70	82423001	Multiple
+111967016	484	Instability of joint	N08y-2	67374007	Other
+325412018	479	[X]Unspecified injury of elbow and forearm	Syu5G	127278005	Elbow
+2579112017	478	C/O - lumbar pain	1A53-2	161894002	Back
+221671000006119	476	Polyarthropathy	N065-1	36186002	Multiple
+312265018	474	Hypermobile flat foot	N3400	203531001	Foot/Ankle
+443295011	473	Irritable hip	N0965-2	301813003	Hip/Pelvis
+122060015	471	Adolescent postural kyphosis	N370	73507002	Back
+310856010	469	Joint stiffness	N095	84445001	Other
+312294013	468	Flexion deformity of finger	N3623	203554005	Hand
+452701000006110	468	Ache in joint	N094-1	57676002	Other
+164851000006115	467	Strain of rotator cuff of shoulder	S504	74779009	Shoulder
+891901000006117	465	Pain in right arm	N245-97	90834002	Arm
+334283017	464	Achilles bursitis	N2173	221695002	Foot/Ankle
+310802015	463	Arthralgia of the hand	N0944	202472008	Hand
+311686012	463	Other soft tissue disorders	N24	19660004	Other
+132837018	460	Swelling of limb	N2470	80068009	Other
+320280015	459	Foot sprain NOS	S551z	49388007	Foot/Ankle
+131521000006119	458	Sprain of shoulder joint	S507	3199001	Shoulder
+320210010	457	Sprain tendon wrist or hand	S524	209493005	Hand/Wrist
+2968012	450	Locked knee	N07y5	1126007	Knee
+311701010	450	Myositis	N2411	26889001	Other
+319552012	450	Dislocation of hip NOS	S45z	157265008	Hip/Pelvis
+311681019	438	Spasm of back muscles	N23yE	203095000	Back
+221661000006114	435	Inflammatory polyarthritis	N065z-1	417373000	Multiple
+319413019	435	Dislocation or subluxation of elbow	S42	208782004	Elbow
+407048019	434	C/O - a back symptom	1D24-1	272009001	Hip/Pelvis
+800781000006116	434	Generalised aches and pains	1DC8	82991003	Multiple
+20001010	429	Snapping hip	N2158	11568002	Hip/Pelvis
+256003019	423	O/E - finger joint abnormal	2H27	164514009	Hand
+406696011	421	Swollen joint	16J3	271771009	Other
+400318013	416	Finding of limb structure	N247z	302293008	Other
+253293011	412	Symptom: lower limb	1D27	162430004	Leg
+256013010	412	O/E - joint swelling	2H3	164524001	Other
+493021000006115	411	Arthropathy NOS	N06z	399269003	Other
+140831000006110	410	Shoulder tendonitis	N2125	442520000	Shoulder
+1784692011	409	Juvenile dermatomyositis	N0030	1212005	Other
+325446017	409	[X]Injuries to the knee and lower leg	Syu8	125602001	Knee
+453781000006111	408	Acquired deformity of toe	N35	42251007	Foot/Ankle
+1232667017	406	Acquired cavovarus foot deformity	N3675	65362007	Foot/Ankle
+5606021000006110	403	Toe swelling	^ESCTTO560602	277890004	Foot/Ankle
+325376013	400	Injury of shoulder and upper arm	Syu4	699062006	Shoulder
+323924019	398	Traumatic AND/OR non-traumatic injury	SK1	417163006	Other
+391132012	398	Anterior dislocation of shoulder	S4101-1	263021005	Shoulder
+359759017	394	Costochondritis NOS	N33zz-1	64109004	Chest
+495737017	393	Complex regional pain syndrome type I	N33C	128200000	Multiple
+5461071000006116	392	Sprain of ligament of elbow	^ESCTSP546107	263128001	Elbow
+402880013	387	Dislocation of joint	S4	108367008	Other
+325317013	385	[X]Injuries to the neck	Syu1	90460009	Neck
+131401000006111	384	Sprain of lateral collateral ligament of knee	S5400	35726004	Knee
+493439016	381	Trigger thumb	N2203-1	42786005	Hand
+80525019	381	Congenital dislocation of hip	PE30	48334007	Hip/Pelvis
+633361000006118	379	Congenital dysplasia of the hip	PE34	52781008	Hip/Pelvis
+5669011	370	Joint crepitus	N096-1	2764000	Other
+325395018	369	[X]Injuries to the elbow and forearm	Syu5	125597008	Arm
+311417015	365	Synovitis or tenosynovitis NOS	N2200	202900007	Other
+32624019	362	Ganglion of tendon sheath	N2242	19354008	Other
+496608016	361	Golfer's elbow	N2131-1	53286005	Elbow
+896231000006112	360	Sprain - wrist	S52-99	209436000	Wrist
+411296012	358	Dislocation of radius - distal	S4300-2	275329003	Wrist
+461541016	351	[Q] Osteochondral	Zw023	316885008	Other
+3141251000006116	350	Whiplash injury to neck	^ESCTWH314125	39848009	Neck
+320305014	349	Neck sprain NOS	S570z	209557005	Neck
+784571000006116	348	Impingement syndrome of shoulder region	N2124	239960007	Shoulder
+1777368010	346	Avascular necrosis of bone	N334	397758007	Other
+5652861000006115	345	Strain of tendon of medial thigh muscle	^ESCTST565286	281543009	Leg
+311485015	344	Ganglion of ankle	N2248	202945006	Foot/Ankle
+411303010	343	Short Achilles tendon	N22y0-1	275336002	Foot/Ankle
+312465016	342	Acquired spondylolisthesis	N384	203681002	Back
+320257011	341	Leg sprain NOS	S54z	262994004	Leg
+311325017	339	Supraspinatus tendinitis	N2113	202841003	Shoulder
+324040013	335	Other injury NOS	SK1z	417163006	Other
+5460041000006118	333	Dislocation of patellofemoral joint	^ESCTDI546004	263029007	Knee
+5836761000006118	332	Foot swelling	^ESCTFO583676	297142003	Foot/Ankle
+9611013	329	Recurrent dislocation of joint	N083	5137004	Other
+5861961000006118	328	Swelling of hand	^ESCTSW586196	299037003	Hand
+311279012	327	Coccyx disorder NOS	N147z	61296009	Back
+764251000006114	324	Foot-drop	N36A	6077001	Foot/Ankle
+130721000006116	321	Strain of gastrocnemius tendon	S54x1	269138001	Leg
+311445014	318	Extensor tenosynovitis of wrist	N220D	202914007	Wrist
+476266016	316	Strain of neck muscle	ESCTST7	360450007	Neck
+892611000006119	316	Flat foot - pes planus	N34-99	53226007	Foot/Ankle
+400905013	312	Longitudinal deficiency of lower limb	PF30	66078008	Leg
+41386013	309	Fibromyalgia	N248	203082005	Multiple
+253258016	308	C/O: stiffness	1D12	162411004	Other
+310246017	301	Discoid lateral meniscus	N071B	202099003	Knee
+311272015	301	Sacroiliac disorder	N1466	202805003	Back
+402551014	301	O/E - shoulder joint abnormal	2H23	268991001	Shoulder
+523531000006112	299	Boutonniere deformity of finger	N3621	43234007	Hand
+359310019	293	Juvenile arthritis in psoriasis	N0452	239803008	Other
+131351000006115	291	Strain of hamstring tendon	S535	209509004	Leg
+2725761000000117	291	Pain in upper arm	^ESCT1171528	1088071000000108	Arm
+451408018	291	O/E - Right foot deformity	2G58	308103003	Foot/Ankle
+87820017	291	Congenital hip dysplasia	PF631	52781008	Hip/Pelvis
+400259017	288	Joint problem	N096	298266002	Other
+312286018	287	Acquired toe deformity NOS	N35z	42251007	Foot/Ankle
+320205011	285	Volar plate injury, finger, metacarpophalangeal joint	S523A	209488007	Hand
+311132015	284	Prolapsed lumbar intervertebral disc	N122-1	202708005	Back
+400245012	284	Arthralgia of the shoulder region	N0941	267949000	Shoulder
+899331000006111	283	Foot injury	SK173-99	628791000000105	Foot/Ankle
+16833013	280	Ankylosing spondylitis	N100	9631008	Back
+311320010	279	Rotator cuff syndrome	N211	4106009	Shoulder
+159821000006119	278	Sprain of ligament of sacroiliac joint	S561	12519004	Back
+320560015	278	Sprained rib	S5y3z	209799008	Chest
+518891000006113	277	Blount's disease	N3242	79353000	Knee
+2475502016	276	Crick in neck	N13y2	161882006	Neck
+91871010	276	Calcaneal spur	N2177	55260003	Foot/Ankle
+289841000006115	273	Juvenile osteochondrosis of lower extremity	N324	355208009	Leg
+13899011000006111	272	Dislocation of knee joint	^ESCT1389901	157266009	Knee
+1816911000006113	271	Irritable hip	N220Y	301813003	Hip/Pelvis
+312089015	271	Juvenile apophysitis	N3260	29321007	Other
+400326017	267	Juvenile osteochondritis of the hip and pelvis	N321	268022000	Hip/Pelvis
+1481722018	265	Joint effusion	N090	387637008	Other
+400249018	264	Arthralgia of the pelvic region and thigh	N0945	267952008	Hip/Pelvis
+312460014	263	Acquired deformity of chest wall	N383	449466007	Chest
+14091391000006118	262	Reflex sympathetic dystrophy	^ESCT1409139	734947007	Other
+111791000006117	261	Swollen lower leg	N2470-2	281792000	Leg
+325447014	261	Contusion of lower leg	Syu80	45613006	Leg
+312597019	260	Acquired scoliosis	Nyu54	111266001	Back
+124541000006110	257	Subluxation of joint	S4-2	263031003	Other
+312281011	257	Acquired mallet toe	N358	724285006	Foot/Ankle
+314429013	257	Congenital dislocation and subluxation of the hip	PE3	48334007	Hip/Pelvis
+359863016	255	Spondylolysis	N388	240221008	Back
+311384015	253	Tibialis posterior tendinitis	N2176	202881005	Leg
+311353017	252	Adductor tendinitis	N2156	202863007	Hip/Pelvis
+325334017	250	Chest injury	Syu2	262525000	Chest
+320271015	249	Foot sprain, unspecified	S5510	49388007	Foot/Ankle
+118450012	248	Congenital kyphosis	PG18	71311003	Back
+178465011	246	Arthrogryposis	N2330	111246005	Other
+96831000006114	245	Tibial torsion	N36y-1	249785006	Leg
+310983010	244	Clicking shoulder	N0990	202597009	Shoulder
+373007012	244	Hand cramps	N247z-1	250082003	Hand
+611201000006119	243	Acquired deformity of clavicle	N36y3	111271008	Shoulder
+137149010	242	Synovial cyst of popliteal space	N224A	82675004	Knee
+439689014	240	Shoulder joint unstable	N08yB	298854003	Shoulder
+710181000006116	239	Finger trigger	N2203-3	1539003	Hand
+312091011	238	Juvenile osteochondritis	N3262	19579005	Other
+219011000000115	237	Rheumatology disorder monitoring	66H	268524007	Other
+5138551000006118	237	Disorder of patellofemoral joint	^ESCTDI513855	239732001	Knee
+310934011	236	Wrist symptom	N096F	441591007	Wrist
+105778017	235	Internal derangement of knee joint	N07	63643000	Knee
+256005014	235	O/E - knee joint abnormal	2H29	164516006	Knee
+312350016	235	Chronic instability of knee	N3682	203597000	Knee
+189471000006112	234	Recurrent dislocation of shoulder - anterior	N083A	202210006	Shoulder
+406699016	234	Ankle instability	N0967-1	813001	Foot/Ankle
+391135014	233	Dislocation of radial head	S424	263023008	Shoulder
+131461000006112	232	Strain of patellar tendon	S534	209508007	Knee
+312334012	232	Acquired pronated forefoot	N367M	203588004	Foot/Ankle
+359855017	231	Intervertebral disc prolapse	N123-1	73589001	Back
+411284017	231	Aching leg syndrome	N2452-1	275318002	Leg
+502690012	230	Pauciarticular onset juvenile chronic arthritis	N0456	74391003	Other
+221451000000115	228	Connective tissue disease	N-1	105969002	Other
+312594014	228	Kyphosis deformity of spine	Nyu51	414564002	Back
+45014017	228	Subungual exostosis	N21z4	26904005	Other
+256101015	227	O/E-soft tissue swelling-local	2HC3	164600000	Other
+319560013	226	Acute meniscal tear, medial, posterior horn	S4601	208916003	Knee
+391056014	225	Rectus muscle sprain	S5z-4	262962009	Hip/Pelvis
+150085018	222	Gout	C34	90560007	Other
+733661000006118	222	Degeneration of lumbar intervertebral disc	N127	26538006	Back
+76993014	221	Chondritis	N33zJ	46176001	Other
+192631000006118	219	Reactive arthritis	N038	67224007	Other
+252586019	217	Right subcostal pain	1974	162048001	Chest
+310931015	217	Disorder of acromioclavicular joint	N096C	699467005	Shoulder
+5887111000006114	216	Pain in axilla	^ESCTPA588711	300953009	Shoulder
+311345013	215	Biceps tendinitis	N2134	202856007	Arm
+416128012	215	Pain in cervical spine	N131-1	279029001	Neck
+55628018	215	Psoriatic arthritis	M160-1	33339001	Other
+320207015	214	Volar plate injury, finger, distal interphalangeal joint	S523C	209490008	Hand
+334287016	213	Haglund's deformity	N2173-1	55260003	Foot/Ankle
+400892016	213	Congenital valgus deformity of foot	PE6z	22099008	Foot/Ankle
+398006013	211	Symptom: head/neck	1D21	267106000	Neck
+568881000006114	211	Closed traumatic subluxation acromioclavicular joint	S4121	208775003	Shoulder
+1776211019	210	Dermatomyositis	N003	396230008	Other
+320131015	210	Sprain of upper extremity	S50z	123536004	Arm
+413691000006112	209	Disorder of soft tissue	NyuAA	19660004	Other
+107916018	208	Acquired genu varum	N3641	64925008	Knee
+7912010	208	Osteomalacia	C28-1	4598005	Other
+131391000006114	207	Sprain of interphalangeal joint of toe	S5513	24864009	Foot/Ankle
+312565019	207	Disorder of patella	Nyu36	721291009	Knee
+88489011	207	Peroneal tendinitis	N2178	53208009	Knee
+311487011	206	Ganglion of flexor tendon sheath of finger	N2249	202947003	Hand
+5658961000006113	206	Soft tissue injury	^ESCTSO565896	282026002	Other
+359292012	205	Seronegative rheumatoid arthritis	N040P	239792003	Other
+252317016	204	Backache symptom NOS	16CZ	161891005	Back
+310822016	203	Arthralgia of elbow	N094D	202480001	Elbow
+311439018	201	Tenosynovitis of foot	N2207	202908000	Foot/Ankle
+158621000006114	200	Rupture of Achilles tendon	S5V0	429513001	Foot/Ankle
+31121000006117	198	Osteochondritis of knee	N32z2-1	70736000	Knee
+314445010	198	Bilateral dysplastic hip	PE341	205057007	Hip/Pelvis
+359432012	198	Lumbar spondylosis	N114-2	239880009	Back
+391102016	198	Sprain of joint	S5z-1	105611005	Other
+99770017	198	Sprain of cruciate ligament of knee	S542	60058008	Knee
+310880014	197	Multiple stiff joints	N0959	202510005	Multiple
+311193010	197	Disorder of cervical spine	N13	128049000	Neck
+319561012	196	Acute meniscal tear, medial, bucket handle tear	S4602	208917007	Knee
+402909010	196	Other shoulder sprain	S50w	3199001	Shoulder
+256014016	194	O/E - swelling - joint	2H3-1	164524001	Other
+30877015	194	Acquired deformity of nose	N380	18283000	Head
+312186013	193	Aneurysmal bone cyst	N3322	203468000	Other
+319572019	193	Tear of meniscus of knee	S462	239720000	Knee
+323959019	192	Other shoulder and upper arm injury NOS	SK12z	699062006	Arm
+311492013	191	Ganglion and synovial cyst	N224z	240205003	Other
+320162016	191	Sprain ulnar collateral ligament	S520F	209453007	Wrist
+559621000000119	189	Suspected inflammatory arthritis	1JG	431956005	Other
+312188014	187	Fibrous cortical defect	N3324	203470009	Other
+312195017	187	Avascular necrosis of the head of femur	N3342	203476003	Hip/Pelvis
+890661000006115	187	Painful Shoulder	N0941-99	267949000	Shoulder
+419523013	186	Subungual exostosis of great toe	N21z5	281498002	Foot/Ankle
+372799017	185	Back stiffness	N149	249921008	Back
+221771000000117	184	Calve - Perthes' disease	N3211-1	111255008	Hip/Pelvis
+424381012	183	Strain of calf muscle	ESCTST13	285395009	Leg
+256029019	182	O/E - joint movement painful	2H45	164539000	Other
+36572013	182	Radial styloid tenosynovitis	N2204	21794005	Wrist
+2472449013	181	Juvenile seronegative polyarthritis	N0451	410797009	Multiple
+323993015	181	Knee, leg, ankle and foot injuries NOS	SK17z	127279002	Leg
+256023018	180	O/E - reduced joint movement	2H43	164533004	Other
+419883015	180	Swelling of calf	N2470-1	281792000	Leg
+312351017	179	Flexion deformity	N369	203598005	Other
+330547017	179	Traumatic injury	TGyz1	417746004	Other
+373031019	179	Unstable knee	N0966-2	250102002	Knee
+5865551000006112	179	Knee joint valgus deformity	^ESCTKN586555	299330008	Knee
+256016019	178	O/E - joint effusion present	2H32	164526004	Other
+394571000006116	178	Chronic arthritis of juvenile onset	Nyu16	410793008	Other
+491941000006112	178	Arthralgia of sacroiliac joint	N094L	202487003	Hip/Pelvis
+1638641000006119	177	Musculoskeletal symptom	EMISNQMU15	84869007	Other
+312607015	176	Lordosis deformity of spine	Nyu5A	61960001	Back
+320260016	176	Sprain, ankle joint, medial	S5501	209531007	Foot/Ankle
+222191000000111	175	Retrosternal chest pain	R0650-1	4568003	Chest
+5529171000006118	175	Joint swelling	^ESCTJO552917	271771009	Other
+891281000006115	175	Ganglion/synov.cyst - wrist	N224-95	202936005	Wrist
+309400018	174	Arthropathy	N0	399269003	Other
+400248014	174	Arthralgia of the forearm	N0943	267950000	Arm
+492459010	174	Morning stiffness - joint	1D17	40144003	Other
+828611000006114	173	Housemaids' knee	N2225	17059001	Knee
+320234017	171	Sprain of hip	S53w	17883008	Hip/Pelvis
+324018016	171	Injury of muscle and tendon at ankle and foot level	SK1F	212475003	Foot/Ankle
+311224016	169	Disorder of neck	N13z	118939000	Neck
+1682441000006112	168	Cervicalgia	N138	81680005	Neck
+256100019	168	O/E - soft tissue swelling-gen	2HC2	164599003	Other
+13498591000006113	167	Pain in upper arm	^ESCT1349859	771083005	Arm
+1464018	167	Monoarthritis	N066	699462004	Other
+587321000006118	166	Non-traumatic acute slipped upper femoral epiphysis	N3220	203374004	Hip/Pelvis
+369383014	165	Facet joint syndrome	N14y-1	247369005	Back
+111401000006119	164	Swan-neck deformity of finger	N3622	23060008	Hand
+113561000006116	164	Synovitis of knee	N220z-2	239817004	Knee
+109031000006116	163	Tendonitis of thumb	N2205-4	67801009	Hand
+135221013	162	Loose body in knee	N073	81512004	Knee
+1770781000006114	162	Impingement syndrome of hip	N215B-1	432473000	Hip/Pelvis
+568371000006118	162	Closed traumatic dislocation of joint of finger	S440z	75137002	Hand
+131411000006114	161	Sprain, knee joint, medial collateral	S5410	81902001	Knee
+312421012	161	Idiopathic kyphoscoliosis	N3731	203640005	Back
+359536013	161	Bone spur	N21z3-1	235231000119100	Other
+445004010	161	Dislocation of temporomandibular joint	S40-3	302964004	Head
+38401000006113	158	Other and unspecified kyphosis	N374X	414564002	Other
+1229336018	156	Acquired equinus foot deformity	N3672	37718006	Foot/Ankle
+319931012	156	Other dislocation NOS	S49z	108367008	Other
+987141000006115	155	Bipartite patella	PF645	79214007	Knee
+400941013	154	Congenital musculoskeletal anomalies NOS	PGz	73573004	Multiple
+320291010	153	Sacroiliac sprain NOS	S56z	12519004	Back
+359590017	153	Suprapatellar bursitis	N216z-1	240003004	Knee
+2923791000006111	152	Slipped upper femoral epiphysis	^ESCTSL292379	26460006	Hip/Pelvis
+311457017	152	Synovitis of hip	N220S	202926002	Hip/Pelvis
+402881012	152	Dislocation or subluxation of jaw	S40	302964004	Head
+485824011	152	Kohler's disease - osteochondrosis of tarsal navicular	N3256	34359005	Foot/Ankle
+1786699016	151	Frozen shoulder	N210-2	399114005	Shoulder
+312504018	151	Musculoskeletal disorder	N3z	928000	Other
+568101000006114	151	Closed traumatic dislocation acromioclavicular joint	S4104	208759001	Shoulder
+2159844013	150	Rheumatoid arthritis particle agglutination test	43b9	1010071000000108	Other
+311653013	150	Contracture of hamstring(s)	N238F	203074005	Leg
+319375018	150	Closed traumatic dislocation of shoulder	S410	208754006	Shoulder
+311225015	149	Back problem	N14	302258001	Back
+312001000000116	149	Synovitis	N220T	416209007	Other
+5459701000006116	149	Sprain of toe joint	^ESCTSP545970	262998001	Foot/Ankle
+1591381000006114	148	Mixed connective tissue disease	Nyu4F	398049005	Other
+896041000006112	148	Dislocated patella	S463-99	208929003	Knee
+310577019	147	Acetabular labrum tear	N0877	202336002	Shoulder
+310929012	147	Finding of shoulder region	N096A	116308004	Shoulder
+312096018	144	Other osteochondritis dissecans of knee	N3272	203406004	Knee
+372793016	144	Wrist stiff	N0953-1	249916005	Wrist
+409930017	144	Thoracic back sprain	S571-99	274162005	Back
+255998014	140	O/E - elbow joint abnormal	2H24	164510000	Elbow
+2475754012	139	Lateral meniscus derangement	N071	21333004	Knee
+310986019	138	Clicking elbow	N0993	202600005	Elbow
+159011000006116	136	Patellar tendon rupture	S5U2	30832001	Knee
+319568018	136	Acute meniscal tear, lateral, bucket handle tear	S4612	208924008	Knee
+933111000006118	136	Wrist injury	SK133-99	704421000000108	Wrist
+131285010	135	Sprengel's deformity	PF52-1	79120002	Shoulder
+137941000006113	134	Temporomandibular joint click	J0463	298377005	Head
+311168013	133	Lumbar disc prolapse with radiculopathy	N12C2	202735001	Back
+312243018	133	Chondromalacia	N33z2	63198006	Other
+314473012	133	Congenital varus deformity of foot	PE5z	42162004	Foot/Ankle
+325394019	133	[X]Unspecified injury of shoulder and upper arm	Syu4E	699062006	Shoulder
+1494798013	132	Sternum sprain	S5y4	54942004	Chest
+319370011	132	Dislocated jaw	S40z	302964004	Head
+359847012	132	Disorder of spinal region	N14z-2	410730009	Back
+310914010	131	Other joint symptoms of the hand	N0964	118952005	Hand
+255999018	130	O/E - wrist joint abnormal	2H25	164511001	Wrist
+391086019	130	Torn gastrocnemius	S54x1-1	262981001	Leg
+400295013	130	Rotator cuff syndrome, unspecified	N2110	4106009	Shoulder
+2694858012	129	Congenital acetabular dysplasia	PF632	52781008	Hip/Pelvis
+312573011	129	[X]Disorder of patella, unspecified	Nyu3E	721291009	Knee
+400296014	129	Rotator cuff syndrome NOS	N211z	4106009	Shoulder
+219601000000110	128	Hip snapping	N0965-1	423849004	Hip/Pelvis
+319386016	128	Closed dislocation of acromioclavicular joint	S4104-1	208759001	Shoulder
+2558271000006115	127	Inflammatory arthritis	^ESCTIN255827	3723001	Other
+310942012	127	Symptom of ankle	N096P	699368004	Foot/Ankle
+312076014	127	Juvenile osteochondrosis of the secondary patellar centre	N3243	203389008	Knee
+320236015	127	Hip sprain NOS	S53y	17883008	Hip/Pelvis
+41385012	127	Myofascial pain syndrome	N239-1	24693007	Multiple
+2767377016	126	Femoroacetabular impingement	N215B	432473000	Hip/Pelvis
+312300011	126	Acquired finger deformity NOS	N362z	26517000	Hand
+323955013	126	Injury of scapular region	SK121	68152007	Shoulder
+221631000000112	125	Adductor tendonitis	N21z2-4	202863007	Other
+391075016	125	Tendon strain	S5z-6	262972007	Other
+48884013	125	Trochanteric tendinitis	N2155	29210001	Hip/Pelvis
+451462019	124	Recurrent subluxation of the hip joint	N083x	308144002	Hip/Pelvis
+713281000006117	124	Derangement medial meniscus	N070	111222003	Knee
+742361000006117	124	Irritable hip	N0945-3	301813003	Hip/Pelvis
+130001000006111	123	Spondylosis	N11z	8847002	Back
+310453011	123	Recurrent dislocation of the knee	N083n	202245003	Knee
+320120011	122	Sprain, biceps tendon	S508	209419008	Arm
+312462018	121	Acquired rib deformity, unspecified	N3831	449466007	Chest
+312596011	121	[X]Other idiopathic scoliosis	Nyu53	203639008	Back
+504088011	121	Tibial tubercle juvenile osteochondritis	N3244-1	72047008	Leg
+2402821000000112	120	Lumber disc bulge	N122-2	202708005	Back
+256004013	120	O/E - hip joint abnormal	2H28	164515005	Hip/Pelvis
+312349016	120	Acquired external tibial torsion	N3681	203596009	Leg
+391082017	120	Rupture of tendon	S5z-5	415749005	Other
+311277014	119	Unspecified disorder of the coccyx	N1470	61296009	Back
+3527272012	119	Injury of muscle of lower back	^ESCT1167562	737254001	Back
+310819018	118	Arthralgia of acromioclavicular joint	N094C	202479004	Shoulder
+320141017	118	Other elbow sprain	S51w	263128001	Elbow
+320557010	118	Rib sprain unspecified	S5y30	209799008	Chest
+419882013	118	Swollen calf	16J0	281792000	Leg
+497880019	118	CTS - Carpal tunnel syndrome	F340-2	57406009	Wrist
+6613421000006112	118	Sprain of ligament	^ESCTSP661342	398878007	Other
+734501000006118	118	Lordosis, unspecified	N374W	61960001	Back
+108921000006110	117	Tendon injury to hand NOS	SK14-1	262971000	Hand
+311475016	117	Synovial cyst	N2240	240205003	Other
+311483010	117	Ganglion of knee	N2246	202943004	Knee
+312322016	116	Acquired valgus heel	N3679	203576001	Foot/Ankle
+933121000006114	116	Ankle injury	SK172-99	628781000000108	Foot/Ankle
+118437011	115	Myxoid cyst	N2243-1	78435003	Other
+310452018	115	Knee - recurrent dislocation	N0836-1	202245003	Knee
+320181012	115	Hand sprain NOS	S521z	87778004	Hand
+891271000006118	115	Ganglion/synov.cyst - hand	N224-94	202936005	Hand
+896291000006111	115	Sprained knee	S54-99	269137006	Knee
+311448011	114	Achilles tenosynovitis	N220H	202917000	Foot/Ankle
+317263016	114	Symptom of head and neck region	R04	267106000	Head
+371011000006114	114	Somatoform pain disorder	Eu62y-1	30077003	Other
+4193131000006114	113	Legg-Calve-Perthes disease	^ESCTLE419313	111255008	Leg
+256026014	112	O/E - reduced movement of wrist	2H432	164536007	Wrist
+319634018	112	Dislocation of ankle NOS	S47z	269114000	Foot/Ankle
+311447018	111	Extensor tenosynovitis of thumb	N220F	202916009	Hand
+320531012	111	Mallet finger with closed tendon injury	S5T3	209775008	Hand
+456085014	111	Cyst of tendon sheath	N224D	312382002	Other
+310839019	110	Arthralgia of ankle	N094P	202490009	Foot/Ankle
+359871017	110	Other deformity of bone	N36y-2	271084006	Other
+130581000006112	109	Late effect of sprain AND/OR strain without tendon injury	SC07-1	81715004	Other
+312278018	109	Crossover toe	N357	203541003	Foot/Ankle
+311336012	107	Subacromial impingement	N2122	202849001	Shoulder
+311387010	107	Plantar fascial fibromatosis	N2370	13370002	Foot/Ankle
+312182010	107	Solitary bone cyst	N3321	203467005	Other
+3957951000006119	107	Congenital genu valgum	^ESCTCO395795	89689008	Knee
+18211000006119	106	Osteochondritis dissecans of the lateral femoral condyle	N3271	203405000	Leg
+311396010	106	Enthesopathy	N21z	23680005	Other
+2164079010	105	Ligament disorders	N23-2	60492000	Other
+28257010	105	Knuckle pads	N2371	16687001	Hand
+312494011	105	Other specified musculoskeletal disorders	N3y	928000	Other
+322807018	105	Contusion, wrist and hand NOS	SE32z	211506004	Hand/Wrist
+40491000006115	105	Osteochondrosis NOS	N32z3	19579005	Other
+411840011	105	O/E - painful arc	2H23-1	275875002	Shoulder
+74984010	105	Acquired lordosis	N372	44950000	Back
+2477180015	104	Complex regional pain syndrome type II	F347	408751001	Multiple
+319567011	104	Acute meniscal tear, lateral, posterior horn	S4611	208923002	Knee
+400262019	104	Other joint symptoms of the lower leg	N0966	267953003	Leg
+253291013	103	Symptom: upper limb	1D26	162429009	Arm
+310938014	103	Other symptoms - hip	N096K	49218002	Hip/Pelvis
+444834014	103	Osteoma	B73-2	92027006	Other
+252312010	102	Backache with radiation	16C3	161892003	Back
+378065015	102	Bow legs	PE44-1	299331007	Leg
+39292015	102	Congenital flat foot	PE61-1	23407003	Foot/Ankle
+400263012	102	Arthralgia of the ankle and/or foot	N0967	267954009	Foot/Ankle
+568561000006118	102	Closed traumatic dislocation patellofemoral joint, lateral	S4630	208930008	Knee
+896411000006117	102	Sprained neck	S570-99	209557005	Neck
+122681000006110	101	Subacromial bursitis	N2116	40799003	Shoulder
+140171000006117	101	Acquired shortening of Achilles tendon	N22yM	5029005	Foot/Ankle
+256006010	101	O/E - locked knee	2H291	164517002	Knee
+256038017	101	O/E - joint stiffness	2H6	164550002	Other
+359542012	101	Painful arc syndrome	N211z-1	202841003	Shoulder
+320237012	100	Thigh sprain NOS	S53z	17883008	Knee
+575291000006113	100	Compartment syndrome of leg	SK0y5	212385001	Leg
+186201000006114	99	Reflex sympathetic dystrophy	N337-2	128200000	Other
+219271000000117	99	Seronegative arthritis	N04y1	399112009	Other
+2548331017	99	Inflammatory polyarthropathy	N04-1	417373000	Multiple
+311040011	99	Inflammatory spondylopathies	N10	202649003	Back
+256054019	98	O/E - lumbar spine abnormal	2H84	164564002	Back
+295191000006117	98	[D]Face ache	R0400-1	95668009	Head
+310511012	98	Equinus contracture of the ankle	N084b	202290007	Foot/Ankle
+310629010	98	Effusion of elbow	N090D	202373004	Elbow
+320565013	98	Xiphoid cartilage sprain	S5y43	209808000	Chest
+324025011	98	Other multiple injuries	SK1x	262519004	Multiple
+598231000006114	98	Costal cartilage sprain	S5y32	209799008	Chest
+312571013	97	[X]Other instability of joint	Nyu3C	67374007	Other
+588621000006114	97	Talipes valgus	PE60	79807003	Foot/Ankle
+11065011	96	Residual foreign body in soft tissue	N246	6058003	Other
+440239018	96	Bow legged	N3641-1	299331007	Leg
+311442012	95	Flexor tenosynovitis of wrist	N220A	202911004	Wrist
+311655018	95	Contracture of tendo achilles	N238H	203076007	Foot/Ankle
+856151000006116	95	Right hip clicks	EGTONRI5	856151000006100	Hip/Pelvis
+20587019	94	Acute arthritis	N06zA	11939005	Other
+215561000000112	94	Swelling of joint - effusion	N090-2	387637008	Other
+324011010	94	Injury of adductor muscle and tendon of thigh	SK1D0	212468004	Leg
+568351000006111	94	Closed traumatic dislocation of elbow NOS	S420z	2651006	Elbow
+256050011	93	O/E - spine abnormal	2H8	164560006	Back
+311177018	93	Disorder of lumbar disc	N12z3	443700006	Back
+84036012	93	Palindromic rheumatism	N093	50442003	Multiple
+310988018	92	Clicking wrist	N0995	202602002	Wrist
+312315012	92	Flexion deformity of knee	N3660	203569006	Knee
+5142451000006118	92	Synovial cyst of knee	^ESCTSY514245	240008008	Knee
+312347019	91	Deformity of knee joint	N368	299328006	Knee
+320216016	91	Sprain tendon of finger	S526	209499009	Hand
+320246018	91	Partial tear, knee, medial collateral ligament	S5411	209519005	Knee
+359169019	91	Arthritis of knee	N06z6-1	371081002	Knee
+97064010	91	Acquired postural kyphosis	N3710	268040001	Back
+311634015	90	Other fibromatoses	N237	19660004	Other
+455771000006114	90	Acute low back pain	N12-3	278862001	Back
+4816191000006111	90	Lateral epicondylitis	^ESCTLA481619	202855006	Elbow
+320308011	89	Lumbar back sprain	S572-99	209565008	Back
+323889010	89	Traumatic complications and unspecified injuries	SK	417746004	Other
+857221000006118	89	Left hip clicks	EGTONLE5	857221000006102	Hip/Pelvis
+146974019	88	Acquired hammer toe, other than great toe	N35C	122481008	Foot/Ankle
+1776248011	88	Osteoarthritis	N05-1	396275006	Other
+221641000000115	88	Supraspinatus tendonitis	N21z2-6	202841003	Shoulder
+311438014	88	Tenosynovitis of ankle	N2206	202907005	Foot/Ankle
+320563018	88	Sternoclavicular sprain	S5y41	209806001	Shoulder
+5668791000006112	88	Upper back injury	^ESCTUP566879	282765009	Back
+311383014	87	Tibialis anterior tendinitis	N2175	202880006	Leg
+131361000006118	86	Sprain of hip joint	S532	17883008	Hip/Pelvis
+168751000006115	86	Rheumatoid arthritis and other inflammatory polyarthropathy	N04	69896004	Other
+183021000006118	86	Recurrent subluxation of shoulder - anterior	N083C	202212003	Shoulder
+253931000006113	86	Overriding fifth toe	N35A	203543000	Foot/Ankle
+359312010	86	Juvenile ankylosing spondylitis	N0450	239805001	Back
+131061000006115	85	Sprain thumb, metacarpophalangeal joint nonspecific	S5221	209470004	Hand
+221521000000114	85	Osteoarthritis of knee	N05z6-1	239873007	Knee
+314494010	85	Valgus deformity of foot	PE6y	249803006	Foot/Ankle
+44918014	85	Antiphospholipid syndrome	N006	26843008	Other
+310930019	84	Other symptoms in sternoclavicular joint	N096B	118952005	Shoulder
+439051015	84	Locked temporomandibular joint	J0465	298373009	Head
+127281000006111	83	Finger joint stiff	N095W	298238005	Hand
+310932010	83	Other symptoms - elbow	N096D	202480001	Elbow
+312314011	83	Acquired knee deformity NOS	N366	299328006	Knee
+319497017	83	Closed traumatic dislocation of finger, unspecified	S4400	75137002	Hand
+219651000000111	82	Adhesive capsulitis of shoulder	N210	399114005	Shoulder
+314845015	82	Congenital anomaly of the hand	PF5s	34111000	Hand
+453181013	82	Lumbosacral strain	N1463-1	309710005	Back
+587341000006113	82	Non traumatic chronic slipped upper femoral epiphysis	N3222	203376002	Hip/Pelvis
+312191014	81	Cyst of bone NOS	N332z	203465002	Other
+400247016	81	Arthralgia of the upper arm	N0942	267950000	Arm
+405142017	81	Unspecified polyarthropathy or polyarthritis	N065	36186002	Multiple
+500464010	81	Hallux rigidus - acquired 	N352	6654000	Foot/Ankle
+81981010	81	Coxalgia	N094K-1	49218002	Hip/Pelvis
+147833014	80	Systemic sclerosis	N001-2	89155008	Other
+314444014	80	Unilateral dysplastic hip	PE340	205056003	Hip/Pelvis
+891241000006114	80	Ganglion/synov.cyst-ankle/foot	N224-91	202936005	Foot/Ankle
+256010013	79	O/E - neck joint abnormal	2H2D	164521009	Neck
+317319011	79	[D]Other symptoms affecting head and neck	R04z	267106000	Neck
+320261017	79	Deltoid ligament ankle sprain	S5501-1	209531007	Foot/Ankle
+40831000006117	79	Osteophyte of bone	N09B	235231000119100	Other
+568671000006112	79	Closed traumatic dislocation toe, interphalangeal joint, single	S4806	208994001	Foot/Ankle
+605021000006115	79	Curvature of spine NOS	N37z	64217002	Back
+761871000006117	79	Flexion deformity of fingers	PF5r4	203554005	Hand
+372790018	78	Knee stiff	N0956-1	249913002	Knee
+491791000006117	78	Arthralgia of 1st metatarsophalangeal joint	N094T	202495004	Foot/Ankle
+8261991000006112	78	Injury of tendon of finger	^ESCTIN826199	813121000000101	Hand
+310422014	77	Habitual subluxation of the shoulder	N083M	202221002	Shoulder
+312237015	77	Bony pelvic pain	N33A0	203508001	Hip/Pelvis
+312414012	77	Acquired kyphosis NOS	N371z	413428007	Neck
+319501010	77	Closed traumatic dislocation, proximal interphalangeal joint	S4404	208862005	Hand
+896371000006118	77	Sprained foot	S551-99	49388007	Foot/Ankle
+148958019	76	Monostotic fibrous dysplasia	N3323	89859004	Other
+253294017	76	C/O - lower limb symptom	1D27-1	162430004	Leg
+312348012	76	Acquired internal tibial torsion	N3680	203595008	Leg
+320251012	76	Other specified knee sprain	S54w	54888009	Knee
+372795011	76	Shoulder stiff	N0951-1	249918006	Shoulder
+400200013	76	Derangement of meniscus	N072	111224002	Knee
+319498010	75	Closed traumatic dislocation, metacarpophalangeal joint	S4401	208859007	Hand
+323927014	75	Other face and neck injuries	SK10	417163006	Neck
+411294010	75	Bucket handle tear - current injury	S460-1	275327001	Knee
+4379021000006110	75	Traumatic dislocation of joint of finger	^ESCTTR437902	125619004	Hand
+493219017	75	Congenital talipes varus	PE50	42162004	Foot/Ankle
+1572921000006110	74	Bone tenderness at navicular bone of foot	EMISNQBO13	1572921000006106	Foot/Ankle
+310607011	74	Joint disorder	N09	399269003	Other
+310951016	74	Walking difficulty due to unspecified site	N0970	228158008	Leg
+311389013	74	Anterior ankle impingement	N217B	202884002	Foot/Ankle
+317147015	74	[D]Clicking thumb	R01z4	42786005	Hand
+3364071000006115	74	Medial epicondylitis	^ESCTME336407	53286005	Elbow
+405688012	74	Deformity of phalanx of toe	N36yL	271100003	Foot/Ankle
+8261561000006110	74	Injury of muscle of upper back	^ESCTIN826156	812501000000108	Back
+130711000006112	73	Sprain finger, proximal interphalangeal joint, nonspecific	S5234	209482008	Hand
+256030012	72	O/E - joint crepitation	2H46	164540003	Other
+299731000000113	72	Muscle wasting	N2322	88092000	Other
+310984016	72	Clicking sternoclavicular joint	N0991	202598004	Shoulder
+312085014	72	Iselin's disease - osteochondrosis of fifth metatarsal	N3254	203395009	Foot/Ankle
+325265011	72	Dislocations, sprains and strains involving head with neck	SR20	213368009	Neck
+484581000006111	72	Congenital malformation of spine	PG1	74877002	Back
+568171000006115	72	Closed traumatic dislocation of elbow joint	S420	2651006	Elbow
+733681000006111	72	Lumbar disc displacement	N122	202708005	Back
+1234731016	71	Fibrodysplasia ossificans congenita	PGy4	82725007	Other
+3447641000006113	71	Traumatic dislocation of knee joint	^ESCTTR344764	58320001	Knee
+569181000006114	71	Closed traumatic subluxation patellofemoral joint	S467	208953009	Knee
+256053013	70	O/E - thoracic spine abnormal	2H83	164563008	Back
+312633011	70	[X]Other myositis	Nyu80	26889001	Other
+320144013	70	Forearm sprain NOS	S51z	262990008	Arm
+400288016	70	Other back symptoms	N14y	272009001	Back
+752841000006112	70	Kyphoscoliosis deformity of spine	N374-1	405773007	Back
+221761000000112	69	Osteochondropathies	N32	77881008	Other
+311388017	69	Posterior calcaneal exostosis (pump bump)	N217A	202883008	Foot/Ankle
+312318014	69	Acquired equinovarus - clubfoot	N3671	203572004	Foot/Ankle
+391266012	69	Tear of ligament of knee joint	S545	263139003	Knee
+416142016	69	Lumbalgia	N142-2	279039007	Back
+451468015	69	[D]Retrosternal chest pain	R065C	4568003	Chest
+252303013	68	Stiff neck symptom NOS	16AZ	161880003	Neck
+312560012	68	[X]Other hammer toe(s) (acquired)	Nyu31	122481008	Foot/Ankle
+439693015	68	Shoulder joint painful on movement	1M02	298857005	Shoulder
+1566461000006118	67	Immediate swelling of knee	EMISNQIM1	1566461000006102	Knee
+312316013	67	Other acquired ankle and foot deformity	N367	240240002	Foot/Ankle
+2917025019	66	Strain of hamstring muscle	ESCTST9	481000119104	Leg
+310374013	66	Pathological dislocation of patellofemoral joint	N082R	202191002	Knee
+311186011	66	Lumbar discitis	N12zC	202752002	Back
+319496014	66	Closed traumatic dislocation digit	S440	208857009	Hand
+325374011	66	Injury of trunk	Syu3L	48125009	Back
+5852251000006112	66	Scoliosis	^ESCTSC585225	298382003	Back
+195948016	65	Compartment syndrome	SK0y-2	111245009	Other
+359327010	65	Synovitis of knee	N220V	239817004	Knee
+40641000006114	65	Osteoma	B30-2	92027006	Other
+611421000006111	65	Degeneration of lumbar spine	N114-1	239880009	Back
+6451641000006112	65	TMJPDS - Temporomandibular joint pain dysfunction syndrome	^ESCTTM645164	386207004	Head
+896351000006111	65	Sprain - Achilles tendon	S5504-99	22817005	Foot/Ankle
+93418010	65	Cubital tunnel syndrome	F3420	56177003	Wrist
+2124011000000110	64	Injury of muscle of rotator cuff	SK125	733227000	Shoulder
+320213012	64	Sprain tendon of thumb	S525	209496002	Hand
+490581000006118	64	Acquired cavus foot deformity	N3673	86900005	Foot/Ankle
+135200013	63	Bursitis of hip	N2151	81498004	Hip/Pelvis
+2275671000000111	63	Rheumatoid arthritis monitoring invitation first letter	9mM0	882401000000106	Other
+311335011	63	Scapulohumeral fibrositis	N2121	202848009	Shoulder
+320269015	63	Partial tear, ankle, lateral ligament	S5506	209536002	Foot/Ankle
+400192018	63	Unspecified polyarthropathy or polyarthritis NOS	N065z	36186002	Multiple
+646081000006116	63	Enthesopathy of ankle AND/OR tarsus	N217	21409006	Foot/Ankle
+889841000006113	63	Still's disease - juvenile R.A	N043-99	201796004	Other
+14046016	62	Contracture of joint	N084	7890003	Other
+179891000006115	62	Reiter's disease	A993	67224007	Other
+312495012	62	Disorder of musculoskeletal system	N3y0	928000	Other
+324013013	62	Injury of muscle and tendon at lower leg level	SK1E	212470008	Leg
+400310018	62	Muscle, ligament and fascia disorders	N23	268006001	Other
+400878010	62	Congenital anomaly of musculoskeletal system	PE	73573004	Other
+7299721000006119	62	Pain in forearm	^ESCTPA729972	444899003	Arm
+1783067019	61	Digital mucous cyst	N224E	404098005	Hand
+312346011	61	Acquired deformity of ankle AND/OR foot	N367z	88562000	Foot/Ankle
+314491019	61	Congenital clubfoot - valgus	PE60-1	205083002	Foot/Ankle
+314513015	61	Congenital deformity of foot	PE7y	302297009	Foot/Ankle
+319492011	61	Dislocation of wrist NOS	S43z	208811007	Wrist
+320524013	61	Rupture tendon of finger	S5T	209770003	Hand
+402910017	61	Other upper arm sprain	S50x	123536004	Arm
+427441000006117	61	[X]Sprain & strain of oth & unspecif parts of wrist & hand	Syu66	209436000	Hand/Wrist
+623361000006116	61	Dislocations, sprains and strains involving thorax with lower back and pelvis	SR21	213369001	Back
+646121000006119	61	Enthesopathy of knee region	N216	39547005	Knee
+288960017	60	Malignant neoplasm of connective and other soft tissue	B31	269469005	Other
+312292012	60	Acquired finger deformity, unspecified	N3620	26517000	Hand
+481611016	60	Jaw sprain	S5y1	23415000	Head
+1226293012	59	Cubitus varus - acquired	N3602	29087002	Other
+125702014	59	Psoas tendinitis	N2154	75680005	Back
+131441000006113	59	Sprain, metatarsophalangeal joint	S5512	209540006	Foot/Ankle
+136731000006115	59	Slipped radial epiphysis	N32y-1	240185006	Wrist
+14427013	59	Closed dislocation of jaw	S400	8135006	Head
+2157514012	59	Deformity of scapula	N36y4	405735008	Shoulder
+309850015	59	Inflammatory polyarthropathy NOS	N04z	417373000	Multiple
+310572013	59	Glenoid labrum tear	N0873	202332000	Shoulder
+311443019	59	Flexor tenosynovitis of finger	N220B	202912006	Hand
+405551018	59	Unstable hip	PE35	271015004	Hip/Pelvis
+454631000006115	59	Acquired trigger thumb	N220G	42786005	Hand
+541000006112	59	Finding of finger joint	N096H	299061005	Hand
+5460061000006119	59	Dislocation of toe joint	^ESCTDI546006	263030002	Foot/Ankle
+219621000000118	58	Disorder of intervertebral disc	N12	36427004	Back
+320569019	58	Sprain, symphysis pubis	S5y51	209812006	Hip/Pelvis
+890521000006110	58	Effusion - knee joint	N0906-99	267942009	Knee
+899311000006117	58	Injury arm NOS	SK13-99	637351000000104	Arm
+312291017	57	Acquired deformity of finger	N362	26517000	Arm
+314493016	57	Congenital talipes calcaneovalgus	PE62	205083002	Foot/Ankle
+324010011	57	Injury of muscle and tendon at hip and thigh level	SK1D	212467009	Hip/Pelvis
+1484869018	56	Non-traumatic subluxation of acromioclavicular joint	N082Z	390836002	Shoulder
+256024012	56	O/E - reduced movement of spine	2H430	164534005	Back
+311141013	56	Degenerative disc disease	N128	77547008	Back
+311364019	56	Pes anserinus tendinitis and bursitis	N2161	202868003	Knee
+311704019	56	Myalgia or myositis NOS	N241z	203113009	Other
+325436019	56	Injury of hip and thigh	Syu7	699063001	Hip/Pelvis
+372792014	56	Hand joint stiff	N0954-1	249915009	Hand
+405682013	56	Deformity of tibia	N36yE	271094001	Leg
+419524019	56	Subungual exostosis of lesser toe	N21z6	281499005	Foot/Ankle
+569261000006111	56	Closed traumatic subluxation sternoclavicular joint	S49E2	209213007	Shoulder
+899321000006113	56	Injury leg NOS	SK171-99	600861000000103	Leg
+1233051016	55	Quadriceps tendon rupture	N2265	6849006	Hip/Pelvis
+131551000006111	55	Strain of subscapularis tendon	S505	209415002	Shoulder
+2360741000000115	55	Axial spondyloarthritis	N11F	723116002	Back
+312435014	55	Curvature of spine, unspecified	N3740	77567004	Back
+312701012	55	Osteonecrosis	NyuC5	240196003	Other
+68620010	55	Bicipital tenosynovitis	N2112	41137001	Arm
+693491000006111	55	Musculoskeletal or connective tissue diseases OS	Ny	312225001	Other
+898431000006112	55	Bruise NOS	SE4z-99	669341000000103	Other
+131031000006112	54	Sprain thumb, metacarpophalangeal joint, ulnar collateral ligament	S5223	209472007	Hand
+325493012	54	Multiple injuries	SyuA8	262519004	Multiple
+8261791000006110	54	Injury of muscle of foot	^ESCTIN826179	812761000000101	Foot/Ankle
+312559019	53	Acquired deformity of joint of big toe	Nyu30	240254005	Foot/Ankle
+320211014	53	Sprain wrist extensors	S5240	209494004	Wrist
+4378711000006112	53	Hand injury	^ESCTHA437871	125599006	Hand
+510851000006116	53	Congenital subluxation of hip, bilateral	PE311	205052001	Hip/Pelvis
+7862881000006114	53	Injury of muscle at shoulder level	^ESCTIN786288	724905004	Shoulder
+8275491000006113	53	Injury of tendon of ankle	^ESCTIN827549	828981000000104	Foot/Ankle
+310628019	52	Elbow joint effusion	N0902-1	202373004	Elbow
+310637019	52	Effusion of hip	N090K	202379000	Hip/Pelvis
+310818014	52	Arthralgia of sternoclavicular joint	N094B	202478007	Shoulder
+311451016	52	Extensor hallucis longus tenosynovitis	N220L	202920008	Foot/Ankle
+312098017	52	Osteochondritis dissecans of the capitellum	N3274	203408003	Elbow
+312436010	52	Kyphosis associated with other condition	N3741	414564002	Back
+320242016	52	Sprain or partial tear, knee, lateral collateral ligament	S540	209515004	Knee
+400266016	52	Spondylosis and allied disorders	N11	267969005	Back
+4378981000006115	52	Traumatic dislocation of shoulder region	^ESCTTR437898	125615005	Shoulder
+558181000006112	52	Clawing of great toe	N356	45636002	Foot/Ankle
+896241000006119	52	Sprained finger/thumb	S5213-99	209465006	Hand
+30978014	51	Lumbar spinal stenosis	N1402	18347007	Back
+310928016	51	Joint finding	N0969	118952005	Other
+320578013	51	Other specified sprains and strains	S5yy	209409002	Other
+359805013	51	Synovial plica of knee	N22y4-1	240171001	Knee
+400313016	51	Muscle, ligament or fascia disorder NOS	N23z	268006001	Other
+411297015	51	Current knee cartilage tear	S46-1	275330008	Knee
+4378651000006115	51	Elbow injury	^ESCTEL437865	125596004	Elbow
+509813011	51	Benign neoplasm of bone and articular cartilage	B73	92027006	Other
+561241000006113	51	Closed dislocation of sternoclavicular joint	S4960-1	33358005	Shoulder
+890991000006119	51	Backache NOS	N145-99	643261000000101	Back
+896191000006119	51	Sprained shoulder	S50-99	209410007	Shoulder
+255989011	50	O/E - joint abnormal	2H2	164506003	Other
+41723017	50	Congenital postural lordosis	PE21	24897005	Back
+4379031000006113	50	Traumatic dislocation of joint of thumb	^ESCTTR437903	125620005	Hand
+451501010	50	Tendon disorder	N22yz-2	68172002	Other
+5461211000006118	50	Rupture of ligament of knee joint	^ESCTRU546121	263139003	Knee
+896331000006116	50	Sprained knee NOS	S54y-99	671951000000108	Knee
+896361000006113	50	Sprain - ankle NOS	S550z-99	671981000000102	Foot/Ankle
+221611000000116	49	Bicipital tendinitis	N21z2-2	202856007	Arm
+311347017	49	Triceps tendinitis	N2135	202857003	Arm
+319566019	49	Acute meniscal tear, lateral, anterior horn	S4610	208922007	Knee
+400194017	49	Arthropathy NOS	N06zz	399269003	Other
+18231000006113	48	Osteochondritis dissecans of the patella	N3270	203404001	Knee
+256002012	48	O/E - hand joint abnormal	2H26	164513003	Hand
+310459010	48	Habitual dislocation of the patella	N083r	202249009	Knee
+310510013	48	Flexion contracture of the knee	N084a	202289003	Knee
+320208013	48	Volar plate injury, thumb, metacarpophalangeal joint	S523D	209491007	Hand
+400255011	48	Stiff joint, of the hand	N0954	249915009	Hand
+599131000006110	48	Coxalgia	N0945-1	49218002	Back
+256019014	47	O/E - joint swelling NOS	2H3Z	164524001	Other
+310157016	47	Unspecified polyarthropathy of multiple sites	N0659	36186002	Multiple
+311036019	47	Arthropathies NOS	N0z	399269003	Multiple
+311522018	47	Subluxation of peroneal tendon	N226H	202974002	Leg
+312510018	47	Streptococcal arthritis	Nyu00	51646002	Other
+323967010	47	Other elbow, wrist and forearm injuries NOS	SK13z	127278005	Arm
+4507141000006118	47	Chronic back pain	^ESCTCH450714	134407002	Back
+611321000006117	47	Deformity of phalanx of finger or thumb	N36yA	271091009	Hand
+309827014	46	Monarticular juvenile rheumatoid arthritis	N0433	201799006	Other
+310935012	46	Metacarpophalangeal joint pain	N096G	299061005	Hand
+310955013	46	Walking difficulty due to ankle and foot	N0973	202570002	Foot/Ankle
+319580014	46	Closed traumatic dislocation of knee, unspecified	S4650	269112001	Knee
+359764018	46	Chondrolysis	N33zB	240139008	Other
+400261014	46	Other joint symptoms of the pelvic region and thigh	N0965	118952005	Hip/Pelvis
+400350015	46	Acquired deformity of limb	N36z	17230005	Other
+492481000006116	46	Arthrogryposis multiplex congenita.	N2330-1	77016009	Multiple
+757291000006118	46	Joint disorders NOS	N09z	399269003	Other
+815211000006111	46	Acquired hallux varus	N351	16123003	Foot/Ankle
+97681017	46	Gluteal tendinitis	N2152	58781003	Hip/Pelvis
+311690014	45	Muscular rheumatism	N2402	203102006	Other
+314496012	45	Other valgus foot deformity NOS	PE6yz	22099008	Foot/Ankle
+314687016	45	Unspecified congenital leg shortening NOS	PF30z	66078008	Leg
+317134013	45	Clubbing of fingers	R015	30760008	Hand
+320227019	45	Iliofemoral sprain	S530	209505005	Hip/Pelvis
+323953018	45	Other shoulder and upper arm injuries	SK12	699062006	Shoulder
+359170018	45	Arthritis of hip	N06z5-1	68449006	Hip/Pelvis
+494294019	45	Acquired hammer deformity of great toe	N353	45636002	Foot/Ankle
+117800011	44	Traumatic myositis ossificans	N2312	70917000	Other
+1481870016	44	Cervical spondylosis	N110-1	387800004	Neck
+207904011	44	Piriformis syndrome	N2481	129179000	Hip/Pelvis
+222391000000114	44	Traumatic torticollis	S5700-1	360444002	Neck
+265841000006115	44	Oligoarticular osteoarthritis, unspec, of unspecified sites	N0540	268054009	Other
+310412015	44	Recurrent subluxation of shoulder - anterior	N083H	202212003	Shoulder
+312103015	44	Osteochondritis dissecans of the talus	N3279	203413004	Foot/Ankle
+312529012	44	[X]Other specified arthritis	Nyu1B	3723001	Other
+359841013	44	Rupture of Baker's cyst - knee	N2251-1	240203005	Knee
+402891018	44	Dislocation or subluxation of ankle	S47	269114000	Foot/Ankle
+453671000006115	44	Acquired clavicle deformity	N38y0	111271008	Chest
+587331000006115	44	Non traumatic acute-on-chronic slipped upp femoral epiphysis	N3221	203375003	Hip/Pelvis
+158711000006114	43	Rupture of hamstring tendon	S5U1	209779002	Leg
+310911019	43	Other joint symptoms of the shoulder region	N0961	267949000	Shoulder
+311397018	43	Capsulitis	N21z0	6858004	Other
+311509014	43	Hand and wrist extensor tendon rupture	N2263	202961008	Wrist
+312117012	43	Epiphysitis	N32z1	85840009	Other
+312202018	43	Avascular necrosis of other bone	N3347	397758007	Other
+319579011	43	Other closed traumatic dislocation of knee	S465	269112001	Knee
+402917019	43	Sprain of spinal ligament	S57	281598004	Back
+60357013	43	Congenital subluxation of hip	PE31	36172001	Hip/Pelvis
+1705881000006115	42	Myofascial pain syndrome	N2480	24693007	Multiple
+252447015	42	Parasternal pain	1826	161974007	Chest
+325414017	42	[X]Contusion of other parts of wrist and hand	Syu60	211506004	Hand/Wrist
+400330019	42	Panner's disease - osteochondritis of capitulum of humerus	N3232	268025003	Arm
+8262051000006113	42	Injury of tendon of foot	^ESCTIN826205	813311000000109	Foot/Ankle
+131021000006114	41	Sprain thumb, metacarpophalangeal joint, radial collateral ligament	S5222	209471000	Hand
+2478745010	41	Medial meniscus, posterior horn derangement	N0703	5313005	Knee
+256144016	41	O/E - sign - head/neck	2I21	164633005	Neck
+311450015	41	Tibialis posterior tenosynovitis	N220K	202919002	Leg
+624681000006116	41	Disorder of coccyx	N147	61296009	Back
+108791000006110	40	Temporomandibular joint internal derangement	J0462	196431006	Head
+1221447010	40	Coxa valga - acquired	N3631	16979000	Hip/Pelvis
+253292018	40	C/O - upper limb symptom	1D26-1	162429009	Arm
+309572012	40	Reactive arthropathy of knee	N01wB	201569000	Knee
+312123019	40	Disorder of bone and articular cartilage	N33	240134003	Other
+312285019	40	Other acquired toe deformity	N35y	42251007	Foot/Ankle
+314875013	40	Congenital anomaly of toe	PF66	9989000	Foot/Ankle
+320179010	40	Interphalangeal sprain	S5213	209465006	Hand
+378066019	40	Congenital clicking hip	PE33	253949003	Hip/Pelvis
+400882012	40	Congenital sternomastoid torticollis	PE1	268240006	Neck
+4378611000006116	40	Injury of shoulder region	^ESCTIN437861	125594001	Shoulder
+75341011	40	Schmorl's nodes	N124	45181002	Back
+761801000006111	40	Flexion contracture of proximal interphalangeal joint	N084S	202281000	Hand
+126406018	39	Spinal stenosis	N140-1	76107001	Back
+149911000006117	39	Seropositive rheumatoid arthritis	N04X	239791005	Other
+256027017	39	O/E - reduced movement of hip	2H433	164537003	Hip/Pelvis
+271821000006115	39	O/E medial joint line tenderness	EMISHGT72	271821000006104	Knee
+320376011	39	Complete tear, knee, posterior cruciate ligament	S5C2	209628003	Knee
+400246013	39	Arthralgia of shoulder	N094A	267949000	Shoulder
+491891000006111	39	Arthralgia of metacarpophalangeal joint	N094G	202483004	Hand
+728491000006116	39	Malignant neoplasm of connective and soft tissues of thoracic spine	B3133	188013008	Back
+896391000006117	39	Sprain - foot NOS	S551z-99	672001000000102	Foot/Ankle
+1495246018	38	Sprained toe	S5513-99	262998001	Foot/Ankle
+1573041000006110	38	Supination-eversion injury of ankle	EMISNQSU7	1378000	Foot/Ankle
+312574017	38	Disorder of connective tissue	Nyu4	105969002	Other
+312582017	38	Overlap syndrome	Nyu46	276657008	Other
+312595010	38	[X]Other lordosis	Nyu52	61960001	Back
+312630014	38	[X]Other dorsalgia	Nyu7A	410730009	Back
+321735014	38	Multiple injuries of ankle and foot	SA16	210706009	Foot/Ankle
+400199010	38	Disorder of joint of ankle and/or foot	N06z7	442246002	Foot/Ankle
+400344013	38	Bone or cartilage disorders NOS	N33zz	240134003	Other
+55971012	38	Unilateral congenital dislocation of hip	PE300	48334007	Hip/Pelvis
+8261751000006116	38	Injury of muscle of hand	^ESCTIN826175	812721000000109	Hand
+310286013	37	Derangement of knee	N07z	63643000	Knee
+310410011	37	Recurrent dislocation of shoulder - anterior	N083G	202210006	Shoulder
+4378741000006111	37	Injury of knee	^ESCTIN437874	125601008	Knee
+458317014	37	Acquired varus deformity of toe	N35B	314038003	Foot/Ankle
+490918018	37	Acquired claw hand	N3606	367393006	Hand
+624721000006111	37	Disorder of sacrum	N146	12820001	Back
+7301371000006113	37	Ganglion	^ESCTGA730137	445008009	Other
+131561000006113	36	Strain of supraspinatus tendon	S506	209416001	Shoulder
+311187019	36	Annular tear of lumbar disc	N12zD	202753007	Back
+312562016	36	[X]Other acquired deformities of ankle and foot	Nyu33	240240002	Foot/Ankle
+314844016	36	Other anomaly of fingers NOS	PF5rz	20948006	Hand
+325464012	36	[X]Contusion of other and unspecified parts of foot	Syu90	74814004	Foot/Ankle
+325519012	36	[X]Unspecified injury of upper limb, level unspecified	SyuBN	127278005	Arm
+372794010	36	Elbow stiff	N0952-1	249917001	Elbow
+4395951000006111	36	Injury of lower limb	^ESCTIN439595	127279002	Leg
+568921000006118	36	Closed traumatic subluxation costo-vertebral joint	S49E6	209217008	Chest
+895941000006117	36	Dislocated shoulder	S41-99	269105005	Shoulder
+256025013	35	O/E - reduced movement of arm	2H431	164535006	Arm
+26511000006110	35	Other musc skeletal deformity	PE9	73573004	Other
+312092016	35	Juvenile osteochondrosis NOS	N3263	19579005	Other
+312298011	35	Deviation of finger	N3625	203556007	Hand
+312429014	35	Post-surgical scoliosis	N3738	203647008	Back
+312687017	35	[X]Other cyst of bone	NyuB6	203465002	Other
+319635017	35	Dislocation or subluxation of foot	S48	208986008	Foot/Ankle
+320137016	35	Sprain, elbow joint, medial collateral ligament	S511	209429001	Elbow
+320178019	35	Metacarpophalangeal sprain	S5212	209464005	Hand
+320518019	35	Rupture tendon of thumb	S5S	209765005	Hand
+427491000006114	35	[X]Sprain/strain of joint/ligam of oth & unsp part of neck	Syu18	209557005	Neck
+496648012	35	Juvenile osteochondritis of the spine	N320	53406005	Back
+5139461000006110	35	Juvenile psoriatic arthritis with psoriasis	^ESCTJU513946	239803008	Other
+5459941000006116	35	Anterior dislocation of shoulder joint	^ESCTAN545994	263021005	Shoulder
+8261971000006111	35	Injury of tendon of wrist joint	^ESCTIN826197	813111000000107	Wrist
+130171000006116	34	Spontaneous joint dislocation	N082-1	80406003	Other
+219021000000114	34	Rheumatoid arthritis monitoring	66H-3	275902004	Other
+311395014	34	Posterior shin splints	N21y1	202889007	Leg
+312680015	34	[X]Disorders of bone density and structure	NyuB	76069003	Other
+314833012	34	Congenital anomaly of finger	PF5r	20948006	Hand
+319442010	34	Dislocation or subluxation of wrist	S43	208811007	Wrist
+320209017	34	Volar plate injury, thumb, interphalangeal joint	S523E	209492000	Hand
+320248017	34	Partial tear, knee, posterior cruciate ligament	S5422	209521000	Knee
+320566014	34	Sternum sprain NOS	S5y4z	54942004	Chest
+398009018	34	Symptom: trunk posterior	1D24	267108004	Trunk
+5865591000006118	34	Bandy legged	^ESCTBA586559	299331007	Leg
+7967011	34	Degenerative spondylolisthesis	N3842	4046000	Other
+891911000006119	34	Pain in left arm	N245-98	90834002	Arm
+256052015	33	O/E - cervical spine abnormal	2H82	164562003	Neck
+309824019	33	Juvenile rheumatoid arthropathy unspecified	N0430	410793008	Other
+310636011	33	Hip joint effusion	N0905-1	202379000	Hip/Pelvis
+310642010	33	Ankle joint effusion	N0907-1	202383000	Foot/Ankle
+311606010	33	Muscle atrophy	N232	88092000	Other
+311689017	33	Fibrositis	N2401	56557000	Other
+314888011	33	Other toe anomalies NOS	PF66z	9989000	Foot/Ankle
+320122015	33	Sprain, triceps tendon	S50A	209421003	Arm
+320184016	33	Sprain thumb, carpometacarpal joint	S5220	209469000	Hand
+320382014	33	Complete tear, ankle ligament	S5D0	209633004	Foot/Ankle
+372791019	33	Hip stiff	N0955-1	249914008	Hip/Pelvis
+377851000006114	33	Disorder of muscle	Nyu8	129565002	Other
+401537011	33	Rheumatism monitoring	66H-2	268524007	Other
+41141000006111	33	Osteitis	J064-1	44462005	Other
+451083015	33	Injury of tendon of the rotator cuff of shoulder	S5Q6	307731004	Shoulder
+558931000006114	33	Clicky hips - congenital	PE33-1	253949003	Hip/Pelvis
+59922014	33	Chronic arthritis	N06zB	35908007	Other
+629981000006113	33	Dropfoot	N36A-1	6077001	Foot/Ankle
+6766451000006118	33	CRPS - Complex regional pain syndrome type II	^ESCTCR676645	408751001	Multiple
+96651000006115	33	Torn Achilles tendon	S5504-2	429513001	Foot/Ankle
+131381000006111	32	Strain of infraspinatus tendon	S503	209414003	Shoulder
+221511000000115	32	Osteoarthritis of hip	N05z5-1	239872002	Hip/Pelvis
+310413013	32	Recurrent subluxation of shoulder - posterior	N083D	202213008	Shoulder
+310579016	32	Snapping shoulder	N0878	202337006	Shoulder
+312253017	32	Osteolysis	N33zD	203522001	Other
+312464017	32	Acquired chest or rib deformity NOS	N383z	449466007	Chest
+312702017	32	[X]Other disorders of bone development and growth	NyuC6	76069003	Other
+390421000006114	32	[X]Injuries to the abdomen, lower back, lumbar spine and pelvis	Syu3	441051000000105	Multiple
+405670016	32	Deformity of bone	N36y2	271084006	Other
+5511671000006115	32	Malignant neoplasm of soft tissue	^ESCTMA551167	269469005	Other
+58951000006119	32	Weakness of joint	N0960-1	67374007	Other
+88796014	32	Juvenile osteochondrosis of spine	N328	53406005	Back
+130701000006114	31	Sprain finger, metacarpophalangeal joint, non specific	S5231	209479003	Hand
+320373015	31	Complete tear, knee ligament	S5C	209625000	Knee
+323941017	31	Other trunk injuries	SK11	417163006	Trunk
+411282018	31	O/E - lumbar pain on palpation	25C-3	275316003	Back
+411302017	31	Ruptured Achilles tendon - traumatic	S5504-1	275335003	Foot/Ankle
+491821000006114	31	Arthralgia of distal interphalangeal joint of finger	N094J	202485006	Hand
+5852101000006115	31	Temporomandibular joint locking	^ESCTTE585210	298373009	Head
+623471000006115	31	Dislocation of joint of upper limb	S41-1	263017003	Shoulder
+1142861000000114	30	Rheumatology disorder annual review	66HB	698706005	Other
+159031000006110	30	Rupture of quadriceps tendon	S5U0	6849006	Leg
+159761000006115	30	Sprain of sacrococcygeal ligament	S5731	90631008	Back
+256102010	30	O/E - soft tissue crepitus	2HC4	164601001	Other
+310020013	30	Osteoarthritis NOS, of hip	N05zJ	239872002	Hip/Pelvis
+310944013	30	Arthropathy of ankle and/or foot	N096R	442246002	Foot/Ankle
+312100017	30	Other osteochondritis dissecans of the elbow	N3276	82562007	Elbow
+312313017	30	Acquired deformity of knee	N364z	5321004	Knee
+314441018	30	Congenital subluxation of hip NOS	PE31z	36172001	Hip/Pelvis
+315761019	30	[X]Other congenital deformities of feet	Pyu83	302297009	Foot/Ankle
+320118013	30	Sprain, shoulder joint, anterior	S5070	209417005	Shoulder
+372789010	30	Ankle stiff	N0957-1	249912007	Foot/Ankle
+400353018	30	Curvature of spine associated with other conditions	N374	77567004	Back
+451465017	30	Disorder of bone	N33zF	76069003	Other
+4816351000006119	30	Posterior calcaneal exostosis	^ESCTPO481635	202883008	Foot/Ankle
+491931000006119	30	Arthralgia of proximal interphalangeal joint of finger	N094H	202484005	Hand
+5461141000006111	30	Sprain of lateral ligament of ankle joint	^ESCTSP546114	263133002	Foot/Ankle
+5721831000006111	30	Pain in left lower limb	^ESCTPA572183	287047008	Leg
+753841000006117	30	Knee pathological dislocation	N0826-1	202190001	Knee
+892361000006112	30	Slipped femoral epiphysis-uppr	N322-99	26460006	Hip/Pelvis
+1715851000006113	29	Compartment syndrome	SK0y7	111245009	Other
+310287016	29	Joint derangement	N08	398993007	Other
+310949015	29	Joint finding	N096z	118952005	Other
+311446010	29	Extensor tenosynovitis of finger	N220E	202915008	Hand
+311719018	29	Fasciitis	N244	36948007	Other
+318012012	29	[X]Difficulty in walking, not elsewhere classified	Ryu31	228158008	Leg
+320151016	29	Sprain radial collateral ligament	S5204	209442001	Wrist
+320279018	29	Sprain, extensor tendon, foot	S5516	209544002	Foot/Ankle
+405678011	29	Deformity of metacarpal	N36y9	271090005	Hand
+405685010	29	Deformity of talus	N36yH	271097008	Foot/Ankle
+411893012	29	Arthritis monitoring	66H-1	275920008	Other
+41281000006113	29	Osteoarthritis NOS	N05z	396275006	Other
+569231000006119	29	Closed traumatic subluxation shoulder	S412	208774004	Shoulder
+7863251000006113	29	Injury of muscle at forearm level	^ESCTIN786325	724940003	Arm
+1231355011	28	Cubitus valgus - acquired	N3601	54583007	Elbow
+1231946018	28	Wrist drop - acquired	N3605	59349003	Wrist
+143197013	28	Bertolotti's syndrome	F32z-1	86345004	Back
+17705012	28	Bilateral congenital dislocation of hip	PE301	10155006	Hip/Pelvis
+216625013	28	Exacerbation of backache	16C8	135860001	Back
+310024016	28	Osteoarthritis NOS, of knee	N05zL	239873007	Knee
+310172017	28	Unspecified monoarthritis of the lower leg	N0666	699462004	Leg
+310198011	28	Disorder of joint of shoulder region	N06z1	444003007	Shoulder
+310419012	28	Recurrent subluxation of shoulder - multidirectional	N083K	202219007	Shoulder
+310585011	28	Derangement of shoulder	N08y1	13091000119107	Shoulder
+311386018	28	Policeman's heel	N2179-1	202882003	Foot/Ankle
+312032019	28	Ischiopubic synchondrosis	N3212	203368004	Hip/Pelvis
+312209010	28	Avascular bone necrosis NOS	N334z	397758007	Other
+319508016	28	Open dislocation of finger	S4410	54420005	Hand
+320142012	28	Other forearm sprain	S51x	262990008	Arm
+320311012	28	Sacral sprain, unspecified	S5730	209566009	Back
+3216461000006116	28	Sprain of ligament of ankle joint	^ESCTSP321646	44465007	Foot/Ankle
+325287019	28	Severe multiple injuries	SRz0	213389000	Multiple
+400303012	28	Other synovitis and tenosynovitis	N220z	202900007	Other
+501640011	28	Discoid meniscus - congenital	PE8yB	70690000	Knee
+505902017	28	Osteochondritis of the carpal lunate	N3233	367356000	Wrist
+511000006113	28	Interphalangeal joint of toe pain	N096V	299576008	Foot/Ankle
+569391000006114	28	Closed traumatic subluxation, sterno-clavicular joint, ant	S49E3	209214001	Shoulder
+764261000006111	28	Foot drop	N36z-2	6077001	Foot/Ankle
+82541000006118	28	Tuberculosis of vertebral column	N304-1	35984006	Back
+906561000006114	28	[RFC] Chronic back and neck problems	HNG0161	906561000006105	Back
+182671000006119	27	Recurrent joint dislocation, of the lower leg	N0836	202245003	Leg
+256079016	27	O/E - foot bone abnormal	2HAA	164583009	Foot/Ankle
+26185013	27	Acquired postural lordosis	N3720	15444000	Back
+3060271000006116	27	Coccydynia	^ESCTCO306027	34789001	Back
+311326016	27	Partial thickness rotator cuff tear	N2114	202842005	Shoulder
+312445011	27	Scoliosis in skeletal dysplasia	N374A	203661003	Back
+312453015	27	Other curvatures of spine	N37y	77567004	Back
+312521010	27	Psoriasis with arthropathy	Nyu13	33339001	Other
+359168010	27	Ankle arthritis NOS	N06z7-1	239874001	Foot/Ankle
+390401000006116	27	[X]Injuries involving multiple body regions	SyuA	213345000	Multiple
+391114012	27	Hand dislocation NOS	S49x-3	108367008	Hand
+405684014	27	Deformity of calcaneum	N36yG	271096004	Foot/Ankle
+495040011	27	Pyogenic arthritis	N010	372939007	Other
+510491000006113	27	Biceps tendon rupture	N2262	428883008	Arm
+558721000006114	27	Clicking 1st metatarsophalangeal joint	N099J	202615006	Foot/Ankle
+814701000006117	27	Haglund's disease - osteochondrosis of os tibiale externum	N3255	203392007	Foot/Ankle
+111690011	26	Reiter's syndrome	A993-1	67224007	Other
+131581000006115	26	Sprain, tarsometatarsal joint	S5511	209539009	Foot/Ankle
+2275711000000112	26	Rheumatoid arthritis monitoring invitation second letter	9mM1	882421000000102	Other
+256075010	26	O/E - hand bone abnormal	2HA6	164579009	Hand
+310328014	26	Loose body in elbow joint	N081B	202158006	Elbow
+311378018	26	Enthesopathy of lower leg and ankle region	N2170	302937000	Foot/Ankle
+312470011	26	Acquired deformity of spine	N385	77567004	Back
+320375010	26	Complete tear, knee, medial collateral ligament	S5C1	209627008	Knee
+359579010	26	Ischial bursitis	N215A	239993003	Hip/Pelvis
+372801019	26	Locking of joint	ESCTLO5	249923006	Other
+396501000006117	26	[X]Malignant neoplasm/connective + soft tissue,unspecified	Byu59	269469005	Other
+400232013	26	Joint effusion of the lower leg	N0906	267942009	Leg
+40471000006116	26	Osteochondropathy	N32z	77881008	Other
+455431014	26	Prolapsed lumbar intervertebral disc with sciatica	N12C4	311804006	Back
+497071000006114	26	Atlantoaxial instability	N1488	202820009	Neck
+5721851000006116	26	Pain in right lower limb	^ESCTPA572185	287048003	Leg
+657981000006117	26	Extensor pollicis longus rupture	N2269	209767002	Hand
+99020011	26	Protrusio acetabuli	N0860-1	59606006	Hip/Pelvis
+131011000006118	25	Sprain thumb, interphalangeal joint, ulnar collateral ligament	S5226	209476005	Hand
+140651000006116	25	Shoulder girdle aches	EMISHGT67	140651000006100	Shoulder
+252313017	25	Back pain worse on sneezing	16C4	161893008	Back
+309570016	25	Reactive arthropathy of hip	N01w9	201567003	Hip/Pelvis
+310205010	25	Arthropathy of joint of hand	N06z4	428360003	Hand
+312181015	25	Localised bone cyst, unspecified	N3320	203465002	Other
+3216441000006115	25	Sprain of ankle joint	^ESCTSP321644	44465007	Foot/Ankle
+359171019	25	Arthritis of wrist	N06z3-1	1771000119109	Wrist
+3788301000006115	25	Bifid patella	^ESCTBI378830	79214007	Knee
+400287014	25	Disorders of the sacrum NOS	N146z	12820001	Back
+409341000006112	25	[X]Other disorders of muscle in diseases CE	Nyu8A	75047002	Other
+543561000006117	25	Degeneration of cervical intervertebral disc	N125	69195002	Neck
+570891000006117	25	Closed traumatic dislocation shoulder joint, anterior (sub-coracoid)	S4101	269106006	Shoulder
+801311000006115	25	Acquired genu recurvatum	N365	46101007	Knee
+841591000006113	25	Hip clicks	EGTONHI3	841591000006109	Hip/Pelvis
+98163016	25	Congenital dislocation of knee	PE41	59068006	Knee
+13784591000006110	24	Arthrogryposis multiplex congenita	^ESCT1378459	111246005	Multiple
+1779395011	24	Nodular fasciitis	N2372	400138001	Other
+219661000000114	24	Bursitis - shoulder	N210-1	239961006	Shoulder
+240351000006110	24	Pathological dislocation of proximal interphalangeal joint	N082L	202186003	Hand
+256011012	24	O/E - locked joint	2H2E	164522002	Other
+288979019	24	Malignant neoplasm of connective and soft tissue of foot	B3124	188004006	Foot/Ankle
+291618010	24	[M]Soft tissue tumours and sarcomas NOS	BBF	115224008	Other
+311044019	24	Other inflammatory spondylopathies NOS	N10yz	202649003	Back
+311414010	24	Peripheral enthesopathy	N21zz	111239001	Other
+311523011	24	Subluxation of tendon, wrist or hand	N226J	202975001	Hand/Wrist
+320532017	24	Rupture of tendon of finger	S5Tz	209770003	Hand
+323940016	24	Other face and neck injuries NOS	SK10z	417163006	Neck
+359561011	24	Tenosynovitis of hand	N2205-1	423778009	Hand
+380093012	24	Sarcoma of bone and connective tissue	B3-2	255067005	Other
+3912841000006115	24	Acquired pes cavus	^ESCTAC391284	86900005	Foot/Ankle
+405676010	24	Deformity of ulna	N36y7	271088009	Arm
+453481000006115	24	Acquired deformity of joint of lower limb	N3670	240240002	Foot/Ankle
+502473014	24	Slipped intervertebral disc	N12-2	73589001	Back
+558791000006111	24	Clicking interphalangeal joint of toe	N099L	202617003	Foot/Ankle
+890671000006110	24	Ankle/foot joint pain	N0947-99	267954009	Foot/Ankle
+92062017	24	Congenital pseudarthrosis of tibia	PF6y6	55379003	Leg
+11902311000006117	23	Sacroiliac joint pain	^ESCT1190231	202487003	Hip/Pelvis
+155331000006111	23	Schmorl's nodes of lumbar region	N1242	29574001	Back
+163471000006113	23	Rigid flat foot	N3401	203532008	Foot/Ankle
+309816012	23	Flare of rheumatoid arthritis	N040T	201791009	Other
+310245018	23	Cyst of lateral meniscus	N071A	202098006	Knee
+310892014	23	Stiff knee NEC	N095M	249913002	Knee
+311746011	23	Other musculoskeletal limb symptoms	N247	302293008	Other
+312335013	23	Acquired forefoot adductus	N367N	203589007	Foot/Ankle
+312561011	23	[X]Other deformities of toe(s) (acquired)	Nyu32	42251007	Foot/Ankle
+372668014	23	Pes varus	PE50-1	249809005	Foot/Ankle
+400267013	23	Cervical spondylosis without myelopathy	N110	267970006	Neck
+461573010	23	[Q] Central disc prolapse	Zw040	73589001	Other
+491000006119	23	Finger joint painful on movement	N096J	299061005	Hand
+512110018	23	Tendon sheath giant cell tumor	N2202	95412009	Other
+568571000006113	23	Closed traumatic dislocation patello-femoral joint, medial	S4631	208931007	Knee
+569191000006112	23	Closed traumatic subluxation patello-femoral joint, lateral	S4670	208954003	Knee
+891941000006115	23	F.B. left in ankle/foot	N246-91	6058003	Foot/Ankle
+892351000006110	23	Juvenile osteochond-hip/pelvis	N321-99	268022000	Hip/Pelvis
+896211000006118	23	Sprained elbow	S51-99	269134004	Elbow
+131284014	22	Congenital elevation of scapula	PF52	79120002	Shoulder
+155341000006118	22	Schmorl's nodes of thoracic region	N1241	86804002	Back
+161571000006113	22	SAPHO syndrome	N25	60684003	Other
+255922017	22	O/E - ulnar deviation	2G25-1	164454008	Arm
+310573015	22	Triangular fibrocartilage tear	N0874	202333005	Shoulder
+311312013	22	Peripheral enthesopathies and allied syndromes	N21	202836006	Other
+311481012	22	Cyst of bursa	N2244	202941002	Other
+314450016	22	Congenital dislocation of hip NOS	PE3z	48334007	Hip/Pelvis
+320235016	22	Other thigh sprain	S53x	17883008	Leg
+320343012	22	Complete tear ulnar collateral ligament	S5A0C	209597008	Wrist
+320548016	22	Jaw sprain NOS	S5y1z	23415000	Head
+390731000006118	22	[X]Injury of other muscles & tendons at ankle & foot level	Syu9B	212475003	Foot/Ankle
+400282015	22	Spinal stenosis, excluding cervical region	N140	267980005	Back
+400343019	22	Other and unspecified bone or cartilage disorders	N33z	240134003	Other
+576481000006115	22	Complete tear of scapholunate ligament	S5A0G	209602001	Wrist
+7298861000006114	22	Avascular necrosis of bone of hip	^ESCTAV729886	444849002	Hip/Pelvis
+885611000006111	22	Temporomandibular joint dis.	J046-99	41888000	Head
+891011000006115	22	Coccygeal disorder NOS	N147z-99	622741000000103	Back
+101011000006114	21	Thumb trigger	N2204-3	42786005	Hand
+106931000006114	21	Thoracolumbar ankylosis	N1485	202817001	Back
+1230246016	21	Closed traumatic dislocation carpometacarpal joint	S4304	45634004	Hand
+137233019	21	Progressive myositis ossificans	N2311	82725007	Other
+1490679012	21	Conjoined toes	PF14-2	38859008	Foot/Ankle
+158631000006112	21	Rupture biceps tendon	S5Q4	428883008	Arm
+182981000006112	21	Recurrent subluxation of metacarpophalangeal joint	N083h	202241007	Hand
+240071000006115	21	Patellofemoral osteoarthritis	N0536-1	450521003	Knee
+310821011	21	Elbow joint pain	N094D-1	202480001	Elbow
+311064012	21	Cervical myelopathy	N1113	202664003	Neck
+311444013	21	Flexor tenosynovitis of thumb	N220C	202913001	Hand
+311449015	21	Tibialis anterior tenosynovitis	N220J	202918005	Leg
+312079019	21	Juvenile osteochondrosis of the foot	N325	203392007	Foot/Ankle
+312104014	21	Osteochondritis dissecans of other site	N327y	82562007	Other
+312456011	21	Curvature of spine NOS	N37zz	64217002	Back
+319368019	21	Closed subluxation jaw	S402	208749002	Head
+319376017	21	Closed traumatic dislocation shoulder joint, unspecified	S4100	208754006	Shoulder
+319684013	21	Dislocation of foot NOS	S48z	208986008	Foot/Ankle
+325434016	21	[X]Other specified injuries of wrist and hand	Syu6L	127278005	Hand/Wrist
+402886019	21	Closed traumatic dislocation of wrist, unspecified	S4300	38556006	Wrist
+411299017	21	Dislocation of fibula, distal end	S47-1	275332000	Leg
+471000006115	21	Finding of joint of toe	N096T	299576008	Foot/Ankle
+512112014	21	Villonodular synovitis	N092	95412009	Other
+568501000006119	21	Closed traumatic dislocation of shoulder NOS	S410z	208754006	Shoulder
+568641000006116	21	Closed traumatic dislocation sterno-clavicular joint	S4962	209117003	Shoulder
+729431000006111	21	Malig neop of connective and soft tissue of pelvis NOS	B315z	363366009	Hip/Pelvis
+891421000006115	21	Tendon rupture - knee	N226-95	268002004	Knee
+106481000006117	20	Degeneration of thoracic intervertebral disc	N126	68675004	Back
+2364511000000117	20	Shoulder joint painful on external rotation	1M03	921261000000101	Shoulder
+2549731014	20	Undifferentiated inflammatory arthritis	ESCTUN6	417180005	Other
+256103017	20	O/E - soft tissue abn. NOS	2HCZ	268993003	Other
+265861000006116	20	Oligoarticular osteoarthritis, unspecified, multiple sites	N0549	268054009	Multiple
+310173010	20	Unspecified monoarthritis of the ankle and foot	N0667	699462004	Foot/Ankle
+310762012	20	Pigmented villonodular synovitis of knee joint	N092M	445266000	Knee
+312564015	20	[X]Other derangements of patella	Nyu35	239718003	Knee
+317325010	20	[D]Head and neck symptoms NOS	R04zz	267106000	Neck
+320212019	20	Sprain wrist flexors	S5241	209495003	Wrist
+320284012	20	Sprain, lumbosacral ligament	S560	209548004	Back
+3609071000006114	20	Disorder of tendon	^ESCTDI360907	68172002	Other
+391133019	20	Posterior dislocation of shoulder	S4102-1	263022003	Shoulder
+405675014	20	Deformity of radius	N36y6	271087004	Arm
+444889012	20	Keratoconjunctivitis sicca	N002-1	302896008	Other
+463301000006112	20	Adult-onset Still's disease	N04y2	239920006	Other
+4809281000006113	20	Systemic onset juvenile chronic arthritis	^ESCTSY480928	201796004	Other
+5460271000006115	20	Subluxation of shoulder joint	^ESCTSU546027	263051004	Shoulder
+757071000006113	20	Joint degeneration	N05z-1	396275006	Other
+891131000006110	20	Synovitis/tenosynovitis	N220-99	202900007	Other
+892711000006110	20	Musculoskeletal problems NOS	N3z-98	660111000000108	Multiple
+108781000006112	19	Ankylosis of temporomandibular joint	J0460	50603008	Head
+117414019	19	Congenital discoid meniscus	N072-1	70690000	Knee
+130691000006114	19	Sprain finger, distal interphalangeal joint, non specific	S5237	209485005	Hand
+158050019	19	Polymyalgia	N20-1	65323003	Multiple
+271751000006118	19	O/E lateral joint line tenderness	EMISHGT73	271751000006102	Other
+310174016	19	Unspecified monoarthritis of other specified site	N0668	699462004	Other
+310971013	19	Synovial osteochondromatosis of knee	N098B	202586009	Knee
+312299015	19	Rotational deformity of finger	N3626	203557003	Hand
+312320012	19	Acquired talipes NEC	N3677	240244006	Foot/Ankle
+312656019	19	[X]Other soft tissue disorders	NyuA	19660004	Other
+314511018	19	Congenital claw foot	PE73	205092004	Foot/Ankle
+319622014	19	Injury to multiple structures of knee	S46C	208977003	Knee
+320562011	19	Sternum sprain unspecified	S5y40	54942004	Back
+324001015	19	Injury of muscle and tendon at forearm level	SK1C	212458009	Arm
+325512015	19	Muscle and tendon injury	SyuBF	312847008	Other
+35274016	19	Progressive infantile idiopathic scoliosis	N3733	20980008	Back
+3649971000006118	19	Sprain of wrist joint	^ESCTSP364997	70704007	Wrist
+453771000006113	19	Acquired deformities of hip	N363	67321002	Hip/Pelvis
+493220011	19	Congenital clubfoot - varus	PE50-2	42162004	Foot/Ankle
+507073012	19	Acquired cavus deformity of foot	N3674	86900005	Foot/Ankle
+5276711000006112	19	Abduction deformity of the foot	^ESCTAB527671	249803006	Foot/Ankle
+5460051000006116	19	Dislocated patella	^ESCTDI546005	263029007	Knee
+551000006114	19	Finding of sacroiliac joint	N096L	418492000	Hip/Pelvis
+65074016	19	Pelvic obliquity	N386-1	38641008	Hip/Pelvis
+68050018	19	Subacromial bursitis	N211z-2	40799003	Shoulder
+891101000006119	19	Bursitis - knee	N2160-99	544491000000101	Knee
+892621000006110	19	Hammer toe - acquired	N354-99	679901000000106	Foot/Ankle
+895951000006115	19	Dislocated elbow	S42-99	208782004	Elbow
+896221000006114	19	Sprain - hand	S52-98	209436000	Hand
+91494016	19	Muscle contracture	N238	55033002	Other
+130931000006116	18	Sprain of scapholunate ligament	S520K	209457008	Wrist
+255921012	18	O/E - arachnodactyly	2G24-1	164453002	Hand
+264501000006118	18	Oligoarticular osteoarthritis, unspecified, other spec sites	N0548	396275006	Other
+309979014	18	Oligoarticular osteoarthritis, unspecified, of lower leg	N0546	396275006	Leg
+310222012	18	Medial meniscus derangement, unspecified	N0700	111222003	Knee
+311182013	18	Thoracic discitis	N12z8	202748002	Back
+311392012	18	Ankle or tarsus enthesopathy NOS	N217z	302937000	Foot/Ankle
+312302015	18	Acquired internal femoral torsion	N3633	203560005	Hip/Pelvis
+312321011	18	Acquired varus heel	N3678	203575002	Foot/Ankle
+314951014	18	Arthrogryposis, unspecified	PFy2	111246005	Other
+317434016	18	[D]Parasternal chest pain	R0659	161974007	Chest
+319415014	18	Closed traumatic dislocation of elbow, unspecified	S4200	2651006	Elbow
+319454010	18	Closed traumatic dislocation proximal metacarpal	S4305	208818001	Hand
+320150015	18	Distal radioulnar joint sprain	S5203	209441008	Wrist
+320278014	18	Sprain, flexor tendon, foot	S5515	209543008	Foot/Ankle
+320320015	18	Complete tear, shoulder joint	S58	209575006	Shoulder
+320546017	18	Jaw sprain, unspecified	S5y10	23415000	Head
+323948011	18	Other flank injuries	SK116	417163006	Trunk
+400258013	18	Stiff joint NEC, of the ankle and foot	N0957	84445001	Foot/Ankle
+400277010	18	Cervical radiculitis	N134-2	11049006	Neck
+5142461000006116	18	Baker's cyst of knee	^ESCTBA514246	240008008	Knee
+757001000006119	18	Joint contracture of hand	N0844	86414002	Hand
+777711000006115	18	Inj of unspecified muscle & tendon at wrist & hand level	SK1CW	127278005	Hand/Wrist
+823951000006111	18	Hip osteoarthitis NOS	N0535-2	239872002	Hip/Pelvis
+135491019	17	Cervicalgia	N131-99	81680005	Neck
+13905331000006112	17	Repetitive motion disorder	^ESCT1390533	788465007	Other
+1666701000000114	17	Osteitis of symphysis pubis	N33zL	445473008	Hip/Pelvis
+1786831018	17	Rupture supraspinatus tendon	S5Q2	399346004	Shoulder
+221591000000112	17	Semimembranosus bursitis	N2160-1	240004005	Knee
+256017011	17	O/E -joint synovial thickening	2H33	164527008	Other
+310159018	17	Generalised arthritis	N065A	202031002	Multiple
+310954012	17	Walking difficulty due to lower leg	N0972	202569003	Leg
+310963014	17	Synovial osteochondromatosis of elbow	N0983	202578009	Elbow
+311164010	17	Cervical disc prolapse with radiculopathy	N12C0	202733008	Neck
+311303011	17	Other specified disorders of vertebral column	N1y	410730009	Back
+311354011	17	Tendonitis adductor	N21z2-5	202863007	Leg
+314532014	17	Congenital flexion contracture of knee	PE8y8	205110009	Knee
+319584017	17	Closed traumatic dislocation knee joint, lateral	S4654	208940006	Knee
+319630010	17	Closed traumatic dislocation ankle joint	S470	208981003	Foot/Ankle
+320138014	17	Sprain, elbow joint, ulnar collateral ligament	S511-1	209429001	Elbow
+320252017	17	Other specified leg sprain	S54x	262994004	Leg
+320544019	17	Other and ill-defined sprains and strains	S5y	209409002	Other
+390611000006116	17	[X]Injury of other & unspecif musc & tendons at thigh level	Syu77	212467009	Leg
+405687019	17	Deformity of metatarsal	N36yK	271099006	Foot/Ankle
+407171000006113	17	[X]Other bursa disorder	NyuA7-1	10597006	Other
+427141000006110	17	[X]Somatoform pain disorder	Eu454-4	30077003	Other
+4821541000006110	17	Overlapping toe	^ESCTOV482154	203541003	Foot/Ankle
+592151000006113	17	Contracture of muscle	N23yC	55033002	Other
+623891000006117	17	Disorder of cartilage, unspecified	N33zG	50927007	Other
+78977014	17	Tarsal tunnel syndrome	F355	47374004	Foot/Ankle
+8262081000006117	17	Injury of tendon of shoulder joint	^ESCTIN826208	813331000000101	Shoulder
+891971000006111	17	F.B. left in hand	N246-94	6058003	Hand
+109341000006111	16	Tenosynovitis of fingers	N2205-3	240036003	Hand
+11902301000006115	16	Proximal interphalangeal joint of finger pain	^ESCT1190230	202484005	Hand
+130661000006118	16	Sprain finger, proximal interphalangeal joint, radial collateral ligament	S5235	209483003	Hand
+135401010	16	Dislocation of mandible	S40-1	302964004	Head
+310302011	16	Articular cartilage disorder	N080z	53417006	Other
+310415018	16	Recurrent subluxation of shoulder - inferior	N083F	202215001	Shoulder
+310643017	16	Effusion of ankle	N090P	202383000	Foot/Ankle
+310884017	16	Stiff elbow NEC	N095D	249917001	Elbow
+312267014	16	Peroneal spastic flat foot	N3402	203533003	Foot/Ankle
+312513016	16	[X]Other reactive arthropathies	Nyu03	239783001	Other
+314865010	16	Congenital deformity of hip joint	PF63	2749000	Hip/Pelvis
+319569014	16	Acute meniscal tear, lateral, radial	S4613	208925009	Knee
+320263019	16	Distal tibiofibular sprain	S5503	209533005	Foot/Ankle
+320268011	16	Partial tear, ankle, medial ligament	S5505	209535003	Foot/Ankle
+320387015	16	Complete tear, ankle, lateral ligament	S5D01	209635006	Foot/Ankle
+320579017	16	Other and ill-defined sprains and strains NOS	S5yz	209409002	Other
+323954012	16	Other axilla injuries	SK120	48125009	Shoulder
+359326018	16	Synovitis of elbow	N220W	239816008	Elbow
+359825012	16	Osteochondrodysplasia	PG5z-1	240190009	Other
+390961000006113	16	[X]Injury of unspecified muscle & tendon of ankle and foot	Syu9C	212475003	Foot/Ankle
+391074017	16	Tendon strain	ESCTTE4	262972007	Other
+400260010	16	Other joint symptoms of unspecified site	N0960	57676002	Other
+400265017	16	Vertebral column syndromes	N1	267968002	Back
+411298013	16	Dislocation of tibia, distal end	S47-3	275331007	Leg
+4820611000006117	16	Iselin's disease	^ESCTIS482061	203395009	Foot/Ankle
+505951000006118	16	Benign neoplasm of connective and soft tissue shoulder NEC	B7510	92398001	Shoulder
+5459801000006112	16	Dislocation of sternoclavicular joint	^ESCTDI545980	263009006	Shoulder
+576661000006110	16	Complete tear, acromioclavicular ligament	S580	209576007	Shoulder
+581851000006112	16	Congenital dislocation of hip NOS	PE30z	48334007	Hip/Pelvis
+5859711000006112	16	Shoulder joint instability	^ESCTSH585971	298854003	Shoulder
+646111000006110	16	Enthesopathy of hip region	N215	30936004	Hip/Pelvis
+761911000006119	16	Flexor digitorum profundus tendon rupture	N226D	209772006	Hand
+8261961000006116	16	Injury of tendon of elbow joint	^ESCTIN826196	813101000000105	Elbow
+895971000006113	16	Dislocated thumb	S44-98	269111008	Hand
+112059012	15	Contracture of tendon sheath	N22y0	67425005	Other
+114691000006114	15	Talipes planus - acquired	N341	203534009	Foot/Ankle
+130551000006116	15	Sprain & strain of oth & unsp parts of lumb spine & pelv	S57X	309710005	Back
+131451000006110	15	Sprain, mid tarsal joint	S5514	209542003	Foot/Ankle
+162381000006114	15	Rheumatol.dis. monitoring NOS	66HZ	268524007	Other
+1785082014	15	Rheumatic pain	N2403	279069000	Other
+2478844015	15	Lateral meniscus, posterior horn derangement	N0713	77860008	Knee
+256072013	15	O/E - shoulder bone abnormal	2HA3	164576002	Shoulder
+310233010	15	Derangement of medial meniscus	N070z	111222003	Knee
+310421019	15	Habitual dislocation of the shoulder	N083L	202220001	Shoulder
+310424010	15	Recurrent dislocation of elbow	N083N	202222009	Elbow
+310485014	15	Contracture of multiple joints	N0849	202264009	Multiple
+311045018	15	Spondylitis	N10z	84172003	Back
+311163016	15	Disc prolapse with radiculopathy	N12C	202732003	Back
+311454012	15	Peroneus brevis tenosynovitis	N220P	202923005	Foot/Ankle
+311610013	15	Other specific muscle disorder	N233	75047002	Other
+311688013	15	Rheumatism	N2400	396332003	Other
+311692018	15	Fibrositis of neck	N2405	203104007	Neck
+312193012	15	Avascular necrosis of bone, site unspecified	N3340	397758007	Other
+319417018	15	Closed traumatic dislocation elbow joint, posterior	S4202	208786001	Elbow
+319516013	15	Closed traumatic subluxation digit	S442	208876006	Hand
+320119017	15	Sprain, shoulder joint, posterior	S5071	209418000	Shoulder
+359546010	15	Bursitis of shoulder	N2118	239961006	Shoulder
+390741000006111	15	[X]Injury of other muscles & tendons at wrist & hand level	Syu6D	127278005	Hand/Wrist
+391112011	15	Arm dislocation NOS	S49x-1	263017003	Arm
+558851000006111	15	Clicking proximal interphalangeal joint of finger	N0997	202604001	Hand
+823841000006116	15	Hip girdle aches	EMISHGT68	823841000006100	Hip/Pelvis
+898351000006112	15	Bruise - wrist/hand	SE32-99	211506004	Hand/Wrist
+1210251018	14	Congenital dislocation of elbow	PE8y2	371629001	Elbow
+1220506018	14	Coxa vara - acquired	N3632	12067001	Hip/Pelvis
+131421000006118	14	Strain of long head of biceps	S509	209420002	Arm
+147834015	14	Progressive systemic sclerosis	N0010	444133002	Other
+1494989015	14	Lumbosacral sprain	S560-99	209548004	Back
+215551000000114	14	Sero negative polyarthritis	N04y1-1	399112009	Multiple
+308730016	14	Psoriatic arthropathy NOS	M160z	33339001	Other
+309574013	14	Reactive arthropathy of ankle	N01wD	201571000	Foot/Ankle
+310227018	14	Radial tear of medial meniscus	N0706	202080007	Knee
+310242015	14	Radial tear of lateral meniscus	N0717	202095009	Knee
+310373019	14	Pathological dislocation of knee joint	N082Q	202190001	Knee
+310496018	14	Flexion contracture - wrist	N084L	202275008	Wrist
+310815012	14	Arthralgia of other specified site	N0948	57676002	Other
+310881013	14	Stiff shoulder NEC	N095A	249918006	Shoulder
+310985015	14	Clicking acromioclavicular joint	N0992	202599007	Shoulder
+311192017	14	Intervertebral disc disorder	N12zz	36427004	Back
+312673017	14	Enthesopathy of foot region	NyuAD	240028007	Foot/Ankle
+312715014	14	Cartilage disorder	NyuD	50927007	Other
+312721013	14	Disorder of cartilage	NyuDE	50927007	Other
+314862013	14	Upper limb or shoulder anomaly NOS	PF5z	66510004	Shoulder
+319825013	14	Closed subluxation cervical spine	S498	209134006	Neck
+320244015	14	Partial tear, knee, lateral collateral ligament	S5401	209517007	Knee
+359624014	14	Postcalcaneal bursitis	N223-1	240033006	Foot/Ankle
+4378731000006118	14	Hip injury	^ESCTHI437873	125600009	Hip/Pelvis
+451500011	14	Disorder of synovium	N22yz-1	3519007	Other
+451903015	14	Other synovial, tendon or bursa disorder NOS	N22yz	399269003	Other
+4816371000006112	14	Haglund's deformity	^ESCTHA481637	202883008	Foot/Ankle
+5460341000006116	14	Subluxation of knee joint	^ESCTSU546034	263058005	Knee
+575301000006114	14	Compartment syndrome, thigh	SK0y4	212384002	Leg
+775171000006118	14	Injury of unspecified muscle & tendon of ankle and foot	SK1FX	212475003	Foot/Ankle
+815501000006110	14	Arthritis of hand	N06z4-1	448589005	Hand
+8262071000006115	14	Injury of tendon of toe	^ESCTIN826207	813321000000103	Foot/Ankle
+891041000006116	14	Tennis elbow - epicondylitis	N2132-99	202855006	Elbow
+895981000006111	14	Dislocated finger	S44-99	269111008	Hand
+131001000006116	13	Sprain thumb, interphalangeal joint, radial collateral ligament	S5225	209474008	Hand
+1831121000006116	13	Ankle anterior drawer test positive	JHCAN23	1831121000006100	Foot/Ankle
+2226881000000118	13	Posterior tibial tendon insufficiency	N227	861061000000106	Leg
+2275751000000111	13	Rheumatoid arthritis monitoring invitation third letter	9mM2	882441000000109	Other
+248721000006117	13	Pain on stressing lateral collateral ligament	EMISHGT79	248721000006101	Knee
+256034015	13	O/E - fixed joint deformity	2H52	164544007	Other
+310943019	13	Finding of subtalar joint	N096Q	299526006	Foot/Ankle
+311524017	13	Dislocation of tendon, wrist or hand	N226K	202976000	Hand/Wrist
+311663017	13	Other muscle, ligament and fascia disorder	N23y	268006001	Other
+312087018	13	Juvenile osteochondrosis of the foot NOS	N325z	203392007	Foot/Ankle
+312112018	13	Osteochondropathy NOS	N32zz	77881008	Other
+312447015	13	Scoliosis in neurofibromatosis	N374C	203663000	Back
+312657011	13	Bursitis of elbow	NyuA0	712484007	Elbow
+314759016	13	Upper limb anomaly, unspecified	PF50	66510004	Arm
+319621019	13	Tear of articular cartilage of knee, current	S46B	208976007	Knee
+320136013	13	Sprain, elbow joint, lateral collateral ligament	S510	209428009	Elbow
+320289019	13	Sprain, iliolumbar ligament	S564	209553009	Back
+320514017	13	Rupture tendon forearm or wrist	S5R	209761001	Arm
+320530013	13	Rupture extensor digitorum tendon	S5T2	209774007	Hand
+320558017	13	Chondrocostal joint sprain	S5y31	209801006	Chest
+400257015	13	Stiff joint NEC, of the lower leg	N0956	84445001	Leg
+400886010	13	Congenital spine deformity NOS	PE2z	74877002	Back
+4821551000006112	13	Overriding toe	^ESCTOV482155	203541003	Foot/Ankle
+52463013	13	Polymyositis	N004	31384009	Other
+56659013	13	Lyme arthritis	N010A-1	33937009	Other
+568161000006110	13	Closed traumatic dislocation distal radio-ulnar joint	S4301	57467003	Wrist
+568911000006114	13	Closed traumatic subluxation costo-chondral joint	S49E7	209218003	Chest
+576541000006110	13	Complete tear, thumb, metacarpophalangeal joint, ulnar collateral ligament	S5A11	209608002	Hand
+891551000006113	13	Laxity of ligaments	N234-99	27911000	Other
+892391000006116	13	Osteochond dissecans	N327-99	82562007	Other
+896311000006110	13	Sprain - medial knee ligament	S541-99	81902001	Knee
+104925016	12	Hajdu-Cheney syndrome	N33zK	63122002	Other
+120088018	12	Relapsing polychondritis	N33z5	72275000	Multiple
+1481872012	12	Thoracic spondylosis	N112-1	387802007	Back
+1494889019	12	Tuberculosis of bones and joints	A15	17653001	Other
+23251014	12	Congenital cleft hand	PF58	13624003	Hand
+256022011	12	O/E - abnormal joint movement	2H42	164532009	Other
+256036018	12	O/E - joint unstable	2H54	164546009	Other
+309433011	12	Collagen disease	N00z	81573002	Other
+310239014	12	Lateral meniscus derangement NOS	N0714	21333004	Knee
+310435017	12	Carpal instability	N083X	202231009	Wrist
+310492016	12	Flexion contracture - elbow	N084G	202271004	Elbow
+310654010	12	Effusion of joint	N090z	387637008	Other
+310903012	12	Joint stiffness NEC, NOS	N095z	84445001	Other
+311162014	12	Lumbar disc prolapse with myelopathy	N12B2	202731005	Back
+311278016	12	Hypermobility of the coccyx	N1471	202809009	Back
+311696015	12	Myalgia and myositis unspecified	N241	203108005	Other
+311708016	12	Radiculitis	N2422	82473003	Other
+312287010	12	Other acquired limb deformity	N36	240226003	Other
+312430016	12	Scoliosis secondary to other treatment	N3739	64217002	Back
+312466015	12	Dysplastic spondylolisthesis	N3840	203682009	Other
+312496013	12	Segmental and somatic dysfunction	N3y00	203708004	Other
+312637012	12	Muscle atrophy	Nyu84	88092000	Other
+312649013	12	Tendon contracture	Nyu93	274141009	Other
+312679018	12	Enthesopathy of lower limb	NyuAJ	312836001	Leg
+314781014	12	Cleft hand with syndactyly	PF582	205266000	Hand
+319405015	12	Closed traumatic subluxation shoulder joint	S4120	208774004	Shoulder
+319559015	12	Acute meniscal tear, medial, anterior horn	S4600	208915004	Knee
+319603017	12	Closed traumatic subluxation knee joint	S469	208959008	Knee
+320310013	12	Sacrum sprain	S573	209566009	Back
+320527018	12	Rupture flexor digitorum profundus tendon	S5T1	209772006	Hand
+320537011	12	Rupture of tendon of lower limb	S5V	281549008	Leg
+320576012	12	Sprain of pelvis NOS	S5y5z	209810003	Hip/Pelvis
+3390741000006115	12	Sprain of ligament of knee joint	^ESCTSP339074	54888009	Knee
+359328017	12	Shoulder synovitis	N220z-1	239818009	Shoulder
+391101011	12	Back sprain excluding lumbosacral	S57-1	262995003	Back
+400271011	12	Spondylosis NOS	N11zz	8847002	Back
+4395921000006119	12	Injury of upper limb	^ESCTIN439592	127278005	Arm
+46489018	12	Congenital deformity of ankle joint	PF6y1	27774009	Foot/Ankle
+4812801000006114	12	Detachment of the glenoid labrum and/or capsule of the shoulder joint	^ESCTDE481280	202329003	Shoulder
+4852291000006110	12	Rupture of ankle ligament	^ESCTRU485229	209633004	Foot/Ankle
+51101000006111	12	Open traumatic dislocation of patello-femoral joint	S464	208932000	Knee
+757321000006110	12	Joint effusion of ankle AND/OR foot	N0907	4819006	Foot/Ankle
+80324016	12	Lumbosacral spondylosis without myelopathy	N114	48210000	Back
+890081000006116	12	Torn medial meniscus	N072-99	637181000000107	Knee
+893411000006112	12	Spine anomaly - congenital	PG1-99	74877002	Back
+895991000006114	12	Dislocated finger NOS	S44z-99	590671000000100	Hand
+896481000006112	12	Sprained ribs	S5y3-99	209799008	Chest
+106668015	11	Subpatellar bursitis	N2167	64166009	Knee
+1491483014	11	Costen's syndrome	J0461	386207004	Chest
+1778711014	11	Supraspinatus syndrome	N2110-1	202841003	Shoulder
+189541000006115	11	Recurrent dislocation of hip	N083l	429190007	Hip/Pelvis
+217231000006115	11	Post-operative heterotopic calcification	N2313	80116000	Other
+2764811000006113	11	Garrod's pads	^ESCTGA276481	16687001	Hand
+299380018	11	Myopathy	Fyu82	129565002	Other
+310175015	11	Unspecified monoarthritis NOS	N066z	699462004	Other
+310423016	11	Elbow - recurrent dislocation	N0832-1	202222009	Elbow
+310429017	11	Recurrent subluxation of radial head	N083T	202227003	Arm
+310462013	11	Recurrent subluxation of the ankle	N083t	202251008	Foot/Ankle
+310506010	11	Abduction contracture of hip	N084W	202285009	Hip/Pelvis
+310846011	11	Arthralgia of talonavicular joint	N094R	202493006	Foot/Ankle
+310895011	11	Stiff ankle NEC	N095P	249912007	Foot/Ankle
+311025014	11	Joint disorder NOS, of shoulder region	N09z1	444003007	Shoulder
+312199011	11	Avascular necrosis of the talus	N3344	203478002	Foot/Ankle
+312327010	11	Flexion contracture of toe joint	N367E	203581005	Foot/Ankle
+312663019	11	[X]Other bursitis, not elsewhere classified	NyuA6	84017003	Other
+315020010	11	Congenital anomalies of cervical vertebrae NEC	PG1u	74877002	Neck
+315759011	11	[X]Other congenital varus deformities of feet	Pyu81	42162004	Foot/Ankle
+319500011	11	Closed traumatic dislocation, distal interphalangeal joint	S4403	208861003	Hand
+319518014	11	Closed traumatic subluxation, metacarpophalangeal joint	S4421	208878007	Hand
+320219011	11	Sprain, extensor digitorum tendon	S5262	209502008	Hand
+320229016	11	Strain of quadriceps tendon	ESCTST12	209507002	Leg
+320543013	11	Other specified tendon rupture	S5W	415749005	Other
+321597018	11	Mallet finger with open tendon injury	S9324	210586009	Hand
+325487016	11	Dislocations, sprains and strains involving multiple body regions	SyuA4	213367004	Other
+400159012	11	Pyogenic arthritis of the pelvic region and thigh	N0105	267880006	Hip/Pelvis
+400347018	11	Acquired deformity of other limb parts	N36y	240226003	Other
+40511019	11	Eosinophilic fasciitis	N00y0	24129002	Other
+41261000006115	11	Osteoarthritis and allied disorders	N05	396275006	Other
+5278211000006115	11	Stiff back	^ESCTST527821	249921008	Back
+5453841000006111	11	Injury of thumb	^ESCTIN545384	262520005	Hand
+5459561000006111	11	Rupture of gastrocnemius tendon	^ESCTRU545956	262981001	Leg
+575271000006112	11	Compartment syndrome of forearm	SK0y1	212381005	Arm
+581631000006116	11	Congenital deformity of hip, unspecified	PF63X	2749000	Hip/Pelvis
+736251000006113	11	Localized connective tissue disorder, unspecified	M2V	105969002	Other
+777771000006112	11	Inj/extensor muscle+tendon/oth finger(s) at forearm level	SK1C4	312847008	Arm
+891021000006111	11	Back disorder/symptom NOS	N14z-99	666671000000106	Back
+896011000006113	11	Dislocated knee	S46-99	269112001	Knee
+959971000006110	11	Limited range of motion	EMISCLI3	959971000006106	Other

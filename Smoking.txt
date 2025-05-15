@@ -1,0 +1,362 @@
+medcodeid	term	originalreadcode	cleansedreadcode	snomedctconceptid	category
+11998361000006119	FTND (Fagerstrom Test for Nicotine Dependence) total score	^ESCT1199836		762991003	Smoking
+12024761000006112	Monitoring of smoking cessation therapy declined	^ESCT1202476		765001003	Smoking
+12482301000006115	Admitted tobacco cons untrue ?	^ESCT1248230		160613002	Smoking
+7859791000006118	Abuse of nicotine	^ESCTAB785979		724697004	Smoking
+4533531000006119	Admitted tobacco consumption possibly untrue	^ESCTAD453353		160613002	Smoking
+4939241000006115	Advice on effects of smoking on health	^ESCTAD493924		225323000	Smoking
+4939251000006118	Advice on smoking	^ESCTAD493925		225323000	Smoking
+5495901000006112	Amount and type of tobacco smoked	^ESCTAM549590		266918002	Smoking
+2636041000006110	Cessation of smoking	^ESCTCE263604		8517006	Smoking
+3256651000006113	Cigarette cough	^ESCTCI325665		46802002	Smoking
+3959121000006115	Compulsive tobacco user syndrome	^ESCTCO395912		89765005	Smoking
+4765721000006119	Continuous tobacco use	^ESCTCO476572		191887008	Smoking
+7682161000006118	Counseling about tobacco use	^ESCTCO768216		711028002	Smoking
+8012751000006116	Did not attend smoking cessation clinic	^ESCTDI801275		25261000000107	Smoking
+4980601000006117	Dry powdered nasal tobacco use	^ESCTDR498060		228489002	Smoking
+3199011000006119	ETS - Exposed to tobacco smoke	^ESCTET319901		43381005	Smoking
+2651031000006111	Extrinsic staining of tooth - tobacco	^ESCTEX265103		9473008	Smoking
+3199021000006110	Exposed to environmental tobacco smoke	^ESCTEX319902		43381005	Smoking
+3199031000006113	Exposed to tobacco smoke	^ESCTEX319903		43381005	Smoking
+3199051000006118	Exposed to second hand tobacco smoke	^ESCTEX319905		43381005	Smoking
+5496031000006112	Ex-cigarette smoker amount unknown	^ESCTEX549603		266928006	Smoking
+7859781000006116	Harmful pattern of use of nicotine	^ESCTHA785978		724697004	Smoking
+3199041000006115	Involuntary smoker	^ESCTIN319904		43381005	Smoking
+5495921000006119	Never smoked	^ESCTNE549592		266919005	Smoking
+2988071000006112	Nicotine-related disorder	^ESCTNI298807		30310000	Smoking
+2988081000006110	Nicotine induced mental disorder	^ESCTNI298808		30310000	Smoking
+3615221000006116	Nicotine	^ESCTNI361522		68540007	Smoking
+5495941000006114	Occasional smoker	^ESCTOC549594		266920004	Smoking
+5495951000006111	Occasional cigarette smoker (less than one cigarette/day)	^ESCTOC549595		266920004	Smoking
+8153371000006117	Occasional tobacco smoker	^ESCTOC815337		428041000124106	Smoking
+8153381000006119	Occasional smoker	^ESCTOC815338		428041000124106	Smoking
+4640171000006113	Pregnancy smoking education	^ESCTPR464017		171055003	Smoking
+8190531000006112	Referral to NHS (National Health Service) stop smoking service	^ESCTRE819053		505281000000106	Smoking
+4640191000006114	Smoking in pregnancy education	^ESCTSM464019		171055003	Smoking
+4939261000006116	Smoking effects education	^ESCTSM493926		225324006	Smoking
+6649431000006116	Smoking cessation program start date	^ESCTSM664943		401160008	Smoking
+8244731000006115	Stop smoking invitation text message	^ESCTST824473		783381000000101	Smoking
+8244751000006110	Stop smoking invitation first text message	^ESCTST824475		783401000000101	Smoking
+8244771000006117	Stop smoking invitation second text message	^ESCTST824477		783441000000103	Smoking
+8244791000006116	Stop smoking invitation third text message	^ESCTST824479		783481000000106	Smoking
+3959131000006117	Tabagism	^ESCTTA395913		89765005	Smoking
+2651021000006113	Tobacco deposit on teeth	^ESCTTO265102		9473008	Smoking
+3959111000006111	Tobacco dependence syndrome	^ESCTTO395911		89765005	Smoking
+3959141000006110	Tobacco abuse	^ESCTTO395914		89765005	Smoking
+4180321000006116	Tobacco user	^ESCTTO418032		110483000	Smoking
+4180331000006118	Tobacco use	^ESCTTO418033		110483000	Smoking
+4765711000006110	Tobacco use, continuous	^ESCTTO476571		191887008	Smoking
+4765751000006111	Tobacco dependence, in remission	^ESCTTO476575		191889006	Smoking
+7087721000006115	Varenicline tartrate	^ESCTVA708772		428382005	Smoking
+102921000006112	Tobacco consumption	137	137..00	266918002	Smoking
+397732011	Never smoked tobacco	1371	1371.00	266919005	Smoking
+137721000006115	Smoker - amount smoked	137-1	137..11	266918002	Smoking
+14866014	Non-smoker	1371-1	1371.11	8392000	Smoking
+88471000006112	Trivial smoker - < 1 cig/day	1372	1372.00	266920004	Smoking
+397733018	Occasional smoker	1372-1	1372.11	428041000124106	Smoking
+743331000006116	Light smoker - 1-9 cigs/day	1373	1373.00	160603005	Smoking
+700121000006118	Moderate smoker - 10-19 cigs/d	1374	1374.00	160604004	Smoking
+819331000006110	Heavy smoker - 20-39 cigs/day	1375	1375.00	160605003	Smoking
+67621000006112	Very heavy smoker - 40+cigs/d	1376	1376.00	160606002	Smoking
+250363016	Ex-trivial smoker (<1/day)	1377	1377.00	266921000	Smoking
+250364010	Ex-light smoker (1-9/day)	1378	1378.00	266922007	Smoking
+250365011	Ex-moderate smoker (10-19/day)	1379	1379.00	266923002	Smoking
+344795016	Pipe tobacco consumption	137a	137a.00	230058003	Smoking
+250366012	Ex-heavy smoker (20-39/day)	137A	137A.00	266924008	Smoking
+250367015	Ex-very heavy smoker (40+/day)	137B	137B.00	266925009	Smoking
+1488577017	Ready to stop smoking	137b	137b.00	394872000	Smoking
+250368013	Keeps trying to stop smoking	137C	137C.00	160612007	Smoking
+1488576014	Thinking about stopping smoking	137c	137c.00	394871007	Smoking
+250369017	Admitted tobacco cons untrue ?	137D	137D.00	160613002	Smoking
+1488578010	Not interested in stopping smoking	137d	137d.00	394873005	Smoking
+250370016	Tobacco consumption unknown	137E	137E.00	160614008	Smoking
+2670126018	Smoking restarted	137e	137e.00	308438006	Smoking
+250371017	Ex-smoker - amount unknown	137F	137F.00	8517006	Smoking
+1780360012	Reason for restarting smoking	137f	137f.00	401159003	Smoking
+903041000006110	EX-Smoker NOS	137F-99	137F.99	266928006	Smoking
+250372012	Trying to give up smoking	137G	137G.00	160616005	Smoking
+1780396011	Cigarette pack-years	137g	137g.00	401201003	Smoking
+136515019	Pipe smoker	137H	137H.00	82302008	Smoking
+2474719011	Minutes from waking to first tobacco consumption	137h	137h.00	413173009	Smoking
+72373013	Passive smoker	137I	137I.00	43381005	Smoking
+342602019	Ex-tobacco chewer	137i	137i.00	228513009	Smoking
+342613016	Exposed to tobacco smoke at home	137I0	137I000	228524006	Smoking
+99639019	Cigar smoker	137J	137J.00	59978006	Smoking
+418914010	Ex-cigarette smoker	137j	137j.00	281018007	Smoking
+250373019	Stopped smoking	137K	137K.00	160617001	Smoking
+754761000000119	Refusal to give smoking status	137k	137k.00	1098881000000103	Smoking
+1151791000000117	Recently stopped smoking	137K0	137K000	517211000000106	Smoking
+250374013	Current non-smoker	137L	137L.00	160618006	Smoking
+1059701000000119	Ex roll-up cigarette smoker	137l	137l.00	492191000000103	Smoking
+903051000006112	Tobacco Consumption Nil	137L-99	137L.99	160618006	Smoking
+250375014	Rolls own cigarettes	137M	137M.00	160619003	Smoking
+1592611000000110	Failed attempt to stop smoking	137m	137m.00	446172000	Smoking
+649831000006117	Ex pipe smoker	137N	137N.00	160620009	Smoking
+342574011	Total time smoked	137n	137n.00	228487000	Smoking
+649821000006115	Ex cigar smoker	137O	137O.00	160621008	Smoking
+2170961000000116	Waterpipe tobacco consumption	137o	137o.00	836001000000109	Smoking
+108938018	Cigarette smoker	137P	137P.00	65568007	Smoking
+128130017	Smoker	137P-1	137P.11	77176002	Smoking
+2669652019	Smoking started	137Q	137Q.00	266929003	Smoking
+137791000006118	Smoking restarted	137Q-1	137Q.11	308438006	Smoking
+503483019	Current smoker	137R	137R.00	77176002	Smoking
+649841000006110	Ex smoker	137S	137S.00	8517006	Smoking
+250385010	Date ceased smoking	137T	137T.00	160625004	Smoking
+459702016	Not a passive smoker	137U	137U.00	315213009	Smoking
+216212011	Smoking reduced	137V	137V.00	134406006	Smoking
+504769011	Chews tobacco	137W	137W.00	81703003	Smoking
+344793011	Cigarette consumption	137X	137X.00	230056004	Smoking
+344794017	Cigar consumption	137Y	137Y.00	230057008	Smoking
+250387019	Tobacco consumption NOS	137Z	137Z.00	266918002	Smoking
+342443012	Smokes drugs	13cA	13cA.00	228377000	Smoking
+1484932017	Smoking cessation milestones	13p	13p..00	390900001	Smoking
+1484933010	Negotiated date for cessation of smoking	13p0	13p0.00	390901002	Smoking
+1484934016	Smoking status at 4 weeks	13p1	13p1.00	390902009	Smoking
+1484935015	Smoking status between 4 and 52 weeks	13p2	13p2.00	390903004	Smoking
+1484936019	Smoking status at 52 weeks	13p3	13p3.00	390904005	Smoking
+1488873010	Smoking free weeks	13p4	13p4.00	395177003	Smoking
+1773560017	Smoking cessation programme start date	13p5	13p5.00	401160008	Smoking
+1563081000000115	Practice based smoking cessation programme start date	13p50	13p5000	712971000000108	Smoking
+1708051000000119	Smoking status at 12 weeks	13p7	13p7.00	766931000000106	Smoking
+1716141000000117	Lost to smoking cessation follow-up	13p8	13p8.00	768971000000109	Smoking
+1488666019	No smokers in the household	13WK	13WK.00	394964001	Smoking
+408878014	Fagerstrom test for nicotine dependence	38DH	38DH.00	762991003	Smoking
+263570019	Maternal tobacco abuse	63C5	63C5.00	169940006	Smoking
+818061000006111	Health ed. - smoking	6791	6791.00	225323000	Smoking
+265092010	Pregnancy smoking advice	67A3	67A3.00	171055003	Smoking
+936011000006114	Lifestyle advice regarding smoking	67H1	67H1.00	225324006	Smoking
+1125741000000111	Brief intervention for smoking cessation	67H6	67H6.00	506491000000102	Smoking
+103051000006114	Tobacco usage screen	6893	6893.00	171209009	Smoking
+103061000006111	Tobacco usage screen	68T	68T..00	171209009	Smoking
+492511000000117	Smoking cessation therapy	745H	745H.00	710081004	Smoking
+482791000000119	Nicotine replacement therapy using nicotine patches	745H0	745H000	790121000000107	Smoking
+482811000000118	Nicotine replacement therapy using nicotine gum	745H1	745H100	280801000000101	Smoking
+482831000000114	Nicotine replacement therapy using nicotine inhalator	745H2	745H200	280811000000104	Smoking
+482851000000119	Nicotine replacement therapy using nicotine lozenges	745H3	745H300	790131000000109	Smoking
+482771000000118	Smoking cessation drug therapy	745H4	745H400	713700008	Smoking
+2638471000000118	Varenicline therapy	745H5		719591006	Smoking
+482871000000111	Other specified smoking cessation therapy	745Hy	745Hy00	710081004	Smoking
+489931000000114	Smoking cessation therapy NOS	745Hz	745Hz00	710081004	Smoking
+457286014	Nicotine replacement therapy	8B2B	8B2B.00	313396002	Smoking
+1925121000006113	Issue of nicotine replacement therapy voucher	8B2B0	8B2B000	784481000000108	Smoking
+2462431000000110	Varenicline smoking cessation therapy offered	8B31G	8B31G00	966991000000104	Smoking
+1484937011	Nicotine replacement therapy provided free	8B3f	8B3f.00	390905006	Smoking
+459524018	Over the counter nicotine replacement therapy	8B3Y	8B3Y.00	315055008	Smoking
+998861000006112	Nicotine replacement therapy provided by community pharmacis	8BP3	8BP3.00	200211000000104	Smoking
+303501000000115	Smoking cessation advice provided by community pharmacist	8CAg	8CAg.00	200221000000105	Smoking
+338608011	Smoking cessation advice	8CAL	8CAL.00	225323000	Smoking
+1750931000000118	Stop smoking service opportunity signposted	8CdB	8CdB.00	783011000000105	Smoking
+1489355012	Referral to smoking cessation advisor	8H7i	8H7i.00	395700008	Smoking
+1123541000000118	Stop smoking face to face follow-up	8HBM	8HBM.00	505581000000108	Smoking
+2203381000000113	Smoking cessation 12 week follow-up	8HBP	8HBP.00	850331000000104	Smoking
+1715591000006117	Referral to NHS stop smoking service	8HkQ	8HkQ.00	505281000000106	Smoking
+459722017	Referral to stop-smoking clinic	8HTK	8HTK.00	315232003	Smoking
+1488870013	Nicotine replacement therapy contraindicated	8I2I	8I2I.00	395174005	Smoking
+459484017	Nicotine replacement therapy refused	8I39	8I39.00	315022003	Smoking
+1176421000000118	Smoking cessation advice declined	8IAj	8IAj.00	527151000000107	Smoking
+1175011000000112	Smoking cessation programme declined	8IEK	8IEK.00	1087441000000106	Smoking
+2141561000000115	Smoking cessation drug therapy declined	8IEM	8IEM.00	822591000000108	Smoking
+2462391000000119	Varenicline smoking cessation therapy declined	8IEM0	8IEM000	966971000000103	Smoking
+2251871000000112	Referral to smoking cessation service declined	8IEo	8IEo.00	871641000000105	Smoking
+2251911000000114	Referral to smoking cessation service	8T08	8T08.00	871661000000106	Smoking
+736241000000116	Smoking cessation - enhanced services administration	9kc	9kc..00	374361000000100	Smoking
+1704491000006115	Smoking cessatn monitor template complet - enhanc serv admin	9kc0	9kc0.00	374391000000106	Smoking
+1741641000006117	Smoking cessation ESA monitoring template completed	9kc0-1	9kc0.11	374391000000106	Smoking
+1123951000000110	Ex-smoker annual review - enhanced services administration	9km	9km..00	505761000000105	Smoking
+1154471000000114	Ex-smoker annual review	9km-1	9km..11	505761000000105	Smoking
+1123751000000113	Non-smoker annual review - enhanced services administration	9kn	9kn..00	505681000000109	Smoking
+1154431000000112	Non-smoker annual review	9kn-1	9kn..11	505681000000109	Smoking
+1714541000006110	Current smoker annual review - enhanced services admin	9ko	9ko..00	505651000000103	Smoking
+1152111000000118	Current smoker annual review	9ko-1	9ko..11	505651000000103	Smoking
+1780273014	Seen by smoking cessation advisor	9N2k	9N2k.00	401068004	Smoking
+62881000000117	DNA - Did not attend smoking cessation clinic	9N4M	9N4M.00	25261000000107	Smoking
+1662911000000114	Consent given for follow-up by smoking cessation team	9Ndf	9Ndf.00	755721000000107	Smoking
+1662951000000113	Declined consent for follow-up by smoking cessation team	9Ndg	9Ndg.00	755741000000100	Smoking
+1755201000006117	Consent given for follow-up evaluation after smoking cessation intervention	9NdV	9NdV.00	750821000000109	Smoking
+1651711000000113	Consent given for smoking cessation data sharing	9NdW	9NdW.00	750851000000104	Smoking
+1755231000006113	Declined consent for follow-up evaluation after smoking cessation intervention	9NdY	9NdY.00	751101000000101	Smoking
+1653781000000119	Declined consent for smoking cessation data sharing	9NdZ	9NdZ.00	751661000000106	Smoking
+1709641000000115	Referral for smoking cessation service offered	9NS02	9NS0200	767641000000109	Smoking
+21681000000118	Anti-smoking monitoring admin.	9OO	9OO..00	714001000000108	Smoking
+498831000006118	Attends stop smoking monitor.	9OO1	9OO1.00	185789006	Smoking
+25281000000119	Stop smoking clinic admin.	9OO-1	9OO..11	714021000000104	Smoking
+285792013	Refuses stop smoking monitor	9OO2	9OO2.00	765001003	Smoking
+21691000000116	Stop smoking monitoring admin.	9OO-2	9OO..12	714001000000108	Smoking
+285793015	Stop smoking monitor default	9OO3	9OO3.00	185791003	Smoking
+128311000006112	Stop smoking monitor 1st lettr	9OO4	9OO4.00	185792005	Smoking
+128321000006116	Stop smoking monitor 2nd lettr	9OO5	9OO5.00	185793000	Smoking
+128331000006118	Stop smoking monitor 3rd lettr	9OO6	9OO6.00	185794006	Smoking
+128371000006115	Stop smoking monitor verb.inv.	9OO7	9OO7.00	185795007	Smoking
+128361000006110	Stop smoking monitor phone inv	9OO8	9OO8.00	185796008	Smoking
+285805010	Stop smoking monitoring delete	9OO9	9OO9.00	185798009	Smoking
+128381000006117	Stop smoking monitor.chck done	9OOA	9OOA.00	185799001	Smoking
+1751721000000113	Stop smoking invitation short message service text message	9OOB	9OOB.00	783381000000101	Smoking
+1785671000006116	Stop smoking invitation first SMS text message	9OOB0	9OOB000	783401000000101	Smoking
+1785681000006118	Stop smoking invitation second SMS text message	9OOB1	9OOB100	783441000000103	Smoking
+1785691000006115	Stop smoking invitation third SMS text message	9OOB2	9OOB200	783481000000106	Smoking
+16261000000110	Stop smoking monitor admin.NOS	9OOZ	9OOZ.00	714001000000108	Smoking
+1694421000006112	Stop smoking monitoring admin.	9OO-z366		714001000000108	Smoking
+1578471000006117	Adverse reaction to Varenicline	ALLERGY23540NEMIS		1578471000006101	Smoking
+1579171000006115	Adverse reaction to Varenicline Tartrate	ALLERGY23542NEMIS		1579171000006104	Smoking
+1009271000006118	Non Smoker - Nos	ASDFGNO1		1009271000006102	Smoking
+825531000033114	Boots Nicotine	DRGA12691NEMIS		825531000033105	Smoking
+1007331000033115	Nicotinell Classic	DRGA22315NEMIS		1007331000033104	Smoking
+402431000033116	Nicotinell Tts 10	DRGA4824EMIS		402431000033100	Smoking
+402531000033117	Nicotinell Tts 20	DRGA4825EMIS		402531000033101	Smoking
+402631000033118	Nicotinell Tts 30	DRGA4826EMIS		402631000033102	Smoking
+729631000033113	Nicotinell	DRGA6526NEMIS		729631000033109	Smoking
+2135531000033115	Nicotinell Support	DRGA95045NEMIS		2135531000033104	Smoking
+103221000033113	Nicotine	DRGC1142		68540007	Smoking
+913721000033117	Varenicline Tartrate	DRGC23542NEMIS		428382005	Smoking
+150398019	Nicotine withdrawal	E023	E023.00	90755006	Smoking
+102951000006115	Tobacco dependence	E251	E251.00	89765005	Smoking
+295256013	Tobacco dependence, unspecified	E2510	E251000	89765005	Smoking
+295257016	Tobacco dependence, continuous	E2511	E251100	191887008	Smoking
+295258014	Tobacco dependence, episodic	E2512	E251200	191888003	Smoking
+295259018	Tobacco dependence in remission	E2513	E251300	191889006	Smoking
+295260011	Tobacco dependence NOS	E251z	E251z00	89765005	Smoking
+852981000006111	Rolls own cigarettes	EGTON1024		852981000006107	Smoking
+604961000006114	Current Smoker NOS	EGTON1025		604961000006105	Smoking
+852991000006114	Ex-cigar smoker	EGTON1026		852991000006105	Smoking
+649851000006112	Ex- Rolled Tobacco Smoker	EGTON1027		649851000006108	Smoking
+853001000006110	Ex-smoker NOS	EGTON1028		853001000006106	Smoking
+137811000006119	Smoking Status	EGTON320		137811000006103	Smoking
+854021000006115	Cigarette smoker	EGTON321		854021000006104	Smoking
+649861000006114	Ex-Cigarette Smoker	EGTON322		649861000006105	Smoking
+854051000006112	Ex-pipe smoker	EGTON324		854051000006108	Smoking
+854071000006119	Current smoker	EGTON326		854071000006103	Smoking
+854111000006110	Past smoker	EGTON327		854111000006106	Smoking
+854151000006111	Date stopped smoking	EGTON328		854151000006107	Smoking
+854951000006113	Grade A non-smoker	EGTONGR10		854951000006109	Smoking
+854961000006110	Grade B light smoker (1-10/day)	EGTONGR11		854961000006106	Smoking
+854981000006117	Grade C moderate smoker (11-20/day)	EGTONGR12		854981000006101	Smoking
+855001000006114	Grade D heavy smoker (>20 Day)	EGTONGR13		855001000006105	Smoking
+137751000006112	Smoking Age	EGTONSM2		137751000006108	Smoking
+137771000006119	Smoking Age Started	EGTONSM3		137771000006103	Smoking
+137761000006114	Smoking Age Ceased	EGTONSM4		137761000006105	Smoking
+856371000006111	Smoking clinic	EGTONSM6		856371000006107	Smoking
+981841000006115	Exposure to cigarette/cigar smoke	EMISCEX15		981841000006104	Smoking
+961581000006114	Smokes/uses tobacco products	EMISCSM1		961581000006105	Smoking
+1662541000006111	Dental recall - tobacco user	EMISD_DE197		1662541000006107	Smoking
+37311000006117	Other anti-smoking drug given	EMISHGT222		37311000006101	Smoking
+1973821000006117	Mental & behav dis due to use tobacco: acute intoxication, uncomplicated	EMISICD10|F1700		1973821000006101	Smoking
+1973841000006112	Mental & behav dis due to use tobacco: acute intoxication, with trauma or other bodily injury	EMISICD10|F1701		1973841000006108	Smoking
+1973851000006114	Mental & behav dis due to use tobacco: acute intoxication, with other medical complications	EMISICD10|F1702		1973851000006105	Smoking
+1973921000006114	Mental & behav dis due to use tobacco: acute intoxication, with delirium	EMISICD10|F1703		1973921000006105	Smoking
+1973951000006117	Mental & behav dis due to use tobacco: acute intoxication, with perceptual distortions	EMISICD10|F1704		1973951000006101	Smoking
+1973981000006113	Mental & behav dis due to use tobacco: acute intoxication, with coma	EMISICD10|F1705		1973981000006109	Smoking
+1974031000006110	Mental & behav dis due to use tobacco: acute intoxication, with convulsions	EMISICD10|F1706		1974031000006106	Smoking
+1974281000006116	Mental and behav dis due to use tobacco: dependence syndr, currently abstinent	EMISICD10|F1720		1974281000006100	Smoking
+1974311000006119	Mental and behav dis due to use tobacco: dependence syndr, currently abstinent, but in a protected environment	EMISICD10|F1721		1974311000006103	Smoking
+1974341000006115	Mental and behav dis due to use tobacco: dependence syndr, currently on a clinically supervised maintenance or replacement regime [controlled dependence]	EMISICD10|F1722		1974341000006104	Smoking
+1974371000006111	Mental and behav dis due to use tobacco: dependence syndr, currently abstinent, but receiving treatment with aversive or blocking drugs	EMISICD10|F1723		1974371000006107	Smoking
+1974401000006114	Mental and behav dis due to use tobacco: dependence syndr, currently using the substance [active dependence]	EMISICD10|F1724		1974401000006105	Smoking
+1974421000006116	Mental and behav dis due to use tobacco: dependence syndr, continuous use	EMISICD10|F1725		1974421000006100	Smoking
+1974461000006110	Mental and behav dis due to use tobacco: dependence syndr, episodic use [dipsomania]	EMISICD10|F1726		1974461000006106	Smoking
+1974501000006110	Mental and behav dis due to use tobacco: withdrawal state, uncomplicated	EMISICD10|F1730		1974501000006106	Smoking
+1974531000006119	Mental and behav dis due to use tobacco: withdrawal state, with convulsions	EMISICD10|F1731		1974531000006103	Smoking
+1974571000006116	Mental & behav dis due to tobacco: withdrawl state wth delirium, without convulsions	EMISICD10|F1740		1974571000006100	Smoking
+1974581000006118	Mental & behav dis due to tobacco: withdrawl state wth delirium, with convulsions	EMISICD10|F1741		1974581000006102	Smoking
+1974651000006110	Mental & behav dis due to use tobacco: psychotic disorder, schizophrenia-like	EMISICD10|F1750		1974651000006106	Smoking
+1974681000006119	Mental & behav dis due to use tobacco: psychotic disorder, predominantly delusional	EMISICD10|F1751		1974681000006103	Smoking
+1974711000006118	Mental & behav dis due to use tobacco: psychotic disorder, predominantly hallucinatory	EMISICD10|F1752		1974711000006102	Smoking
+1974741000006119	Mental & behav dis due to use tobacco: psychotic disorder, predominantly polymorphic	EMISICD10|F1753		1974741000006103	Smoking
+1974761000006115	Mental & behav dis due to use tobacco: psychotic disorder, predominantly depressive symptoms	EMISICD10|F1754		1974761000006104	Smoking
+1974791000006111	Mental & behav dis due to use tobacco: psychotic disorder, predominantly manic symptoms	EMISICD10|F1755		1974791000006107	Smoking
+1974811000006110	Mental & behav dis due to use tobacco: psychotic disorder, mixed	EMISICD10|F1756		1974811000006106	Smoking
+1974841000006114	Mental & behav dis due to tobacco: resid & late-onset psychot dis, flashbacks	EMISICD10|F1770		1974841000006105	Smoking
+1974871000006118	Mental & behav dis due to tobacco: resid & late-onset psychot dis, personality or behaviour disorder	EMISICD10|F1771		1974871000006102	Smoking
+1974911000006115	Mental & behav dis due to tobacco: resid & late-onset psychot dis, residual affective disorder	EMISICD10|F1772		1974911000006104	Smoking
+1974931000006114	Mental & behav dis due to tobacco: resid & late-onset psychot dis, dementia	EMISICD10|F1773		1974931000006105	Smoking
+1974961000006117	Mental & behav dis due to tobacco: resid & late-onset psychot dis, other persisting cognitive impairment	EMISICD10|F1774		1974961000006101	Smoking
+1974981000006110	Mental & behav dis due to tobacco: resid & late-onset psychot dis, late-onset psychotic disorder	EMISICD10|F1775		1974981000006106	Smoking
+1771191000006119	Attends smoking cessation clinic not at practice	EMISNQAT12		201941000000100	Smoking
+1873511000006118	Care contact service: Smoking/substance cessation/interven prog.	EMISNQCA1034		1873511000006102	Smoking
+1889671000006116	Child 27-30 mth exam.- smoking cessation support provided	EMISNQCH305		1889671000006100	Smoking
+1889681000006118	Child 27-30 mth exam.- signpost to smoking cessation	EMISNQCH306		1889681000006102	Smoking
+1889691000006115	Child 27-30 mth exam. - discuss with smoking cessation service	EMISNQCH307		1889691000006104	Smoking
+1889701000006115	Child 27-30 mth exam. - requ. assist. from smoking cessation	EMISNQCH308		1889701000006104	Smoking
+1889711000006117	Child 27-30 mth exam. - refused smoking cessation service	EMISNQCH309		1889711000006101	Smoking
+1934421000006119	Child 27-30 mth exam. - smoking cessation input not required	EMISNQCH683		1934421000006103	Smoking
+1599721000006113	Ex-tobacco chewer	EMISNQEX4		1599721000006109	Smoking
+1672841000006118	Fagerstrom test for nicotine dependence	EMISNQFA10		1672841000006102	Smoking
+1778181000006110	Group session: Stop smoking education programme	EMISNQGR20		1778181000006106	Smoking
+1899541000006110	Mother's smoking status at time of baby's birth	EMISNQMO107		1899541000006106	Smoking
+1899551000006112	Mother's smoking status at time of baby's birth - smoker	EMISNQMO108		1899551000006108	Smoking
+1899561000006114	Mother's smoking status at time of baby's birth - ex-smoker	EMISNQMO109		1899561000006105	Smoking
+1899571000006119	Mother's smoking status at time of baby's birth - passive smoker	EMISNQMO110		1899571000006103	Smoking
+1899581000006116	Mother's smoking status at time of baby's birth - never smoked	EMISNQMO111		1899581000006100	Smoking
+1979471000006116	Nicotine replacement therapy using nicotine nasal spray	EMISNQNI18		1979471000006100	Smoking
+1979481000006118	Nicotine replacement therapy using nicotine mouth spray	EMISNQNI19		1979481000006102	Smoking
+1676351000006110	Nicotine replacement therapy using nicotine sublingual tablets	EMISNQNI3		1676351000006106	Smoking
+1697731000006111	Nicotine replacement therapy not tolerated	EMISNQNI4		1697731000006107	Smoking
+1777011000006118	Reason for referral: Smoking Cessation	EMISNQRE259		1777011000006102	Smoking
+1819411000006114	Smoking increased	EMISNQSM14		1819411000006105	Smoking
+1823811000006115	Smoking cessation 12 week follow up	EMISNQSM15		1823811000006104	Smoking
+1825071000006116	Smoking cessation 12 week F/U not completed	EMISNQSM16		1825071000006100	Smoking
+1825081000006118	Smoking cessation 12 week F/U completed	EMISNQSM17		1825081000006102	Smoking
+1979491000006115	Smoking cessation follow-up	EMISNQSM20		1979491000006104	Smoking
+1591651000006110	Smoking cessation referral declined	EMISNQSM5		1591651000006106	Smoking
+1626121000006116	Smoking cessation drug therapy - varenicline	EMISNQSM6		1626121000006100	Smoking
+1746211000006111	Smoking status at 12 weeks	EMISNQSM8		1746211000006107	Smoking
+1779081000006119	Snuff use	EMISNQSN1		228489002	Smoking
+1758971000006113	Stop smoking monitoring invitation SMS text message sent	EMISNQST13		1758971000006109	Smoking
+1758981000006111	Stop smoking monitoring invitation first SMS text message sent	EMISNQST14		1758981000006107	Smoking
+1758991000006114	Stop smoking monitoring invitation second SMS text message sent	EMISNQST15		1758991000006105	Smoking
+1759001000006114	Stop smoking monitoring invitation third SMS text message sent	EMISNQST16		1759001000006105	Smoking
+1833971000006116	Stop Smoking satisfaction questionnaire given	EMISNQST27		1833971000006100	Smoking
+983101000006113	Misuse of Nicotine	EMISNQSU2		983101000006109	Smoking
+1809131000006111	Total time smoked	EMISNQTO12		228487000	Smoking
+1809121000006113	Waterpipe tobacco consumption	EMISNQWA11		1809121000006109	Smoking
+16581000006111	Other smoking information	EMISOTS1		16581000006107	Smoking
+904051000006110	Carbon monoxide validation of smoking status	EMISQCO1		904051000006106	Smoking
+904111000006113	Carbon monoxide validation confirms non-smoker	EMISQCO2		904111000006109	Smoking
+904121000006117	Carbon monoxide validation confirms smoker	EMISQCO3		904121000006101	Smoking
+904091000006116	Date of last cigarette	EMISQDA1		904091000006100	Smoking
+852111000006118	Gradual smoking reduction	EMISQGR1		852111000006102	Smoking
+903981000006117	Not interested in stopping smoking	EMISQNO1		903981000006101	Smoking
+904021000006118	Previous smoking quit attempts	EMISQPR6		904021000006102	Smoking
+904001000006111	Ready to stop smoking	EMISQRE12		904001000006107	Smoking
+904191000006115	Smoking cessation motivation score	EMISQSM10		904191000006104	Smoking
+904201000006117	Smoking cessation confidence score	EMISQSM11		904201000006101	Smoking
+904181000006118	Smoking cessation counselling	EMISQSM12		904181000006102	Smoking
+904231000006113	Smoking cessation counselling by telephone	EMISQSM13		904231000006109	Smoking
+904241000006115	Smoking cessation counselling in person	EMISQSM14		904241000006104	Smoking
+904221000006110	Smoking cessation bupropion therapy	EMISQSM15		904221000006106	Smoking
+904211000006119	Smoking cessation service patient satisfaction score	EMISQSM16		904211000006103	Smoking
+852121000006114	Smoking cessation-maintain abstinence	EMISQSM17		852121000006105	Smoking
+852131000006112	Smoking cessation-practice nurse support	EMISQSM18		852131000006108	Smoking
+904071000006117	Smoking cessation 4 week follow up	EMISQSM2		904071000006101	Smoking
+904081000006119	Smoking cessation 52 week follow up	EMISQSM3		904081000006103	Smoking
+904141000006112	Smoking cessation 4 week F/U not completed	EMISQSM4		904141000006108	Smoking
+904151000006114	Smoking cessation 4 week F/U completed	EMISQSM5		904151000006105	Smoking
+904161000006111	Smoking cessation 52 week F/U completed	EMISQSM6		904161000006107	Smoking
+904171000006116	Smoking cessation 52 week F/U not completed	EMISQSM7		904171000006100	Smoking
+904011000006114	Smoking cessation declaration signed by patient	EMISQSM9		904011000006105	Smoking
+904031000006115	Thinking about stopping smoking	EMISQTH1		904031000006104	Smoking
+904041000006113	Waking time to first cigarette	EMISQWA1		904041000006109	Smoking
+137711000006111	Smoker (Read codes)	EMISSMRE1		137711000006107	Smoking
+1754091000000110	Issue of nicotine replacement therapy voucher	ESCTIS1		784481000000108	Smoking
+2982426011	Provision of smoking cessation leaflet	ESCTPR3		699033005	Smoking
+2717211000000112	Signposting to smoking cessation service	ESCTSI77		1084381000000100	Smoking
+295951010	[X]Mental and behavioural disorder due to use of tobacco	Eu17	Eu17.00	30310000	Smoking
+397671000006112	[X]Mental & behav dis due to use tobacco: acute intoxication	Eu170	Eu17000	30310000	Smoking
+397911000006114	[X]Mental and behav dis due to use of tobacco: harmful use	Eu171	Eu17100	724697004	Smoking
+397981000006119	[X]Mental and behav dis due to use tobacco: dependence syndr	Eu172	Eu17200	30310000	Smoking
+397991000006116	[X]Mental and behav dis due to use tobacco: withdrawal state	Eu173	Eu17300	90755006	Smoking
+397281000006113	[X]Men & behav dis due tobacco: withdrawl state wth delirium	Eu174	Eu17400	90755006	Smoking
+397681000006110	[X]Mental & behav dis due to use tobacco: psychotic disorder	Eu175	Eu17500	30310000	Smoking
+397971000006117	[X]Mental and behav dis due to use tobacco: amnesic syndrome	Eu176	Eu17600	30310000	Smoking
+397181000006117	[X]Men & beh dis due tobacco: resid & late-onset psychot dis	Eu177	Eu17700	30310000	Smoking
+397271000006110	[X]Men & behav dis due to use tobacco: oth men & behav dis	Eu17y	Eu17y00	30310000	Smoking
+397461000006119	[X]Ment & behav dis due use tobacco: unsp ment & behav dis	Eu17z	Eu17z00	30310000	Smoking
+78013015	Smokers' cough	H3101	H310100	46802002	Smoking
+909391000006117	[RFC] Smoking cessation	HNGZ011		909391000006101	Smoking
+16588018	Tobacco deposit on teeth	J0364	J036400	9473008	Smoking
+2000051000006114	MHIP comprehensive assessment - nicotine use	JHCMH25		2000051000006105	Smoking
+923611000006113	Health ed. - smoking	PC0076		923611000006109	Smoking
+923201000006112	Pregnancy smoking advice	PCNQPR2		923201000006108	Smoking
+324597019	Toxic effect of tobacco and nicotine	SMC	SMC..00	212899006	Smoking
+298701000000114	[V]Personal history of tobacco abuse	ZV116	ZV11600	8517006	Smoking
+460828018	[V]Tobacco use	ZV4K0	ZV4K000	110483000	Smoking
+461114016	[V]Tobacco abuse counselling	ZV6D8	ZV6D800	711028002	Smoking

@@ -1,0 +1,156 @@
+MedCodeId	FINAL_Term	OriginalReadCode	CleansedReadCode	Site
+1228298012	Arthralgia of multiple joints	N0949	N094900	Multiple
+1222482014	Generalised aches and pains	R00z2-1	R00z211	Multiple
+709441000006113	Fibromyalgia	N239	N239.00	Multiple
+800731000006117	Generalised osteoarthritis	N050	N050.00	Multiple
+800751000006112	Polyarticular osteoarthritis	N0502	N050200	Multiple
+41386013	Fibromyalgia	N248	N248.00	Multiple
+317086019	[D]Pain, generalized	R00z2	R00z200	Multiple
+693501000006115	Musculoskeletal pain - joints	N096-2	N096.12	Multiple
+402920010	Sprains and strains NOS	S5z	S5z..00	Multiple
+486238018	Multiple joint pain	N0949-99	N094999	Multiple
+221661000006114	Inflammatory polyarthritis	N065z-1	N065z11	Multiple
+318040019	[X]Other chronic pain	Ryu70	Ryu7000	Multiple
+141799013	Hypermobility syndrome	N235	N235.00	Multiple
+906591000006118	[RFC] Soft tissue injuries	HNG0162		Multiple
+221671000006119	Polyarthropathy	N065-1	N065.11	Multiple
+2552628011	Aching muscles	1DCC	1DCC.00	Multiple
+889861000006112	Osteoarthritis -multiple joint	N0502-99	N050299	Multiple
+311036019	Arthropathies NOS	N0z	N0z..00	Multiple
+2548331017	Inflammatory polyarthropathy	N04-1	N04..11	Multiple
+309862016	Degenerative joint disease involving multiple joints	N0500	N050000	Multiple
+310159018	Generalised arthritis	N065A	N065A00	Multiple
+309850015	Inflammatory polyarthropathy NOS	N04z	N04z.00	Multiple
+84036012	Palindromic rheumatism	N093	N093.00	Multiple
+800781000006116	Generalised aches and pains	1DC8	1DC8.00	Multiple
+206425010	Complex regional pain syndrome	F369	F369.00	Multiple
+426510015	Rheumatoid arthritis - multiple joint	N040S	N040S00	Multiple
+158050019	Polymyalgia	N20-1	N20..11	Multiple
+310880014	Multiple stiff joints	N0959	N095900	Multiple
+405142017	Unspecified polyarthropathy or polyarthritis	N065	N065.00	Multiple
+215551000000114	Sero negative polyarthritis	N04y1-1	N04y111	Multiple
+495737017	Complex regional pain syndrome type I	N33C	N33C.00	Multiple
+309880013	Generalised osteoarthritis NOS	N050z	N050z00	Multiple
+41385012	Myofascial pain syndrome	N239-1	N239.11	Multiple
+310157016	Unspecified polyarthropathy of multiple sites	N0659	N065900	Multiple
+400192018	Unspecified polyarthropathy or polyarthritis NOS	N065z	N065z00	Multiple
+892711000006110	Musculoskeletal problems NOS	N3z-98	N3z..98	Multiple
+317144010	Growing pains in limbs	R01z1	R01z100	Multiple
+621001000006118	Diffuse diseases of connective tissue	N00	N00..00	Multiple
+310993015	Multiple clicking joints	N099A	N099A00	Multiple
+1705881000006115	Myofascial pain syndrome	N2480	N248000	Multiple
+400941013	Congenital musculoskeletal anomalies NOS	PGz	PGz..00	Multiple
+359399017	Primary generalised osteoarthrosis	N0504	N050400	Multiple
+309972017	Osteoarthritis of multiple joints	N054	N054.00	Multiple
+2477180015	Complex regional pain syndrome type II	F347	F347.00	Multiple
+324025011	Other multiple injuries	SK1x	SK1x.00	Multiple
+889851000006110	Polyarthropathy NOS -inflammat	N04z-99	N04z.99	Multiple
+120088018	Relapsing polychondritis	N33z5	N33z500	Multiple
+2472449013	Juvenile seronegative polyarthritis	N0451	N045100	Multiple
+125937016	Acute polyarticular juvenile rheumatoid arthritis	N0431	N043100	Multiple
+13134012	Algoneurodystrophy	N337	N337.00	Multiple
+325287019	Severe multiple injuries	SRz0	SRz0.00	Multiple
+325493012	Multiple injuries	SyuA8	SyuA800	Multiple
+310787017	Palindromic rheumatism of multiple sites	N0939	N093900	Multiple
+390401000006116	[X]Injuries involving multiple body regions	SyuA	SyuA.00	Multiple
+623781000006113	Dislocations, sprains & strains involv multiple body regions	SR2	SR2..00	Multiple
+309983014	Osteoarthritis of more than one site, unspecified, NOS	N054z	N054z00	Multiple
+5721431000006114	Rheumatoid arthritis of multiple joints	^ESCTRH572143		Multiple
+891921000006110	Pain in limb - multiple	N245-99	N245.99	Multiple
+310148010	Unspecified polyarthropathy of unspecified site	N0650	N065000	Multiple
+309841017	Other specified inflammatory polyarthropathy	N04y	N04y.00	Multiple
+312516012	[X]Inflammatory polyarthropathies	Nyu1	Nyu1.00	Multiple
+13784591000006110	Arthrogryposis multiplex congenita	^ESCT1378459		Multiple
+309681014	Gouty arthritis of multiple sites	N023x	N023x00	Multiple
+3074511000006111	Polyarthralgia	^ESCTPO307451		Multiple
+891651000006114	Rheumatism NOS - multiple	N2400-99	N240099	Multiple
+325242018	Injury involving multiple body regions	SR	SR...00	Multiple
+637041000006111	Effusion of joint of multiple sites	N0909	N090900	Multiple
+288924010	Malignant neoplasm of pelvic bones, sacrum and coccyx	B306	B306.00	Multiple
+359533017	Polyalgia	N24z-1	N24z.11	Multiple
+390421000006114	[X]Injuries to the abdomen, lower back, lumbar spine and pelvis	Syu3	Syu3.00	Multiple
+891741000006118	Myalgia/myositis - multiple	N241-98	N241.98	Multiple
+255992010	O/E - multiple joint abnormal	2H22	2H22.00	Multiple
+221481000000114	Crystal arthritis	N02-2	N02..12	Multiple
+310485014	Contracture of multiple joints	N0849	N084900	Multiple
+265861000006116	Oligoarticular osteoarthritis, unspecified, multiple sites	N0549	N054900	Multiple
+6766451000006118	CRPS - Complex regional pain syndrome type II	^ESCTCR676645		Multiple
+492481000006116	Arthrogryposis multiplex congenita.	N2330-1	N233011	Multiple
+312536013	Polyarthrosis	Nyu20	Nyu2000	Multiple
+6899871000006118	Undifferentiated inflammatory polyarthritis	^ESCTUN689987		Multiple
+309849015	Other specified inflammatory polyarthropathy NOS	N04yz	N04yz00	Multiple
+310058012	Traumatic arthropathy of multiple sites	N0619	N061900	Multiple
+312004011	Paget's disease-multiple sites	N310x	N310x00	Multiple
+775941000006111	Injury involving multiple body regions NOS	SRz	SRz..00	Multiple
+311033010	Joint disorder NOS, of multiple sites	N09z9	N09z900	Multiple
+319685014	Other, multiple and ill-defined dislocations or subluxations	S49	S49..00	Multiple
+297544012	Polyneuropathy in rheumatoid arthritis	F3712	F371200	Multiple
+28501000006111	Other injuries involving multiple body regions NEC	SRy	SRy..00	Multiple
+217671000006115	Postdysenteric reactive arthropathy of multiple sites	N013x	N013x00	Multiple
+552251000006114	Chondrocalcinosis due to pyrophosphate crystals, of multiple sites	N021x	N021x00	Multiple
+309876015	Secondary multiple arthrosis	N0505	N050500	Multiple
+891221000006119	Synovitis/tenosyn.- multiple	N220z-99	N220z99	Multiple
+310156013	Unspecified polyarthropathy of other specified site	N0658	N065800	Multiple
+3850321000006119	Generalised pain	^ESCTGE385032		Multiple
+310957017	Walking difficulty due to multiple sites	N0975	N097500	Multiple
+310115010	Transient arthropathy of multiple sites	N0649	N064900	Multiple
+58293010	Pyogenic arthritis of multiple sites	N010x	N010x00	Multiple
+127858012	Arthrogryposis multiplex congenita	PFy0	PFy0.00	Multiple
+402908019	Other closed multiple and ill-defined dislocation	S49x	S49x.00	Multiple
+325490010	[X]Other specified injuries involving multiple body regions	SyuA7	SyuA700	Multiple
+3512092015	Complex regional pain syndrome type I	^ESCT1164904		Multiple
+6839012	Polymyositis ossificans	N2314	N231400	Multiple
+6766431000006113	Complex regional pain syndrome, type II	^ESCTCO676643		Multiple
+310325012	Loose joint body in multiple joints	N0818	N081800	Multiple
+311943010	Poliomyelitis osteopathy of multiple sites	N3079	N307900	Multiple
+777681000006116	Injuries of muscles and tendons involving multiple body regions	SRy2	SRy2.00	Multiple
+3083191000006116	Multiple joint disease	^ESCTMU308319		Multiple
+310191017	Other specified arthropathy of multiple sites	N06y9	N06y900	Multiple
+483981000006116	Ankylosis of joint of multiple sites	N0859	N085900	Multiple
+189441000006116	Recurrent dislocation of multiple sites	N0839	N083900	Multiple
+310090019	Allergic arthritis of multiple sites	N0629	N062900	Multiple
+377511000006111	[X]Dislocat/sprains/strains involv oth comb of body regions	SyuA3	SyuA300	Multiple
+309669010	Chondrocalcinosis unspecified, of multiple sites	N022x	N022x00	Multiple
+5730821000006116	Pain in limb - multiple	^ESCTPA573082		Multiple
+310593011	Other joint derangement NEC, of multiple sites	N08y9	N08y900	Multiple
+311021017	Other specified joint disorders of multiple sites	N09y9	N09y900	Multiple
+377491000006117	[X]Dislocation, sprain and strain of unspecified joint and ligament of trunk	SyuB0	SyuB000	Multiple
+11776801000006110	CRPS - complex regional pain syndrome	^ESCT1177680		Multiple
+552141000006115	Chondrocalcinosis due to dicalcium phosphate crystals, of multiple sites	N020x	N020x00	Multiple
+890371000006116	Ankylosis - multiple joint	N0849-98	N084998	Multiple
+890381000006118	Contracture - multiple joint	N0849-99	N084999	Multiple
+891311000006118	Ganglion/synov.cyst - multiple	N224-98	N224.98	Multiple
+896151000006113	Multiple dislocations	S49x-99	S49x.99	Multiple
+6899881000006115	Polyarthritis	^ESCTPO689988		Multiple
+325375012	[X]Other multiple injuries of abdomen, lower back and pelvis	Syu3M	Syu3M00	Multiple
+3850301000006112	Generalized body aches	^ESCTGE385030		Multiple
+718001000006112	Marie - Strumpell spondylitis	N100-1	N100.11	Multiple
+309731012	Crystal arthropathy NOS, of multiple sites	N02zx	N02zx00	Multiple
+309490011	Arthropathy in Behcet's syndrome of multiple sites	N012x	N012x00	Multiple
+310357013	Pathological dislocation of multiple joints	N0829	N082900	Multiple
+310749013	Villonodular synovitis of multiple sites	N0929	N092900	Multiple
+889701000006115	Pyog. arthr. - multiple joint	N010x-99	N010x99	Multiple
+3850311000006110	Generalized pain	^ESCTGE385031		Multiple
+311931014	Tuberculosis of the bones of multiple sites	N3065	N306500	Multiple
+3850341000006114	Generalised body aches	^ESCTGE385034		Multiple
+890551000006118	Effusion - multiple joint	N0909-99	N090999	Multiple
+217681000006117	Postdysenteric reactive arthropathy of other specified sites	N013y	N013y00	Multiple
+309695012	Crystal arthropathy of multiple sites	N02yx	N02yx00	Multiple
+310605015	Joint derangement NOS, of multiple sites	N08z8	N08z800	Multiple
+891231000006116	Bursitis - multiple	N223-99	N223.99	Multiple
+139444016	Articular cartilage disorder of multiple sites	N0808	N080800	Multiple
+4809421000006113	Generalized osteoarthritis	^ESCTGE480942		Multiple
+310047015	Kaschin-Beck disease of multiple sites	N0609	N060900	Multiple
+5140241000006115	Primary generalised osteoarthritis	^ESCTPR514024		Multiple
+309556016	Helminthiasis with arthropathy of multiple sites	N017x	N017x00	Multiple
+890031000006117	Traumatic arth.-multiple joint	N0619-99	N061999	Multiple
+890181000006115	Path. disloc. - multiple joint	N0829-99	N082999	Multiple
+235301000006118	Periostitis without osteomyelitis, of multiple sites	N3039	N303900	Multiple
+5453821000006116	Multiple trauma	^ESCTMU545382		Multiple
+6905901000006110	Inflammatory arthritis of multiple joints	^ESCTIN690590		Multiple
+891401000006113	Rupture of synovium - multiple	N225-99	N225.99	Multiple
+892011000006112	F.B. left in tissue - multiple	N246-98	N246.98	Multiple
+891521000006116	Tendon rupture - multiple	N226z-99	N226z99	Multiple
+890271000006113	Recur. disloc.- multiple joint	N0839-99	N083999	Multiple
+4808211000006113	Post-dysenteric reactive arthropathy of multiple sites	^ESCTPO480821		Multiple
+11905441000006119	Generalized aches and pains	^ESCT1190544		Multiple

@@ -1,0 +1,266 @@
+medcodeid	term	originalreadcode	cleansedreadcode	snomedctconceptid	Depression	Anxiety	Stress	Decision	Notes
+11914901000006100	[X]Depressive personality disorder	^ESCT1191490		78667006	Yes			Exclude	personality disorders
+882421000006113	Depressive personality	E2112-99	E211299	78667006	Yes			Exclude	personality disorders
+613781000006118	Depressive personality disorder	E2112	E211200	78667006	Yes			Exclude	personality disorders
+972861000006118	** Traumatic stress - effects of overwhelming experience	TRIQQZZ42		972861000006102			Yes	Include	
+302741000006114	[D]State of emotional shock and stress, unspecified	R00zW	R00zW00	442347009			Yes	Include	
+909681000006110	[RFC] Depression	HNGNQRF13		909681000006106	Yes			Include	
+909701000006113	[RFC] Post traumatic stress disorder	HNGNQRF15		909701000006109			Yes	Include	
+461004010	[V]Uncomplicated bereavement	ZV628	ZV62800	74506000			Yes	Include	
+359121000006116	[X] Reactive depression NOS	Eu32z-4	Eu32z14	87414006	Yes			Include	
+362301000006112	[X]Acute crisis reaction	Eu430-1	Eu43011	67195008			Yes	Include	
+1755921000006110	[X]Acute post-traumatic stress disorder follow military comb	Eu433	Eu43300	446175003			Yes	Include	
+362401000006115	[X]Acute reaction to stress	Eu430-2	Eu43012	67195008			Yes	Include	
+362441000006118	[X]Acute stress reaction	Eu430	Eu43000	67195008			Yes	Include	
+296249012	[X]Anxiety disorder, unspecified	Eu41z	Eu41z00	197480006		Yes		Include	
+363641000006114	[X]Anxiety hysteria	Eu41y-1	Eu41y11	197480006		Yes		Include	
+363651000006111	[X]Anxiety neurosis	Eu411-1	Eu41111	207363009		Yes		Include	
+363661000006113	[X]Anxiety NOS	Eu41z-1	Eu41z11	197480006		Yes		Include	
+363671000006118	[X]Anxiety reaction	Eu411-2	Eu41112	197480006		Yes		Include	
+363681000006115	[X]Anxiety state	Eu411-3	Eu41113	198288003		Yes		Include	
+1755931000006110	[X]Chron post-traumatic stress disorder follow military comb	Eu434	Eu43400	699241002			Yes	Include	
+371231000006113	[X]Combat fatigue	Eu430-3	Eu43013	67195008			Yes	Include	
+375971000006116	[X]Crisis state	Eu430-4	Eu43014	67195008			Yes	Include	
+1755941000006110	[X]Delayed post-traumat stress disorder follow military comb	Eu435	Eu43500	446180007			Yes	Include	
+376691000006116	[X]Depression NOS	Eu32z-1	Eu32z11	35489007	Yes			Include	
+376701000006116	[X]Depressive conduct disorder	Eu920	Eu92000	231542000	Yes			Include	
+376711000006118	[X]Depressive disorder NOS	Eu32z-2	Eu32z12	35489007	Yes			Include	
+376721000006114	[X]Depressive episode	Eu32	Eu32.00	35489007	Yes			Include	
+401872015	[X]Depressive episode, unspecified	Eu32z	Eu32z00	35489007	Yes			Include	
+376741000006119	[X]Depressive neurosis	Eu341-1	Eu34111	78667006	Yes			Include	
+379431000006113	[X]Dysthymia	Eu341	Eu34100	78667006	Yes			Include	
+388071000006116	[X]Generalized anxiety disorder	Eu411	Eu41100	21897009		Yes		Include	
+388271000006110	[X]Grief reaction	Eu432-2	Eu43212	74506000			Yes	Include	
+1715771000006110	[X]Major depression, mild	Eu325	Eu32500	87512008	Yes			Include	
+1715181000006110	[X]Major depression, moderately severe	Eu326	Eu32600	832007	Yes			Include	
+396081000006116	[X]Major depression, recurrent without psychotic symptoms	Eu332-2	Eu33212	268621008	Yes			Include	
+1715781000006110	[X]Major depression, severe without psychotic symptoms	Eu327	Eu32700	75084000	Yes			Include	
+396771000006117	[X]Manic-depress psychosis,depressd,no psychotic symptoms	Eu332-3	Eu33213	36474008	Yes			Include	
+398351000006110	[X]Mild anxiety depression	Eu412-1	Eu41211	231504006	Yes	Yes		Include	
+213641000000111	[X]Mild depression	Eu324	Eu32400	310495003	Yes			Include	
+11918531000006100	[X]Mild depressive episode	^ESCT1191853		430421000000104	Yes			Include	
+296137015	[X]Mild depressive episode	Eu320	Eu32000	310495003	Yes			Include	
+398561000006117	[X]Mixed anxiety and depressive disorder	Eu412	Eu41200	231504006	Yes	Yes		Include	
+11918561000006100	[X]Moderate depressive episode	^ESCT1191856		465441000000108	Yes			Include	
+296138013	[X]Moderate depressive episode	Eu321	Eu32100	310496002	Yes			Include	
+398841000006119	[X]Monopolar depression NOS	Eu33z-1	Eu33z11	35489007	Yes			Include	
+398851000006117	[X]Mood - affective disorders	Eu3	Eu3..00	46206005	Yes			Include	
+399841000006110	[X]Neurasthenia	Eu460	Eu46000	78667006			Yes	Include	
+399961000006118	[X]Neurotic depression	Eu341-3	Eu34113	78667006	Yes			Include	
+296238018	[X]Other anxiety disorders	Eu41	Eu41.00	197480006		Yes		Include	
+401871010	[X]Other depressive episodes	Eu32y	Eu32y00	35489007	Yes			Include	
+296245018	[X]Other mixed anxiety disorders	Eu413	Eu41300	231504006		Yes		Include	
+296209016	[X]Other mood affective disorders	Eu3y	Eu3y.00	46206005		Yes		Include	
+296207019	[X]Other persistent mood affective disorders	Eu34y	Eu34y00	386782008	Yes			Include	
+296236019	[X]Other phobic anxiety disorders	Eu40y	Eu40y00	386810004		Yes		Include	
+296271019	[X]Other reactions to severe stress	Eu43y	Eu43y00	271952001			Yes	Include	
+296199015	[X]Other recurrent depressive disorders	Eu33y	Eu33y00	191616006	Yes			Include	
+401878016	[X]Other recurrent mood affective disorders	Eu3y1	Eu3y100	386782008	Yes			Include	
+401877014	[X]Other single mood affective disorders	Eu3y0	Eu3y000	46206005		Yes		Include	
+401881014	[X]Other specified anxiety disorders	Eu41y	Eu41y00	197480006		Yes		Include	
+296218019	[X]Other specified mood affective disorders	Eu3yy	Eu3yy00	46206005		Yes		Include	
+418031000006113	[X]Panic attack	Eu410-1	Eu41011	371631005		Yes		Include	
+296239014	[X]Panic disorder [episodic paroxysmal anxiety]	Eu410	Eu41000	371631005		Yes		Include	
+418051000006118	[X]Panic disorder with agoraphobia	Eu400-2	Eu40012	191722009		Yes		Include	
+418061000006116	[X]Panic state	Eu410-2	Eu41012	371631005		Yes		Include	
+419841000006116	[X]Persistant anxiety depression	Eu341-4	Eu34114	231504006	Yes	Yes		Include	
+296208012	[X]Persistent mood affective disorder, unspecified	Eu34z	Eu34z00	386782008	Yes			Include	
+296204014	[X]Persistent mood affective disorders	Eu34	Eu34.00	386782008	Yes			Include	
+11920891000006100	[X]Phobia NOS	^ESCT1192089		386810004		Yes		Include	
+420631000006114	[X]Phobia NOS	Eu40z-1	Eu40z11	386810004		Yes		Include	
+296237011	[X]Phobic anxiety disorder, unspecified	Eu40z	Eu40z00	386810004		Yes		Include	
+296224013	[X]Phobic anxiety disorders	Eu40	Eu40.00	386810004		Yes		Include	
+420671000006112	[X]Phobic state NOS	Eu40z-2	Eu40z12	386810004		Yes		Include	
+423021000006114	[X]Post - traumatic stress disorder	Eu431	Eu43100	47505003			Yes	Include	
+423611000006111	[X]Prolonged single episode of reactive depression	Eu32z-3	Eu32z13	87414006	Yes			Include	
+423811000006112	[X]Psychic shock	Eu430-5	Eu43015	67195008			Yes	Include	
+424471000006119	[X]Reaction to severe stress, and adjustment disorders	Eu43	Eu43.00	271952001			Yes	Include	
+296272014	[X]Reaction to severe stress, unspecified	Eu43z	Eu43z00	271952001			Yes	Include	
+424531000006118	[X]Recurr depress disorder cur epi severe without psyc sympt	Eu332	Eu33200	310497006	Yes			Include	
+424551000006113	[X]Recurr severe episodes/psychogenic depressive psychosis	Eu333-4	Eu33314	191613003	Yes			Include	
+424561000006110	[X]Recurrent brief depressive episodes	Eu3y1-1	Eu3y111	40568001	Yes			Include	
+401873013	[X]Recurrent depressive disorder	Eu33	Eu33.00	191616006	Yes			Include	
+296180012	[X]Recurrent depressive disorder, current episode mild	Eu330	Eu33000	310495003	Yes			Include	
+296181011	[X]Recurrent depressive disorder, current episode moderate	Eu331	Eu33100	310496002	Yes			Include	
+401876017	[X]Recurrent depressive disorder, unspecified	Eu33z	Eu33z00	191616006	Yes			Include	
+424631000006119	[X]Recurrent episodes of depressive reaction	Eu33-1	Eu33.11	191616006	Yes			Include	
+424641000006112	[X]Recurrent episodes of psychogenic depression	Eu33-2	Eu33.12	191616006	Yes			Include	
+424651000006114	[X]Recurrent episodes of reactive depression	Eu33-3	Eu33.13	191616006	Yes			Include	
+424671000006116	[X]Recurrent severe episodes of psychotic depression	Eu333-5	Eu33315	191613003	Yes			Include	
+11921141000006100	[X]Recurrent severe episodes/reactive depressive psychosis	^ESCT1192114		191613003	Yes			Include	
+425411000006110	[X]SAD - Seasonal affective disorder	Eu33-5	Eu33.15	247803002	Yes			Include	
+425751000006115	[X]Seasonal depressive disorder	Eu33-4	Eu33.14	247803002	Yes			Include	
+296722013	[X]Separation anxiety disorder of childhood	Eu930	Eu93000	11806006		Yes		Include	
+11921301000006100	[X]Severe depressive episode without psychotic symptoms	^ESCT1192130		397701000000102	Yes			Include	
+401866015	[X]Severe depressive episode without psychotic symptoms	Eu322	Eu32200	310497006	Yes			Include	
+426871000006113	[X]Simple phobia	Eu402-4	Eu40214	386810004		Yes		Include	
+426891000006114	[X]Single episode agitated depressn w'out psychotic symptoms	Eu322-1	Eu32211	310497006	Yes			Include	
+223741000000112	[X]Single episode major depression w'out psychotic symptoms	Eu322-2	Eu32212	310497006	Yes			Include	
+426911000006111	[X]Single episode of depressive reaction	Eu32-1	Eu32.11	87414006	Yes			Include	
+426941000006110	[X]Single episode of psychogenic depression	Eu32-2	Eu32.12	87414006	Yes			Include	
+426951000006112	[X]Single episode of psychogenic depressive psychosis	Eu323-2	Eu32312	191676002	Yes			Include	
+426971000006119	[X]Single episode of reactive depression	Eu32-3	Eu32.13	87414006	Yes			Include	
+426981000006116	[X]Single episode of reactive depressive psychosis	Eu323-4	Eu32314	191676002	Yes			Include	
+426991000006118	[X]Single episode vital depression w'out psychotic symptoms	Eu322-3	Eu32213	310497006	Yes			Include	
+318033015	[X]State of emotional shock and stress, unspecified	Ryu58	Ryu5800	442347009			Yes	Include	
+429421000006116	[X]Traumatic neurosis	Eu431-1	Eu43111	47505003			Yes	Include	
+401879012	[X]Unspecified mood affective disorder	Eu3z	Eu3z.00	46206005		Yes		Include	
+432511000006119	[X]Vital depression, recurrent without psychotic symptoms	Eu332-4	Eu33214	310497006	Yes			Include	
+3592671000006110	Acute crisis reaction	^ESCTAC359267		67195008			Yes	Include	
+295475018	Acute fugue state due to acute stress reaction	E281	E281.00	192038005		Yes	Yes	Include	
+295474019	Acute panic state due to acute stress reaction	E280	E280.00	192037000		Yes	Yes	Include	
+459711000006119	Acute posttrauma stress state	E2831	E283100	192042008			Yes	Include	
+3592701000006110	Acute reaction to stress	^ESCTAC359270		67195008			Yes	Include	
+500650019	Acute reaction to stress	E28	E28..00	67195008			Yes	Include	
+295478016	Acute situational disturbance	E2830	E283000	192041001			Yes	Include	
+3592651000006110	Acute stress disorder	^ESCTAC359265		67195008			Yes	Include	
+401810015	Acute stress reaction NOS	E28z	E28z.00	67195008			Yes	Include	
+295476017	Acute stupor state due to acute stress reaction	E282	E282.00	192039002		Yes	Yes	Include	
+3265831000006110	Adjustment disorder with anxiety	^ESCTAD326583		47372000		Yes		Include	
+3265811000006110	Adjustment disorder with anxious mood	^ESCTAD326581		47372000		Yes		Include	
+1806431000006110	Adjustment disorder with depressed mood	EMISNQAD51		57194009	Yes			Include	
+1230451012	Adjustment reaction with anxious mood	E2924	E292400	47372000		Yes		Include	
+481850015	Agitated	1B16	1B16.00	24199005		Yes	Yes	Include	
+474161000006117	Agitated - symptom	1B16-1	1B16.11	24199005		Yes	Yes	Include	
+2885971000006110	Agitated behavior	^ESCTAG288597		24199005		Yes	Yes	Include	
+2885961000006110	Agitated behaviour	^ESCTAG288596		24199005		Yes	Yes	Include	
+2885951000006110	Agitation	^ESCTAG288595		24199005		Yes		Include	
+294992011	Agoraphobia with panic attacks	E2021	E202100	191722009		Yes		Include	
+3287741000006110	Anxiety	^ESCTAN328774		48694002		Yes		Include	
+5024071000006110	Anxiety depression	^ESCTAN502407		231504006	Yes	Yes		Include	
+3287771000006110	Anxiety reaction	^ESCTAN328777		48694002		Yes		Include	
+304838011	Anxiety state	E200-99	E200.99	198288003		Yes		Include	
+294963012	Anxiety state NOS	E200z	E200z00	198288003		Yes		Include	
+294953016	Anxiety state unspecified	E2000	E200000	198288003		Yes		Include	
+488201000006114	Anxiety states	E200	E200.00	197480006		Yes		Include	
+488211000006112	Anxiety with depression	E2003	E200300	231504006	Yes	Yes		Include	
+516601000000113	Anxious	1B13-2	1B13.12	48694002		Yes		Include	
+2536376012	Anxiousness	1B13	1B13.00	48694002		Yes		Include	
+488251000006113	Anxiousness - symptom	1B13-1	1B13.11	48694002		Yes		Include	
+502726016	Bereavement	13Hc	13Hc.00	74506000			Yes	Include	
+3711051000006110	Bereavement due to life event	^ESCTBE371105		74506000			Yes	Include	
+502727013	Bereavement reaction	E2900-1	E290011	74506000			Yes	Include	
+525921000006119	Brief depressive reaction	E290	E290.00	192046006	Yes			Include	
+295494011	Brief depressive reaction NOS	E290z	E290z00	192046006	Yes			Include	
+407062014	C/O - feeling depressed	1B17-1	1B17.11	272022009	Yes			Include	
+407066012	C/O - feeling unhappy	1B17-2	1B17.12	272024005	Yes			Include	
+1488717011	C/O - panic attack	1B1V	1B1V.00	395017009		Yes		Include	
+882651000006119	Chron post-traum stress dis	E29y1-99	E29y199	620181000000106			Yes	Include	
+294960010	Chronic anxiety	E2004	E200400	191708009		Yes		Include	
+295537016	Chronic depression	E2B1	E2B1.00	192080009	Yes			Include	
+5532721000006110	Complaining of feeling depressed	^ESCTCO553272		272022009	Yes			Include	
+5532751000006110	Complaining of feeling unhappy	^ESCTCO553275		272024005	Yes			Include	
+6550101000006110	Complaining of panic attack	^ESCTCO655010		395017009		Yes		Include	
+3071801000006110	Depressed	^ESCTDE307180		35489007	Yes			Include	
+2164006016	Depressed	1B17	1B17.00	366979004	Yes			Include	
+2164005017	Depressed mood	1BT	1BT..00	366979004	Yes			Include	
+882671000006112	Depression	E2B-98	E2B..98	609311000000100	Yes			Include	
+1823881000006110	Depression confirmed	EMISNQDE36		1823881000006100	Yes			Include	
+882681000006110	Depression NOS	E2B-99	E2B..99	609311000000100	Yes			Include	
+5024511000006110	Depressive conduct disorder	^ESCTDE502451		231542000	Yes			Include	
+12727931000006100	Depressive disorder NEC	^ESCT1272793		609311000000100	Yes			Include	
+295535012	Depressive disorder NEC	E2B	E2B..00	35489007	Yes			Include	
+3071791000006110	Depressive illness	^ESCTDE307179		35489007	Yes			Include	
+613791000006115	Depressive psychoses	E11-2	E11..12	35489007	Yes			Include	
+1494612017	Depressive symptoms	1B1U-1	1B1U.11	394924000	Yes			Include	
+959221000006118	Difficulty managing stress	EMISCDI6		959221000006102			Yes	Include	
+3246481000006110	Disorder of affect	^ESCTDI324648		46206005	Yes			Include	
+6358151000006110	Episodic paroxysmal anxiety disorder	^ESCTEP635815		371631005		Yes		Include	
+2885941000006110	Feeling agitated	^ESCTFE288594		24199005		Yes	Yes	Include	
+3287761000006110	Feeling anxious	^ESCTFE328776		48694002		Yes		Include	
+338135018	Feeling stressed	1B1T	1B1T.00	224974006			Yes	Include	
+2848311000006110	GAD - Generalised anxiety disorder	^ESCTGA284831		21897009		Yes		Include	
+2848301000006110	GAD - Generalized anxiety disorder	^ESCTGA284830		21897009		Yes		Include	
+481154010	Generalised anxiety disorder	E2002	E200200	21897009		Yes		Include	
+2848291000006110	Generalized anxiety disorder	^ESCTGE284829		21897009		Yes		Include	
+958591000006110	Grief	EMISCGR1		958591000006106			Yes	Include	
+974331000006113	Grief NOS	EMISCGR4		974331000006109			Yes	Include	
+123751014	Grief reaction	E2900	E290000	74506000			Yes	Include	
+3592661000006110	Gross stress reaction	^ESCTGR359266		67195008			Yes	Include	
+959811000006113	Irritable/agitated	EMISCIR1		959811000006109		Yes	Yes	Include	
+981111000006112	Irritable/agitated/aggressive	EMISCIR3		981111000006108		Yes		Include	
+2164009011	Low mood	1BT-1	1BT..11	366979004	Yes			Include	
+3094941000006110	Major depression, single episode	^ESCTMA309494		36923009	Yes			Include	
+3094951000006110	Major depressive disorder, single episode	^ESCTMA309495		36923009	Yes			Include	
+6000691000006110	Mild depression	^ESCTMI600069		310495003	Yes			Include	
+882811000006119	Mild depression	Eu320-99	Eu32099	430421000000104	Yes			Include	
+1975991000006110	Mild depressive episode, with somatic syndrome	EMISICD10|F3201		1975991000006100	Yes			Include	
+1975981000006110	Mild depressive episode, without somatic syndrome	EMISICD10|F3200		1975981000006100	Yes			Include	
+3789581000006110	Mild major depression, single episode	^ESCTMI378958		79298009	Yes			Include	
+1976491000006110	Mixed anxiety and depressive reaction	EMISICD10|F4322		1976491000006100	Yes	Yes		Include	
+6000711000006110	Moderate depression	^ESCTMO600071		310496002	Yes			Include	
+882821000006110	Moderate depression	Eu321-99	Eu32199	465441000000108	Yes			Include	
+1976051000006110	Moderate depressive episode, with somatic syndrome	EMISICD10|F3211		1976051000006100	Yes			Include	
+1976021000006110	Moderate depressive episode, without somatic syndrome	EMISICD10|F3210		1976021000006100	Yes			Include	
+2748031000006110	Moderate major depression, single episode	^ESCTMO274803		15639000	Yes			Include	
+3071811000006110	Mood disorder of depressed type	^ESCTMO307181		35489007	Yes			Include	
+3711021000006110	Mourning	^ESCTMO371102		74506000			Yes	Include	
+677031000006115	Nervous exhaustion	E205-1	E205.11	78667006			Yes	Include	
+11924881000006100	Neurasthenia	^ESCT1192488		78667006			Yes	Include	
+677321000006115	Neurasthenia - nervous debility	E205	E205.00	78667006			Yes	Include	
+675861000006113	Neurotic depression reactive type	E204	E204.00	87414006	Yes			Include	
+253620013	O/E - anxious	2258	2258	162723006		Yes		Include	
+253619019	O/E - depressed	2257	2257	162722001	Yes			Include	
+2549895012	O/E - panic attack	225J	225J.00	417676004		Yes		Include	
+4550971000006110	On examination - anxious	^ESCTON455097		162723006		Yes		Include	
+4550951000006110	On examination - depressed	^ESCTON455095		162722001	Yes			Include	
+6910391000006110	On examination - panic attack	^ESCTON691039		417676004		Yes		Include	
+295483012	Other acute stress reaction NOS	E283z	E283z00	67195008			Yes	Include	
+295477014	Other acute stress reactions	E283	E283.00	67195008			Yes	Include	
+12730101000006100	Other post-traumatic stress disorder	^ESCT1273010		620181000000106			Yes	Include	
+295512014	Other post-traumatic stress disorder	E29y1	E29y100	47505003			Yes	Include	
+1976411000006110	Other recurrent mood affective disorders, recurrent brief depressive disorder	EMISICD10|F3810		1976411000006100	Yes			Include	
+1976371000006110	Other single mood affective disorders, mixed affective episode	EMISICD10|F3800		1976371000006100	Yes			Include	
+339044013	Panic attack	E2001-1	E200111	225624000		Yes		Include	
+1210253015	Panic disorder	E2001	E200100	371631005		Yes		Include	
+1808521000006110	Panic disorder without agoraphobia	EMISNQPA155		56576003		Yes		Include	
+223641000000116	Phobic anxiety	E202-2	E202.12	386810004		Yes		Include	
+853241000006119	Phobic anxiety	EGTON122		853241000006103		Yes		Include	
+401780016	Phobic disorder NOS	E202z	E202z00	386810004		Yes		Include	
+223631000000113	Phobic disorders	E202	E202.00	386810004		Yes		Include	
+882371000006118	Phobic state	E202-99	E202.99	386810004		Yes		Include	
+3268061000006110	Posttraumatic stress disorder	^ESCTPO326806		47505003			Yes	Include	
+3268091000006110	Post-traumatic stress syndrome	^ESCTPO326809		47505003			Yes	Include	
+295536013	Postviral depression	E2B0	E2B0.00	192079006	Yes			Include	
+3592691000006110	Psychic shock	^ESCTPS359269		67195008			Yes	Include	
+294918011	Psychotic reactive depression	E130-1	E130.11	191676002	Yes			Include	
+3268081000006110	PTSD - Post-traumatic stress disorder	^ESCTPT326808		47505003			Yes	Include	
+882401000006115	Reactive (neurotic) depression	E204-99	E204.99	87414006	Yes			Include	
+294917018	Reactive depressive psychosis	E130	E130.00	191676002	Yes			Include	
+294961014	Recurrent anxiety	E2005	E200500	191709001		Yes		Include	
+3153071000006110	Recurrent brief depressive disorder	^ESCTRE315307		40568001	Yes			Include	
+294844012	Recurrent depression	E1137	E113700	191616006	Yes			Include	
+1976231000006110	Recurrent depressive disorder, current episode mild, with somatic syndrome	EMISICD10|F3301		1976231000006100	Yes			Include	
+1976211000006110	Recurrent depressive disorder, current episode mild, without somatic syndrome	EMISICD10|F3300		1976211000006100	Yes			Include	
+1976271000006110	Recurrent depressive disorder, current episode moderate, with somatic syndrome	EMISICD10|F3311		1976271000006100	Yes			Include	
+1976251000006110	Recurrent depressive disorder, current episode moderate, without somatic syndrome	EMISICD10|F3310		1976251000006100	Yes			Include	
+182721000006111	Recurrent major depressive episode	E113	E113.00	268621008	Yes			Include	
+294845013	Recurrent major depressive episode NOS	E113z	E113z00	268621008	Yes			Include	
+8237831000006110	Recurrent major depressive episodes, in partial remission	^ESCTRE823783		764691000000109	Yes			Include	
+294837015	Recurrent major depressive episodes, mild	E1131	E113100	191610000	Yes			Include	
+294838013	Recurrent major depressive episodes, moderate	E1132	E113200	191611001	Yes			Include	
+182771000006112	Recurrent major depressive episodes, severe, no psychosis	E1133	E113300	764611000000100	Yes			Include	
+294840015	Recurrent major depressive episodes, severe, with psychosis	E1134	E113400	191613003	Yes			Include	
+294836012	Recurrent major depressive episodes, unspecified	E1130	E113000	268621008	Yes			Include	
+182801000006114	Recurrent major depressive episodes,partial/unspec remission	E1135	E113500	764691000000109	Yes			Include	
+1808511000006110	Recurrent panic attacks	JHCRE17		1808511000006100		Yes		Include	
+983861000006115	Sad mood	1BT-2	1BT..12	366979004	Yes			Include	
+369982012	Seasonal affective disorder	E118	E118.00	247803002	Yes			Include	
+441512015	Separation anxiety disorder	E2920	E292000	11806006		Yes		Include	
+6000721000006110	Severe depression	^ESCTSE600072		310497006	Yes			Include	
+882831000006113	Severe depression	Eu322-99	Eu32299	397701000000102	Yes			Include	
+7965131000006110	Severe major depression, single episode	^ESCTSE796513		251000119105	Yes			Include	
+3087971000006110	Severe recurrent major depression without psychotic features	^ESCTSE308797		36474008	Yes			Include	
+401766011	Single major depressive episode	E112	E112.00	36923009	Yes			Include	
+294832014	Single major depressive episode NOS	E112z	E112z00	36923009	Yes			Include	
+294825017	Single major depressive episode, mild	E1121	E112100	79298009	Yes			Include	
+12451461000006100	Single major depressive episode, moderate	^ESCT1245146		15639000	Yes			Include	
+294826016	Single major depressive episode, moderate	E1122	E112200	15639000	Yes			Include	
+142541000006115	Single major depressive episode, severe, without psychosis	E1123	E112300	251000119105	Yes			Include	
+294824018	Single major depressive episode, unspecified	E1120	E112000	36923009	Yes			Include	
+4766771000006110	Stress reaction causing mixed disturbance	^ESCTST476677		192044009			Yes	Include	
+121871000006118	Stress reaction causing mixed disturbance of emotion/conduct	E284	E284.00	192044009			Yes	Include	
+121881000006115	Stress related problem	1B1L	1B1L.00	162218007			Yes	Include	
+4934751000006110	Stressed out	^ESCTST493475		224974006			Yes	Include	
+1488626018	Symptoms of depression	1B1U	1B1U.00	394924000	Yes			Include	
+3268071000006110	Traumatic neurosis	^ESCTTR326807		47505003			Yes	Include	

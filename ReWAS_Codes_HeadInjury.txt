@@ -1,0 +1,48 @@
+medcodeid	observations	originalreadcode	cleansedreadcode	term	snomedctconceptid	rewas_readcode	HeadInjury
+390672011	30000	S64-1	S64..11	Traumatic AND/OR non-traumatic brain injury	127294003	S64	1
+4396211000006113	2	^ESCTBR439621		Brain tissue injury	127294003		1
+4396231000006119	1	^ESCTBR439623		Brain damage	127294003		1
+4396241000006112	20	^ESCTAC439624		Acquired brain injury	127294003		1
+769321000006113	30	S641z	S641z00	Intracranial inj NOS + open intracran wnd+concussion unspec	127296001	S64	1
+746591000006115	4	S6415	S641500	Intracran inj NOS + open intracran wnd+>24hr LOC -restored	127296001	S64	1
+768891000006113	40000	S64	S64..00	Intracranial injury	127296001	S64	1
+325305011	800	Syu0E	Syu0E00	[X]Intracranial injury, unspecified	127296001	Syu	1
+769331000006111	7	S6413	S641300	Intracranial inj NOS + open intracranial wnd + 1-24hr LOC	127296001	S64	1
+768871000006112	8000	S6401	S640100	Intracranial inj NOS no open intracran wnd+no loss consc	127296001	S64	1
+746601000006111	9	S6416	S641600	Intracran inj NOS + open intracran wnd+LOC unspec duration	127296001	S64	1
+769311000006117	6	S6414	S641400	Intracranial inj NOS + open intracran wnd+>24hr LOC+recovery	127296001	S64	1
+746611000006114	20	S6405	S640500	Intracran inj NOS no open intracran wnd+>24hr LOC -restored	127296001	S64	1
+768831000006114	100	S6402	S640200	Intracranial inj NOS no open intracran wnd+<1hr loss consc	127296001	S64	1
+768921000006119	5000	S640	S640.00	Intracranial injury NOS no open intracranial wound	127296001	S64	1
+768911000006110	200	S641	S641.00	Intracranial injury NOS + open intracranial wound	127296001	S64	1
+769361000006119	600	S6411	S641100	Intracranial inj NOS + open intracranial wound+no loss consc	127296001	S64	1
+769351000006116	9	S6412	S641200	Intracranial inj NOS + open intracranial wnd+<1hr loss consc	127296001	S64	1
+768861000006117	50	S640z	S640z00	Intracranial inj NOS no open intracran wnd+concussion unspec	127296001	S64	1
+325304010	200	Syu0D	Syu0D00	[X]Other intracranial injuries	127296001	Syu	1
+769341000006118	30	S6410	S641000	Intracranial inj NOS + open intracranial wnd + unspec consc	127296001	S64	1
+768851000006119	20	S6403	S640300	Intracranial inj NOS no open intracran wnd+1-24hr loss consc	127296001	S64	1
+402934010	20000	S64z	S64z.00	Intracranial injury NOS	127296001	S64	1
+768821000006111	70	S6400	S640000	Intracranial inj NOS no open intracran wnd + unspec consc	127296001	S64	1
+768841000006116	20	S6404	S640400	Intracranial inj NOS no open intracran wnd+>24hr LOC+recover	127296001	S64	1
+746621000006118	400	S6406	S640600	Intracran inj NOS no open intracran wnd+LOC unspec duration	127296001	S64	1
+320930015	500	S644	S644.00	Focal brain injury	210038008	S64	1
+320931016	500	S645	S645.00	Intracranial injury with prolonged coma	210039000	S64	1
+345756012	300	S642	S642.00	Traumatic cerebral oedema	230763008	S64	1
+390682012	2000	S643	S643.00	Diffuse brain injury	262693007	S64	1
+5455861000006111	20	^ESCTDI545586		Diffuse axonal brain injury	262693007		1
+409932013	1000000	S6460	S646000	Minor head injury	274164006	S64	1
+698741000006119	300000	S6401-1	S640111	Minor head injury	274164006	S64	1
+455455016	20	S6420	S642000	Traumatic cerebral oedema without open intracranial wound	311825006	S64	1
+455458019	6	S6421	S642100	Traumatic cerebral oedema with open intracranial wound	311826007	S64	1
+455459010	20	S6450	S645000	Intracranial injury with prolonged coma without open wound	311827003	S64	1
+455461018	10	S6451	S645100	Intracranial injury with prolonged coma with open wound	311829000	S64	1
+896541000006117	700	S64z-99	S64z.99	Intracerebral injury NOS	684491000000102	S64	1
+2273491000000112	4000	S647	S647.00	Acquired brain injury	702632000	S64	1
+325312019	90	Syu0L	Syu0L00	[X]Other specified injuries of head	82271004	Syu	1
+325290013	100000	Syu0	Syu0.00	Injury of head	82271004	Syu	1
+390461014	100000	S64-2	S64..12	Head injury NOS	82271004	S64	1
+817721000006116	500000	S64-3	S64..13	Head injury	82271004	S64	1
+817741000006111	30000	8A31	8A31.00	Head injury - nursing supervis	82271004	8A3	1
+3838161000006114	20	^ESCTIN383816		Injury of head region	82271004		1
+136462012	900000	S646	S646.00	Head injury	82271004	S64	1
+3838151000006112	20	^ESCTHI383815		HI - Head injury	82271004		1

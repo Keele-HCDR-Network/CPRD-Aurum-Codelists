@@ -1,0 +1,642 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	EmisCodeCategoryId
+316931000000112	6000	8B2R	8B2R.00	Drug addiction detoxification therapy - buprenorphine	206131000000102	316931000000112	32
+302981000000113	20000	8B2N	8B2N.00	Drug addiction detoxification therapy - methadone	200021000000100	302981000000113	32
+316901000000118	30000	8B2Q	8B2Q.00	Drug addiction maintenance therapy - buprenorphine	206121000000104	316901000000118	32
+1715521000000114	10	8B231	8B23100	Drug addiction maintenance therapy - lofexidine	768711000000101	1715521000000114	32
+303011000000111	80000	8B2P	8B2P.00	Drug addiction maintenance therapy - methadone	200031000000103	303011000000111	32
+1715481000000114	100	8B230	8B23000	Drug addiction maintenance therapy - naltrexone	768691000000103	1715481000000114	32
+397153012	700000	8B23	8B23.00	Drug addiction therapy	266707007	397153012	32
+630131000006118	300000	8B23-1	8B23.11	Drug addiction therapy - methadone	310653000	454263010	32
+630361000006113	60000	8B23-3	8B23.13	Drug dependence therapy	266707007	397153012	32
+910591000006118	200	HNGNQRF104		[RFC] Drug addiction	910591000006102	910591000006118	12
+379251000006119	8000	Eu122-1	Eu12211	[X]Drug addiction - cannabis	85005007	140938016	32
+379261000006117	6000	Eu142-1	Eu14211	[X]Drug addiction - cocaine	31956009	53398019	32
+379271000006112	90	Eu162-1	Eu16211	[X]Drug addiction - hallucinogen	38247002	64025010	32
+379281000006110	30000	Eu112-1	Eu11211	[X]Drug addiction - opioids	75544000	125472011	32
+295213015	500	Eu182-1	Eu18211	[X]Drug addiction - solvent	191853003	295213015	32
+379301000006114	3000	Eu192-1	Eu19211	[X]Drug addiction NOS	191816009	295145018	32
+379311000006112	6000	Eu132-1	Eu13211	[X]Drug addiction- sedative / hypnotics	427327003	2673574010	32
+379321000006116	1000	Eu152-1	Eu15211	[X]Drug addiction-other stimul	191816009	295145018	32
+318059017	3	Ryu86	Ryu8600	[X]Finding of other drugs of addictive potential in blood	935531000000107	2396111000000116	32
+371621000000117	3000	7P220	7P22000	Delivery of rehabilitation for drug addiction	231221000000105	371621000000117	32
+342438017	600	1V0C	1V0C.00	Drug addict	228373001	342438017	27
+295146017	80000	E24-1	E24..11	Drug addiction	6525002	11819014	32
+3476221000006116	1	^ESCTDR347622		Drug addiction counseling	60112009	99861010	32
+461113010	30000	ZV6D7	ZV6D700	Drug addiction counselling	60112009	1207797010	32
+8061171000006115	200	^ESCTDR806117		Drug addiction therapy - buprenorphine	201311000000102	306201000000111	31
+680771000006112	2000	Q4850	Q485000	Neonatal withdrawal symptoms from maternal use of drugs of addiction	206572008	316813011	32
+2566911000006114	100	^ESCTPA256691		Patient referral for drug addiction rehabilitation	4266003	2566911000006114	40
+13763901000006112	70	^ESCT1376390		Referral to drug addiction rehabilitation service	4266003	3705394010	40
+910581000006116	2000	HNGNQRF103		[RFC] Drug/ substance abuse	910581000006100	910581000006116	12
+4177311000006117	1	^ESCTCH417731		Chronic drug abuse	110281001	175057016	31
+2604131000006116	8	^ESCTDE260413		Dependent drug abuse	6525002	11818018	32
+5506501000006116	1	^ESCTDE550650		Dependent sedative or hypnotic drug abuse	268640002	401792016	32
+2923041000006117	1000	^ESCTDR292304		Drug abuse	26416006	44243014	17
+4979111000006111	1	^ESCTDR497911		Drug abuse behavior	228366006	342428010	27
+4979091000006119	50	^ESCTDR497909		Drug abuse behaviour	228366006	342426014	27
+6218931000006110	9	^ESCTDR621893		Drug abuser	361055000	477159018	17
+4979221000006113	2	^ESCTPO497922		Poly-drug abuser	228372006	342436018	27
+1780455014	10000	8H7x	8H7x.00	Referral to drug abuse counsellor	401266006	1780455014	40
+253488010	10000	1J1	1J1..00	Suspected drug abuse	162591001	253488010	27
+401801011	2000	E25y	E25y.00	Non dependent drug abuse	49540005	82514017	32
+295322016	1000	E259	E259.00	Nondependent mixed drug abuse	191934007	295322016	32
+295328017	200	E259z	E259z00	Nondependent mixed drug abuse NOS	191934007	295322016	32
+295324015	60	E2591	E259100	Nondependent mixed drug abuse, continuous	191936009	295324015	32
+295325019	100	E2592	E259200	Nondependent mixed drug abuse, episodic	191937000	295325019	32
+295323014	700	E2590	E259000	Nondependent mixed drug abuse, unspecified	191934007	295322016	32
+295338010	20	E25y3	E25y300	Nondependent other drug abuse in remission	66214007	109958011	17
+295336014	50	E25y1	E25y100	Nondependent other drug abuse, continuous	426590003	2674598013	32
+295337017	70	E25y2	E25y200	Nondependent other drug abuse, episodic	66214007	109958011	17
+295335013	80	E25y0	E25y000	Nondependent other drug abuse, unspecified	66214007	109958011	17
+8065181000006115	10	^ESCTEP806518		Episodic nondependent crack cocaine abuse	204641000000107	313541000000119	31
+500344018	20000	E25	E25..00	Nondependent abuse of drugs	66214007	500344018	17
+401797010	100000	E250	E250.00	Nondependent alcohol abuse	268645007	401797010	32
+295254011	900	E2503	E250300	Nondependent alcohol abuse in remission	191884001	295254011	32
+295255012	5000	E250z	E250z00	Nondependent alcohol abuse NOS	268645007	401797010	32
+295252010	3000	E2501	E250100	Nondependent alcohol abuse, continuous	191882002	295252010	32
+295253017	4000	E2502	E250200	Nondependent alcohol abuse, episodic	191883007	295253017	32
+295251015	40000	E2500	E250000	Nondependent alcohol abuse, unspecified	268645007	401797010	32
+2475580010	50	E257z-1	E257z11	Nondependent amfetamine or psychostimulant abuse NOS	268648009	401800012	32
+2475577014	6	E2571-1	E257111	Nondependent amfetamine or psychostimulant abuse, continuous	191924003	2475577014	32
+2475578016	6	E2572-1	E257211	Nondependent amfetamine or psychostimulant abuse, episodic	191925002	2475578016	32
+938481000006114	1	E2573-1	E257311	Nondependent amfetamine/psychostimulant abuse in remission	414874007	2534808016	32
+938451000006118	30	E2570-1	E257011	Nondependent amfetamine/psychostimulant abuse, unspecified	268648009	401800012	32
+401800012	3000	E257	E257.00	Nondependent amphetamine or other psychostimulant abuse	268648009	401800012	32
+586641000006118	80	E2573	E257300	Nondependent amphetamine or psychostimulant abuse in remission	414874007	2534808016	32
+295314011	300	E257z	E257z00	Nondependent amphetamine or psychostimulant abuse NOS	268648009	401800012	32
+586651000006116	70	E2571	E257100	Nondependent amphetamine or psychostimulant abuse, continuous	191924003	295311015	32
+295312010	200	E2572	E257200	Nondependent amphetamine or psychostimulant abuse, episodic	191925002	295312010	32
+586661000006119	800	E2570	E257000	Nondependent amphetamine/psychostimulant abuse, unspecified	268648009	401800012	32
+295261010	40000	E252	E252.00	Nondependent cannabis abuse	191891003	295261010	32
+295265018	100	E2523	E252300	Nondependent cannabis abuse in remission	191895007	295265018	32
+295266017	3000	E252z	E252z00	Nondependent cannabis abuse NOS	191891003	295261010	32
+295263013	700	E2521	E252100	Nondependent cannabis abuse, continuous	191893000	295263013	32
+295264019	1000	E2522	E252200	Nondependent cannabis abuse, episodic	191894006	295264019	32
+295262015	2000	E2520	E252000	Nondependent cannabis abuse, unspecified	191891003	295261010	32
+295299015	10000	E256	E256.00	Nondependent cocaine abuse	191916008	295299015	32
+295303013	60	E2563	E256300	Nondependent cocaine abuse in remission	191920007	295303013	32
+295305018	300	E256z	E256z00	Nondependent cocaine abuse NOS	191916008	295299015	32
+295301010	100	E2561	E256100	Nondependent cocaine abuse, continuous	191918009	295301010	32
+295302015	700	E2562	E256200	Nondependent cocaine abuse, episodic	191919001	295302015	32
+295300011	600	E2560	E256000	Nondependent cocaine abuse, unspecified	191916008	295299015	32
+401798017	400	E253	E253.00	Nondependent hallucinogen abuse	268646008	401798017	32
+295275015	10	E2533	E253300	Nondependent hallucinogen abuse in remission	191901005	295275015	32
+295276019	40	E253z	E253z00	Nondependent hallucinogen abuse NOS	268646008	401798017	32
+295272017	7	E2531	E253100	Nondependent hallucinogen abuse, continuous	191899001	295272017	32
+295274016	30	E2532	E253200	Nondependent hallucinogen abuse, episodic	191900006	295274016	32
+295271012	60	E2530	E253000	Nondependent hallucinogen abuse, unspecified	268646008	401798017	32
+401799013	300	E254	E254.00	Nondependent hypnotic or anxiolytic abuse	268647004	401799013	32
+295288017	2	E2543	E254300	Nondependent hypnotic or anxiolytic abuse in remission	191907009	295288017	32
+295289013	40	E254z	E254z00	Nondependent hypnotic or anxiolytic abuse NOS	268647004	401799013	32
+295286018	30	E2541	E254100	Nondependent hypnotic or anxiolytic abuse, continuous	191905001	295286018	32
+295287010	40	E2542	E254200	Nondependent hypnotic or anxiolytic abuse, episodic	191906000	295287010	32
+295285019	30	E2540	E254000	Nondependent hypnotic or anxiolytic abuse, unspecified	268647004	401799013	32
+295326018	30	E2593	E259300	Nondependent mixed drug abuse in remission	191938005	295326018	32
+295290016	2000	E255	E255.00	Nondependent opioid abuse	191909007	295290016	32
+295297018	40	E2553	E255300	Nondependent opioid abuse in remission	191914006	295297018	32
+295298011	50	E255z	E255z00	Nondependent opioid abuse NOS	191909007	295290016	32
+295295014	20	E2551	E255100	Nondependent opioid abuse, continuous	191912005	295295014	32
+295296010	70	E2552	E255200	Nondependent opioid abuse, episodic	191913000	295296010	32
+295293019	80	E2550	E255000	Nondependent opioid abuse, unspecified	191909007	295290016	32
+910601000006114	2000	HNGNQRF105		[RFC] Substance abuse	910601000006105	910601000006114	12
+460277016	2000	ZV114	ZV11400	[V]Personal history of psychoactive substance abuse	371422002	1196720012	17
+359661000006117	600	Eu55-3	Eu55.13	[X]Abuse of steroids or hormones	268727002	401897016	32
+424251000006111	20	U6097	U609700	[X]Psychostimulants with abuse potential causing adverse effects in therapeutic use	292410009	432548018	5
+2740361000006119	1	^ESCTAA274036		AA - Alcohol abuse	15167005	477199015	32
+961561000006116	1	EMISCAB15		Abuses over-the-counter/illicit drugs	961561000006100	961561000006116	27
+3878511000006117	100	^ESCTAM387851		Amphetamine abuse	84758004	140514014	31
+481371000006116	4000	E25y-1	E25y.11	Analgesic abuse	49540005	82514017	32
+346928016	100	E254-1	E254.11	Barbiturate abuse	231462006	346928016	32
+397831000006113	6000	Eu121	Eu12100	Cannabis abuse	37344009	62301010	32
+9356671000006113	5	^ESCTCA935667		Cannabis hyperemesis syndrome co-occurrent and due to cannabis abuse	11047881000119101	3447207016	31
+5689781000006117	1	^ESCTCH568978		Chronic alcohol abuse	284591009	423308014	31
+397891000006112	5000	Eu141	Eu14100	Cocaine abuse	78267003	129874012	32
+6025041000006113	1	^ESCTCO602504		Counseling for substance abuse	313071005	2692464014	17
+6025051000006110	2	^ESCTCO602505		Counselling for substance abuse	313071005	2695598010	17
+1892141000006110	70	EMISNQCP65		CPU risk factor (parent/carer) - alcohol abuse	1892141000006106	1892141000006110	37
+1892131000006117	80	EMISNQCP64		CPU risk factor (parent/carer) - drug abuse	1892131000006101	1892131000006117	37
+3157421000006119	7	^ESCTDR315742		Drug of abuse, quantitative screen, includes amphetamines, barbiturates, benzodiazepines, cannabinoids, cocaine, methadone, methaqualone, opiates, phencyclidines and propoxyphene	40823001	68084019	31
+2740351000006116	6	^ESCTET274035		Ethanol abuse	15167005	477198011	32
+2476701016	40000	146F	146F.00	H/O: drug abuse	371435006	2476701016	32
+5008561000006119	3	^ESCTHE500856		Headache associated with substance abuse or withdrawal	230483008	345376016	31
+6354581000006114	500	^ESCTHI635458		History of alcohol abuse	371434005	1210092019	27
+2474734017	4000	ZV115	ZV11500	History of drug abuse	371435006	1210093012	32
+9921921000006119	4	^ESCTHI992192		History of intravenous drug abuse	16464661000119103	3434061019	31
+346501000006111	800	ZV113-1	ZV11311	History of substance abuse	371422002	1196720012	17
+12703401000006113	2000	^ESCT1270340		History of substance abuse	371422002	1210081015	17
+346927014	200	E254-2	E254.12	Hypnotic or anxiolytic abuse	231461004	346927014	32
+7860121000006115	2	^ESCTKE786012		Ketamine abuse	724713006	3445207015	5
+7522331000006114	1	^ESCTME752233		Methamphetamine abuse	699449003	2984446019	31
+882531000006110	5000	E250-99	E250.99	Non-dependent abuse of alcohol	268645007	882531000006110	32
+882521000006112	2000	E25-99	E25..99	Non-dependent abuse of drugs	66214007	882521000006112	17
+397901000006111	1000	Eu111	Eu11100	Opioid abuse	5602001	10350013	32
+5689771000006115	50	^ESCTPE568977		Persistent alcohol abuse	284591009	423307016	31
+7305481000006116	10	^ESCTPO730548		Polysubstance abuse	445273005	2871189016	31
+397471000006114	500	Eu19z	Eu19z00	Psychoactive substance abuse	91388009	151411015	32
+199931000006119	70	E257-1	E257.11	Psychostimulant abuse	268648009	2476048010	32
+831091000006115	7000	EMISQRE1		Referral to alcohol abuse team	831091000006104	831091000006115	40
+8061421000006113	90	^ESCTRE806142		Referral to substance abuse service	201521000000104	306661000000112	40
+107023015	100	E254-3	E254.13	Sedative abuse	64386003	107023015	32
+127611000006118	300	E257-2	E257.12	Stimulant abuse	268648009	2476048010	32
+295339019	300	E25yz	E25yz00	Substance abuse	66214007	109958011	17
+1809481000006117	2	E25-100		Substance abuse	66214007	1809481000006117	17
+6025031000006115	3	^ESCTSU602503		Substance abuse counseling	313071005	2469462012	17
+456900016	70	ESCTSU1		Substance abuse counselling	313071005	1897711000006113	17
+1924681000006115	4000	677W	677W.00	Substance abuse counselling	313071005	456900016	17
+6218961000006118	6	^ESCTSU621896		Substance abuser	361055000	477162015	17
+6016081000006118	3	^ESCTSU601608		Substance of abuse	312417001	456127018	31
+253490011	2000	1J11	1J11.00	Suspected abuse hard drugs	162593003	253490011	27
+253489019	2000	1J10	1J10.00	Suspected abuse soft drugs	162592008	253489019	27
+6881361000006118	100	^ESCTSU688136		Suspected alcohol abuse	415685003	2534340014	27
+3527459013	1	^ESCT1167668		Synthetic cannabinoid abuse	737336003	3527459013	31
+499838014	600	E254-4	E254.14	Tranquilliser abuse	64386003	499838014	32
+4987571000006111	10	^ESCTVO498757		Volatile solvent-based substance of abuse - non-pharmaceutical	228989008	343251018	31
+397881000006114	10000	Eu101	Eu10100	Alcohol abuse	15167005	25750014	32
+397761000006114	1000	Eu122	Eu12200	[X]Mental and behav dis due to cannabinoids: dependence synd	85005007	140938016	32
+397771000006119	100	Eu162	Eu16200	[X]Mental and behav dis due to hallucinogens: dependence syn	38247002	64025010	32
+397781000006116	900	Eu132	Eu13200	[X]Mental and behav dis due to seds/hypntcs: dependence synd	427327003	2673574010	32
+397801000006117	9000	Eu102	Eu10200	[X]Mental and behav dis due to use alcohol: dependence syndr	66590003	500478011	32
+397851000006118	500	Eu142	Eu14200	[X]Mental and behav dis due to use cocaine: dependence syndr	31956009	53398019	32
+397931000006115	20000	Eu112	Eu11200	[X]Mental and behav dis due to use opioids: dependence syndr	75544000	125472011	32
+398011000006112	50	Eu182	Eu18200	[X]Mental and behav dis due to vol solvents: dependence synd	91388009	151411015	32
+398061000006110	900	Eu192	Eu19200	[X]Mental and behav dis mlti/oth psych sbs: dependence syndr	91388009	151411015	32
+397981000006119	70	Eu172	Eu17200	[X]Mental and behav dis due to use tobacco: dependence syndr	30310000	50736017	32
+359651000006119	900	Eu55	Eu55.00	Abuse of non-dependence-producing substances	268727002	401897016	32
+1976811000006117	6	EMISICD10|F558		Abuse of non-dependence-producing substances, other substances	1976811000006101	1976811000006117	32
+1976821000006113	6	EMISICD10|F559		Abuse of non-dependence-producing substances, unspecified	1976821000006109	1976821000006113	32
+5023891000006111	20	^ESCTAC502389		Active drug dependence	231482005	346953018	31
+295136019	60000	E2310	E231000	Alcohol dependence	66590003	110628016	32
+2358251000000115	400	2126C	2126C00	Alcohol dependence resolved	918321000000104	2358251000000115	27
+500478011	1000000	E23	E23..00	Alcohol dependence syndrome	66590003	500478011	32
+295144019	100000	E23z	E23z.00	Alcohol dependence syndrome NOS	66590003	500478011	32
+295126010	500	E230-1	E230.11	Alcohol dependence with acute alcoholic intoxication	191802004	295126010	32
+8088751000006117	10	^ESCTAL808875		Alcohol dependence with alcohol induced disorder	288031000119105	3316456018	31
+8088741000006119	5	^ESCTAL808874		Alcohol induced disorder co-occurrent and due to alcohol dependence	288031000119105	3316455019	31
+13940401000006110	1	^ESCT1394040		Amfetamine and amfetamine derivative drug dependence	838527002	3897250018	32
+2475574019	10	E2443-1	E244311	Amfetamine or psychostimulant dependence in remission	191845006	2475574019	32
+2475575018	50	E244z-1	E244z11	Amfetamine or psychostimulant dependence NOS	191816009	295145018	32
+2475572015	20	E2441-1	E244111	Amfetamine or psychostimulant dependence, continuous	191843004	2475572015	32
+2475573013	4	E2442-1	E244211	Amfetamine or psychostimulant dependence, episodic	191844005	2475573013	32
+2475571010	50	E2440-1	E244011	Amfetamine or psychostimulant dependence, unspecified	191816009	295145018	32
+2844481000006114	40	^ESCTAM284448		Amphetamine dependence	21647008	36324011	31
+295200014	300	E2443	E244300	Amphetamine or psychostimulant dependence in remission	191845006	295200014	32
+295201013	1000	E244z	E244z00	Amphetamine or psychostimulant dependence NOS	191816009	295145018	32
+295198015	600	E2441	E244100	Amphetamine or psychostimulant dependence, continuous	191843004	295198015	32
+295199011	500	E2442	E244200	Amphetamine or psychostimulant dependence, episodic	191844005	295199011	32
+295197013	1000	E2440	E244000	Amphetamine or psychostimulant dependence, unspecified	191816009	295145018	32
+346938014	900	E241-1	E241.11	Anxiolytic dependence	231470001	346938014	32
+346941017	1000	E241-2	E241.12	Barbiturate dependence	231472009	346941017	32
+346942012	200000	E241-3	E241.13	Benzodiazepine dependence	231473004	346942012	32
+2256931000000110	900	8BAo	8BAo.00	Benzodiazepine dependence detoxification	873931000000108	2256931000000110	32
+295187016	20000	E2430	E243000	Cannabis dependence	85005007	140938016	32
+295190010	600	E2433	E243300	Cannabis dependence in remission	191839003	295190010	32
+7849361000006111	2	^ESCTCA784936		Cannabis dependence with current use	723933008	3429893015	31
+295188014	7000	E2431	E243100	Cannabis dependence, continuous	191837001	295188014	32
+295189018	2000	E2432	E243200	Cannabis dependence, episodic	191838006	295189018	32
+295191014	10000	E243z	E243z00	Cannabis drug dependence NOS	85005007	140938016	32
+401793014	40000	E243	E243.00	Cannabis type drug dependence	268641003	401793014	32
+295173016	30000	E2420	E242000	Cocaine dependence	31956009	53398019	32
+295178013	800	E2423	E242300	Cocaine dependence in remission	191833002	295178013	32
+295176012	5000	E2421	E242100	Cocaine dependence, continuous	191831000	295176012	32
+295177015	2000	E2422	E242200	Cocaine dependence, episodic	191832007	295177015	32
+295179017	3000	E242z	E242z00	Cocaine drug dependence NOS	31956009	53398019	32
+295172014	30000	E242	E242.00	Cocaine type drug dependence	191829009	295172014	32
+295236012	50	E2491	E249100	Combined drug dependence, excluding opioid, continuous	191873008	295236012	32
+295237015	20	E2492	E249200	Combined drug dependence, excluding opioid, episodic	191874002	295237015	32
+295238013	20	E2493	E249300	Combined drug dependence, excluding opioid, in remission	191875001	295238013	32
+295239017	40	E249z	E249z00	Combined drug dependence, excluding opioid, NOS	191871005	295234010	32
+295235011	20	E2490	E249000	Combined drug dependence, excluding opioid, unspecified	191871005	295234010	32
+295234010	700	E249	E249.00	Combined drug dependence, excluding opioids	191871005	295234010	32
+295228015	6000	E248	E248.00	Combined opioid with other drug dependence	191865004	295228015	32
+295232014	100	E2483	E248300	Combined opioid with other drug dependence in remission	191869005	295232014	32
+295233016	500	E248z	E248z00	Combined opioid with other drug dependence NOS	191865004	295228015	32
+295230018	2000	E2481	E248100	Combined opioid with other drug dependence, continuous	191867007	295230018	32
+295231019	200	E2482	E248200	Combined opioid with other drug dependence, episodic	191868002	295231019	32
+295229011	600	E2480	E248000	Combined opioid with other drug dependence, unspecified	191865004	295228015	32
+295154015	30000	E2401	E240100	Continuous opioid dependence	191819002	295154015	32
+5023881000006113	7	^ESCTCO502388		Controlled drug dependence	231481003	346952011	31
+4978061000006119	2	^ESCTDE497806		Dependent drinker	228281002	342327018	17
+346943019	30000	E241-4	E241.14	Diazepam dependence	231474005	346943019	32
+295145018	1000000	E24	E24..00	Drug dependence	191816009	295145018	32
+630281000006113	2	L1830	L183000	Drug dependence - unspec whether during pregnancy/puerperium	267206008	398350016	32
+306144010	40	L1831	L183100	Drug dependence during pregnancy - baby delivered	199252002	306144010	32
+306146012	40	L1833	L183300	Drug dependence during pregnancy - baby not yet delivered	199254001	306146012	32
+630321000006119	40	L183	L183.00	Drug dependence during pregnancy, childbirth and the puerperium	267206008	398350016	32
+630311000006110	1	L183z	L183z00	Drug dependence during pregnancy/childbirth/puerperium NOS	267206008	398350016	32
+2533722018	1000	8BAX	8BAX.00	Drug dependence home detoxification	414054004	2533722018	32
+2533733015	10	8I2N	8I2N.00	Drug dependence home detoxification contraindicated	414055003	2533733015	32
+306145011	5	L1832	L183200	Drug dependence in the puerperium - baby delivered	199253007	306145011	32
+630331000006116	3	L1834	L183400	Drug dependence in the puerperium - baby delivered during previous episode of care	199255000	306147015	32
+295241016	50000	E24z	E24z.00	Drug dependence NOS	191816009	295145018	32
+2533721013	900	8BAW	8BAW.00	Drug dependence self detoxification	414056002	2533721013	32
+1563941000006115	500	EMISNQDR4		Drug Dependency	1563941000006104	1563941000006115	37
+295240015	1000	E24A	E24A.00	Ecstasy type drug dependence	191877009	295240015	32
+295155019	3000	E2402	E240200	Episodic opioid dependence	191820008	295155019	32
+295212013	3000	E246	E246.00	Glue sniffing dependence	191853003	295212013	32
+295217019	40	E2463	E246300	Glue sniffing dependence in remission	191857002	295217019	32
+295218012	300	E246z	E246z00	Glue sniffing dependence NOS	191853003	295212013	32
+295215010	50	E2461	E246100	Glue sniffing dependence, continuous	191855005	295215010	32
+295216011	700	E2462	E246200	Glue sniffing dependence, episodic	191856006	295216011	32
+295214014	600	E2460	E246000	Glue sniffing dependence, unspecified	191853003	295212013	32
+251627017	60000	1463	1463.00	H/O: drug dependency	161467005	251627017	32
+64025010	200	E245	E245.00	Hallucinogen dependence	38247002	64025010	32
+295210017	10	E2453	E245300	Hallucinogen dependence in remission	191851001	295210017	32
+295211018	20	E245z	E245z00	Hallucinogen dependence NOS	38247002	64025010	32
+295208019	7	E2451	E245100	Hallucinogen dependence, continuous	191849000	295208019	32
+295209010	60	E2452	E245200	Hallucinogen dependence, episodic	191850000	295209010	32
+295207012	30	E2450	E245000	Hallucinogen dependence, unspecified	38247002	64025010	32
+817251000006118	100	E243-1	E243.11	Hashish dependence	268641003	401793014	32
+820221000006118	2	E243-2	E243.12	Hemp dependence	268641003	401793014	32
+346947018	300000	E240-1	E240.11	Heroin dependence	231477003	346947018	32
+4539911000006118	2	^ESCTHI453991		History of drug dependency	161467005	2986920013	32
+401791011	80000	E241	E241.00	Hypnotic or anxiolytic dependence	268640002	401791011	32
+295170018	200	E2413	E241300	Hypnotic or anxiolytic dependence in remission	191827006	295170018	32
+295171019	2000	E241z	E241z00	Hypnotic or anxiolytic dependence NOS	268640002	401791011	32
+295168010	7000	E2411	E241100	Hypnotic or anxiolytic dependence, continuous	191825003	295168010	32
+295169019	400	E2412	E241200	Hypnotic or anxiolytic dependence, episodic	191826002	295169019	32
+295167017	1000	E2410	E241000	Hypnotic or anxiolytic dependence, unspecified	268640002	401791011	32
+346936013	400	E245-1	E245.11	LSD dependence	231468005	346936013	32
+718011000006110	500	E243-3	E243.13	Marihuana dependence	268641003	401793014	32
+1971971000006114	200	EMISICD10|F1225		Mental and behav dis due to cannabinoids: dependence synd, continuous use	1971971000006105	1971971000006114	32
+1971921000006113	40	EMISICD10|F1220		Mental and behav dis due to cannabinoids: dependence synd, currently abstinent	1971921000006109	1971921000006113	32
+1971931000006111	7	EMISICD10|F1221		Mental and behav dis due to cannabinoids: dependence synd, currently abstinent, but in a protected environment	1971931000006107	1971931000006111	32
+1971951000006116	4	EMISICD10|F1223		Mental and behav dis due to cannabinoids: dependence synd, currently abstinent, but receiving treatment with aversive or blocking drugs	1971951000006100	1971951000006116	32
+1971941000006118	1	EMISICD10|F1222		Mental and behav dis due to cannabinoids: dependence synd, currently on a clinically supervised maintenance or replacement regime [controlled dependence]	1971941000006102	1971941000006118	32
+1971961000006119	30	EMISICD10|F1224		Mental and behav dis due to cannabinoids: dependence synd, currently using the substance [active dependence]	1971961000006103	1971961000006119	32
+1971981000006112	10	EMISICD10|F1226		Mental and behav dis due to cannabinoids: dependence synd, episodic use [dipsomania]	1971981000006108	1971981000006112	32
+1971621000006115	10	EMISICD10|F1625		Mental and behav dis due to hallucinogens: dependence syn, continuous use	1971621000006104	1971621000006115	32
+1971481000006119	3	EMISICD10|F1620		Mental and behav dis due to hallucinogens: dependence syn, currently abstinent	1971481000006103	1971481000006119	32
+1971511000006110	1	EMISICD10|F1621		Mental and behav dis due to hallucinogens: dependence syn, currently abstinent, but in a protected environment	1971511000006106	1971511000006110	32
+1971581000006115	1	EMISICD10|F1623		Mental and behav dis due to hallucinogens: dependence syn, currently abstinent, but receiving treatment with aversive or blocking drugs	1971581000006104	1971581000006115	32
+1971551000006111	1	EMISICD10|F1622		Mental and behav dis due to hallucinogens: dependence syn, currently on a clinically supervised maintenance or replacement regime [controlled dependence]	1971551000006107	1971551000006111	32
+1971611000006111	2	EMISICD10|F1624		Mental and behav dis due to hallucinogens: dependence syn, currently using the substance [active dependence]	1971611000006107	1971611000006111	32
+1971641000006110	2	EMISICD10|F1626		Mental and behav dis due to hallucinogens: dependence syn, episodic use [dipsomania]	1971641000006106	1971641000006110	32
+1974381000006114	2	EMISICD10|F1522		Mental and behav dis due to other stimulants inc caffeine: dependnce synd, currently on a clinically supervised maintenance or replacement regime [controlled dependence]	1974381000006105	1974381000006114	32
+1974441000006111	8	EMISICD10|F1524		Mental and behav dis due to other stimulants inc caffeine: dependnce synd, currently using the substance [active dependence]	1974441000006107	1974441000006111	32
+1972721000006117	10	EMISICD10|F1325		Mental and behav dis due to seds/hypntcs: dependence synd, continuous use	1972721000006101	1972721000006117	32
+1972631000006111	3	EMISICD10|F1320		Mental and behav dis due to seds/hypntcs: dependence synd, currently abstinent	1972631000006107	1972631000006111	32
+1972651000006116	1	EMISICD10|F1321		Mental and behav dis due to seds/hypntcs: dependence synd, currently abstinent, but in a protected environment	1972651000006100	1972651000006116	32
+1972691000006110	1	EMISICD10|F1323		Mental and behav dis due to seds/hypntcs: dependence synd, currently abstinent, but receiving treatment with aversive or blocking drugs	1972691000006106	1972691000006110	32
+1972671000006114	1	EMISICD10|F1322		Mental and behav dis due to seds/hypntcs: dependence synd, currently on a clinically supervised maintenance or replacement regime [controlled dependence]	1972671000006105	1972671000006114	32
+1972701000006110	2	EMISICD10|F1324		Mental and behav dis due to seds/hypntcs: dependence synd, currently using the substance [active dependence]	1972701000006106	1972701000006110	32
+1972741000006112	1	EMISICD10|F1326		Mental and behav dis due to seds/hypntcs: dependence synd, episodic use [dipsomania]	1972741000006108	1972741000006112	32
+1974111000006117	400	EMISICD10|F1025		Mental and behav dis due to use alcohol: dependence syndr, continuous use	1974111000006101	1974111000006117	32
+1973701000006119	100	EMISICD10|F1020		Mental and behav dis due to use alcohol: dependence syndr, currently abstinent	1973701000006103	1973701000006119	32
+1973811000006113	7	EMISICD10|F1021		Mental and behav dis due to use alcohol: dependence syndr, currently abstinent, but in a protected environment	1973811000006109	1973811000006113	32
+1974021000006112	20	EMISICD10|F1023		Mental and behav dis due to use alcohol: dependence syndr, currently abstinent, but receiving treatment with aversive or blocking drugs	1974021000006108	1974021000006112	32
+1973871000006116	4	EMISICD10|F1022		Mental and behav dis due to use alcohol: dependence syndr, currently on a clinically supervised maintenance or replacement regime [controlled dependence]	1973871000006100	1973871000006116	32
+1974071000006113	40	EMISICD10|F1024		Mental and behav dis due to use alcohol: dependence syndr, currently using the substance [active dependence]	1974071000006109	1974071000006113	32
+1974141000006118	20	EMISICD10|F1026		Mental and behav dis due to use alcohol: dependence syndr, episodic use [dipsomania]	1974141000006102	1974141000006118	32
+1973291000006116	200	EMISICD10|F1425		Mental and behav dis due to use cocaine: dependence syndr, continuous use	1973291000006100	1973291000006116	32
+1972951000006112	10	EMISICD10|F1420		Mental and behav dis due to use cocaine: dependence syndr, currently abstinent	1972951000006108	1972951000006112	32
+1972981000006116	6	EMISICD10|F1421		Mental and behav dis due to use cocaine: dependence syndr, currently abstinent, but in a protected environment	1972981000006100	1972981000006116	32
+1973211000006114	2	EMISICD10|F1423		Mental and behav dis due to use cocaine: dependence syndr, currently abstinent, but receiving treatment with aversive or blocking drugs	1973211000006105	1973211000006114	32
+1973201000006111	4	EMISICD10|F1422		Mental and behav dis due to use cocaine: dependence syndr, currently on a clinically supervised maintenance or replacement regime [controlled dependence]	1973201000006107	1973201000006111	32
+1973261000006112	20	EMISICD10|F1424		Mental and behav dis due to use cocaine: dependence syndr, currently using the substance [active dependence]	1973261000006108	1973261000006112	32
+1973311000006117	4	EMISICD10|F1426		Mental and behav dis due to use cocaine: dependence syndr, episodic use [dipsomania]	1973311000006101	1973311000006117	32
+1976611000006118	900	EMISICD10|F1125		Mental and behav dis due to use opioids: dependence syndr, continuous use	1976611000006102	1976611000006118	32
+1976501000006117	70	EMISICD10|F1120		Mental and behav dis due to use opioids: dependence syndr, currently abstinent	1976501000006101	1976501000006117	32
+1976531000006113	10	EMISICD10|F1121		Mental and behav dis due to use opioids: dependence syndr, currently abstinent, but in a protected environment	1976531000006109	1976531000006113	32
+1976581000006114	20	EMISICD10|F1123		Mental and behav dis due to use opioids: dependence syndr, currently abstinent, but receiving treatment with aversive or blocking drugs	1976581000006105	1976581000006114	32
+1976551000006118	100	EMISICD10|F1122		Mental and behav dis due to use opioids: dependence syndr, currently on a clinically supervised maintenance or replacement regime [controlled dependence]	1976551000006102	1976551000006118	32
+1976591000006112	60	EMISICD10|F1124		Mental and behav dis due to use opioids: dependence syndr, currently using the substance [active dependence]	1976591000006108	1976591000006112	32
+1976621000006114	5	EMISICD10|F1126		Mental and behav dis due to use opioids: dependence syndr, episodic use [dipsomania]	1976621000006105	1976621000006114	32
+1975451000006112	4	EMISICD10|F1825		Mental and behav dis due to vol solvents: dependence synd, continuous use	1975451000006108	1975451000006112	32
+1975311000006118	3	EMISICD10|F1820		Mental and behav dis due to vol solvents: dependence synd, currently abstinent	1975311000006102	1975311000006118	32
+1975331000006112	1	EMISICD10|F1821		Mental and behav dis due to vol solvents: dependence synd, currently abstinent, but in a protected environment	1975331000006108	1975331000006112	32
+1975391000006111	1	EMISICD10|F1823		Mental and behav dis due to vol solvents: dependence synd, currently abstinent, but receiving treatment with aversive or blocking drugs	1975391000006107	1975391000006111	32
+1975361000006115	1	EMISICD10|F1822		Mental and behav dis due to vol solvents: dependence synd, currently on a clinically supervised maintenance or replacement regime [controlled dependence]	1975361000006104	1975361000006115	32
+1975421000006115	1	EMISICD10|F1824		Mental and behav dis due to vol solvents: dependence synd, currently using the substance [active dependence]	1975421000006104	1975421000006115	32
+1976981000006117	1	EMISICD10|F1826		Mental and behav dis due to vol solvents: dependence synd, episodic use [dipsomania]	1976981000006101	1976981000006117	32
+1973521000006115	10	EMISICD10|F1925		Mental and behav dis mlti drg use/oth psych sbs: dependence syndr, continuous use	1973521000006104	1973521000006115	32
+1976871000006114	6	EMISICD10|F1920		Mental and behav dis mlti drg use/oth psych sbs: dependence syndr, currently abstinent	1976871000006105	1976871000006114	32
+1973421000006119	1	EMISICD10|F1921		Mental and behav dis mlti drg use/oth psych sbs: dependence syndr, currently abstinent, but in a protected environment	1973421000006103	1973421000006119	32
+1973471000006118	10	EMISICD10|F1923		Mental and behav dis mlti drg use/oth psych sbs: dependence syndr, currently abstinent, but receiving treatment with aversive or blocking drugs	1973471000006102	1973471000006118	32
+1973451000006111	3	EMISICD10|F1922		Mental and behav dis mlti drg use/oth psych sbs: dependence syndr, currently on a clinically supervised maintenance or replacement regime [controlled dependence]	1973451000006107	1973451000006111	32
+1973491000006117	20	EMISICD10|F1924		Mental and behav dis mlti drg use/oth psych sbs: dependence syndr, currently using the substance [active dependence]	1973491000006101	1973491000006117	32
+1973541000006110	2	EMISICD10|F1926		Mental and behav dis mlti drg use/oth psych sbs: dependence syndr, episodic use [dipsomania]	1973541000006106	1973541000006110	32
+346937016	3	E245-3	E245.13	Mescaline dependence	231469002	346937016	32
+346949015	90000	E240-2	E240.12	Methadone dependence	231478008	346949015	32
+7706231000006114	20	^ESCTMI770623		Mild alcohol dependence	713583005	3290336015	31
+7725141000006111	30	^ESCTMO772514		Moderate alcohol dependence	714829008	3300567016	31
+346950015	7000	E240-3	E240.13	Morphine dependence	231479000	346950015	32
+882501000006119	30000	E24-99	E24..99	Morphine/cocaine dependence	191816009	882501000006119	32
+988901000006116	3	E247-99	E247.99	Morphine/cocaine dependence	191816009	988901000006116	32
+314821000000113	10000	8BAd	8BAd.00	Opiate dependence detoxification	205231000000102	314821000000113	32
+2639961000000113	1000	13cM1		Opioid analgesic dependence	1047881000000106	2639961000000113	17
+44291000006113	700000	E240	E240.00	Opioid dependence	75544000	125472011	32
+295156018	3000	E2403	E240300	Opioid dependence in remission	191821007	295156018	32
+13670221000006119	1	^ESCT1367022		Opioid dependence service	23951000087100	3763348017	31
+7859071000006116	1	^ESCTOP785907		Opioid dependence with current use	724653003	3442270012	31
+295157010	70000	E240z	E240z00	Opioid drug dependence NOS	75544000	125472011	32
+8089331000006119	1	^ESCTOP808933		Opioid-induced mood disorder due to opioid dependence	288861000119108	3290010018	31
+346951016	2000	E240-4	E240.14	Opium dependence	231480002	346951016	32
+401796018	2000	E247	E247.00	Other specified drug dependence	191816009	295145018	32
+295226016	200	E2473	E247300	Other specified drug dependence in remission	191816009	295145018	32
+295227013	300	E247z	E247z00	Other specified drug dependence NOS	191816009	295145018	32
+295224018	1000	E2471	E247100	Other specified drug dependence, continuous	191816009	295145018	32
+295225017	50	E2472	E247200	Other specified drug dependence, episodic	191816009	295145018	32
+295222019	300	E2470	E247000	Other specified drug dependence, unspecified	191816009	295145018	32
+355550012	60	L183-1	L183.11	Pregnancy and drug dependence	237228001	355550012	32
+2537261000006113	50	^ESCTPS253726		Psychoactive substance dependence	2403008	5109010	32
+411458014	70	E244-1	E244.11	Psychostimulant dependence	275471001	411458014	32
+189631000000117	8000	8HHL	8HHL.00	Referral to community drug dependency team	112891000000107	189631000000117	40
+857401000006112	40	EMISQRE11		Referral to community drug dependency team	857401000006108	857401000006112	40
+2673574010	1000	E241-6	E241.16	Sedative dependence	427327003	2673574010	32
+7710581000006113	50	^ESCTSE771058		Severe alcohol dependence	713862009	3297813018	31
+401794015	10000	E244	E244.00	Stimulant dependence	442406005	2819716013	32
+127621000006114	100	E244-2	E244.12	Stimulant dependence	275471001	411458014	32
+1809471000006115	30	E24-100		Substance dependence	2403008	5114014	32
+295153014	6000	E2400	E240000	Unspecified opioid dependence	75544000	125472011	32
+346944013	700	E241-7	E241.17	Valium dependence	231474005	346944013	32
+397671000006112	2	Eu170	Eu17000	[X]Mental and behavioural disorders due to use of tobacco: acute intoxication	30310000	50736017	32
+397911000006114	100	Eu171	Eu17100	[X]Mental and behavioural disorders due to use of tobacco: harmful use	724697004	3445165019	32
+298701000000114	30	ZV116	ZV11600	History of tobacco use	8517006	15047015	17
+1974421000006116	30	EMISICD10|F1725		Mental and behav dis due to use tobacco: dependence syndr, continuous use	1974421000006100	1974421000006116	32
+1974281000006116	2	EMISICD10|F1720		Mental and behav dis due to use tobacco: dependence syndr, currently abstinent	1974281000006100	1974281000006116	32
+1974311000006119	1	EMISICD10|F1721		Mental and behav dis due to use tobacco: dependence syndr, currently abstinent, but in a protected environment	1974311000006103	1974311000006119	32
+1974371000006111	1	EMISICD10|F1723		Mental and behav dis due to use tobacco: dependence syndr, currently abstinent, but receiving treatment with aversive or blocking drugs	1974371000006107	1974371000006111	32
+1974341000006115	1	EMISICD10|F1722		Mental and behav dis due to use tobacco: dependence syndr, currently on a clinically supervised maintenance or replacement regime [controlled dependence]	1974341000006104	1974341000006115	32
+1974401000006114	8	EMISICD10|F1724		Mental and behav dis due to use tobacco: dependence syndr, currently using the substance [active dependence]	1974401000006105	1974401000006114	32
+1974461000006110	3	EMISICD10|F1726		Mental and behav dis due to use tobacco: dependence syndr, episodic use [dipsomania]	1974461000006106	1974461000006110	32
+102951000006115	80000	E251	E251.00	Tobacco dependence	89765005	2951656017	32
+295259018	100	E2513	E251300	Tobacco dependence in remission	191889006	295259018	32
+295260011	500	E251z	E251z00	Tobacco dependence NOS	89765005	2951656017	32
+3959111000006111	400	^ESCTTO395911		Tobacco dependence syndrome	89765005	148820017	32
+295257016	100	E2511	E251100	Tobacco dependence, continuous	191887008	295257016	32
+295258014	30	E2512	E251200	Tobacco dependence, episodic	191888003	295258014	32
+295256013	1000	E2510	E251000	Tobacco dependence, unspecified	89765005	148820017	32
+7859781000006116	6	^ESCTHA785978		Harmful pattern of use of nicotine	724697004	3445165019	32
+983101000006113	200	EMISNQSU2		Misuse of Nicotine	983101000006109	983101000006113	17
+324597019	70	SMC	SMC..00	Toxic effect of tobacco and nicotine	212899006	324597019	32
+973021000006110	1	TRIQQZZ58		** Drug misuse & dependance:guidelines on clinical management	973021000006106	973021000006110	37
+1550291000000111	3000	8Hq	8Hq..00	Admission to substance misuse detoxification centre	699124006	2982737011	40
+342492018	200	1V22	1V22.00	Age at starting drug misuse	228413007	342492018	27
+606991000000117	50000	136W	136W.00	Alcohol misuse	15167005	606991000000117	32
+7091761000006116	5	^ESCTAM709176		Amphetamine misuse	428659002	2692508011	31
+7099461000006110	1	^ESCTAN709946		Antidepressant misuse	429179002	2694497011	31
+7088141000006110	2	^ESCTBE708814		Benzodiazepine misuse	428406005	2693355010	31
+7094221000006119	400	^ESCTCA709422		Cannabis misuse	428823006	2692536018	31
+7108551000006111	20	^ESCTCO710855		Cocaine misuse	429782000	2695908014	31
+980081000006112	3000	Eu1A	Eu1A.00	Crack cocaine misuse	428493006	2694539014	32
+14309831000006114	3	^ESCT1430983		Date stopped drug misuse	1364721000000101	2885721000000117	27
+6252301000006112	1	^ESCTDE625230		Details of drug misuse behavior	363908000	487041011	31
+1897761000006111	100	EMISNQDR15		Drug misuse - daily	1897761000006107	1897761000006111	27
+1897741000006112	4	EMISNQDR13		Drug misuse - monthly	1897741000006108	1897741000006112	27
+1897751000006114	30	EMISNQDR14		Drug misuse - weekly	1897751000006105	1897751000006114	27
+4979131000006117	1	^ESCTDR497913		Drug misuse behavior	228366006	1217645019	27
+1216143019	9000	1V	1V...00	Drug misuse behaviour	228366006	1216143019	27
+851461000006115	300	EMISQDR1		Drug misuse behaviour	851461000006104	851461000006115	17
+1153431000000110	2000	9k52-1	9k52.11	Drug misuse treatment in primary care	372541000000102	1153431000000110	37
+1704471000006116	800	9k52	9k52.00	Drug misuse treatment primary care - enhanced services admin	372541000000102	1153431000000110	37
+309861000000116	2000	1V66	1V66.00	Ecstasy misuse	202961000000106	309861000000116	27
+3223901000006110	1	^ESCTEX322390		Ex-drug misuser	44870007	494055011	27
+342467016	100	1V2	1V2..00	Frequency of drug misuse	228390007	342467016	27
+2533651012	10000	9HC1	9HC1.00	Follow up substance misuse assessment	414283008	2533651012	37
+6855581000006112	10	^ESCTFR685558		Frequency of substance misuse	414296009	2533643014	31
+1778191000006113	4	EMISNQGR21		Group session: Substance misuse	1778191000006109	1778191000006113	37
+512121000000110	5000	1T4	1T4..00	H/O amphetamine misuse	277071000000106	512121000000110	27
+512181000000111	20	1TA	1TA..00	H/O barbiturate misuse	277011000000101	512181000000111	27
+512111000000116	2000	1T3	1T3..00	H/O benzodiazepine misuse	277081000000108	512111000000116	27
+512161000000119	30000	1T8	1T8..00	H/O cannabis misuse	277031000000109	512161000000119	27
+512131000000112	10000	1T5	1T5..00	H/O cocaine misuse	277061000000104	512131000000112	27
+512141000000115	6000	1T6	1T6..00	H/O crack cocaine misuse	277051000000102	512141000000115	27
+512331000000110	300	1T40	1T40.00	H/O daily amphetamine misuse	277581000000104	512331000000110	27
+512541000000111	3	1TA0	1TA0.00	H/O daily barbiturate misuse	278421000000100	512541000000111	27
+512211000000112	300	1T30	1T30.00	H/O daily benzodiazepine misuse	277101000000102	512211000000112	27
+512571000000117	5000	1T80	1T80.00	H/O daily cannabis misuse	278541000000106	512571000000117	27
+512451000000110	400	1T50	1T50.00	H/O daily cocaine misuse	278061000000103	512451000000110	27
+512481000000116	700	1T60	1T60.00	H/O daily crack cocaine misuse	278181000000106	512481000000116	27
+512301000000116	20	1T20	1T20.00	H/O daily ecstasy misuse	277461000000109	512301000000116	27
+512511000000110	3	1T70	1T70.00	H/O daily hallucinogen misuse	278301000000104	512511000000110	27
+512241000000113	1000	1T00	1T00.00	H/O daily heroin misuse	277221000000102	512241000000113	27
+512271000000119	80	1T10	1T10.00	H/O daily methadone misuse	277341000000102	512271000000119	27
+512421000000117	700	1TD0	1TD0.00	H/O daily opiate misuse	277941000000101	512421000000117	27
+512601000000112	40	1T90	1T90.00	H/O daily solvent misuse	278661000000106	512601000000112	27
+512641000000110	1000	1T2	1T2..00	H/O ecstasy misuse	279451000000102	512641000000110	27
+512151000000117	90	1T7	1T7..00	H/O hallucinogen misuse	277041000000100	512151000000117	27
+512631000000118	8000	1T0	1T0..00	H/O heroin misuse	279441000000100	512631000000118	27
+512351000000115	100	1T42	1T42.00	H/O infrequent amphetamine misuse	277641000000106	512351000000115	27
+512561000000112	1	1TA2	1TA2.00	H/O infrequent barbiturate misuse	278481000000104	512561000000112	27
+512231000000116	50	1T32	1T32.00	H/O infrequent benzodiazepine misuse	277161000000103	512231000000116	27
+512591000000118	1000	1T82	1T82.00	H/O infrequent cannabis misuse	278601000000107	512591000000118	27
+512471000000118	300	1T52	1T52.00	H/O infrequent cocaine misuse	278121000000105	512471000000118	27
+512501000000113	200	1T62	1T62.00	H/O infrequent crack cocaine misuse	278241000000108	512501000000113	27
+512321000000113	70	1T22	1T22.00	H/O infrequent ecstasy misuse	277521000000100	512321000000113	27
+512531000000119	4	1T72	1T72.00	H/O infrequent hallucinogen misuse	278361000000100	512531000000119	27
+512261000000114	200	1T03	1T03.00	H/O infrequent heroin misuse	277311000000103	512261000000114	27
+475771000000117	20	1T12	1T12.00	H/O infrequent methadone misuse	277401000000105	475771000000117	27
+512441000000112	40	1TD2	1TD2.00	H/O infrequent opiate misuse	278001000000102	512441000000112	27
+512621000000115	10	1T92	1T92.00	H/O infrequent solvent misuse	278721000000109	512621000000115	27
+512101000000118	600	1T1	1T1..00	H/O methadone misuse	277091000000105	512101000000118	27
+512201000000110	6000	1TD	1TD..00	H/O opiate misuse	276981000000107	512201000000110	27
+512171000000114	800	1T9	1T9..00	H/O solvent misuse	277021000000107	512171000000114	27
+512341000000118	60	1T41	1T41.00	H/O weekly amphetamine misuse	277611000000105	512341000000118	27
+512551000000114	1	1TA1	1TA1.00	H/O weekly barbiturate misuse	278451000000105	512551000000114	27
+512221000000118	8	1T31	1T31.00	H/O weekly benzodiazepine misuse	277131000000108	512221000000118	27
+512581000000115	1000	1T81	1T81.00	H/O weekly cannabis misuse	278571000000100	512581000000115	27
+512461000000113	300	1T51	1T51.00	H/O weekly cocaine misuse	278091000000109	512461000000113	27
+512491000000119	300	1T61	1T61.00	H/O weekly crack cocaine misuse	278211000000107	512491000000119	27
+512311000000119	50	1T21	1T21.00	H/O weekly ecstasy misuse	277491000000103	512311000000119	27
+512521000000116	3	1T71	1T71.00	H/O weekly hallucinogen misuse	278331000000105	512521000000116	27
+512251000000111	200	1T01	1T01.00	H/O weekly heroin misuse	277251000000107	512251000000111	27
+512281000000117	10	1T11	1T11.00	H/O weekly methadone misuse	277371000000108	512281000000117	27
+512431000000115	40	1TD1	1TD1.00	H/O weekly opiate misuse	277971000000107	512431000000115	27
+512611000000114	6	1T91	1T91.00	H/O weekly solvent misuse	278691000000100	512611000000114	27
+8083461000006115	400	^ESCTHI808346		History of amphetamine misuse	277071000000106	475111000000114	27
+8271301000006112	10	^ESCTHI827130		History of anabolic steroid misuse	824011000000101	2144591000000112	31
+757341000000110	80	1V0E	1V0E.00	Health problem secondary to drug misuse	383871000000108	757341000000110	27
+309921000000119	10000	1V65	1V65.00	Heroin misuse	202991000000100	309921000000119	27
+8083331000006117	1	^ESCTHI808333		History of barbiturate misuse	277011000000101	474991000000116	27
+8083491000006111	400	^ESCTHI808349		History of benzodiazepine misuse	277081000000108	475131000000118	27
+8236761000006116	8	^ESCTHI823676		History of buprenorphine misuse	762901000000104	1690941000000114	31
+8083381000006116	3000	^ESCTHI808338		History of cannabis misuse	277031000000109	475031000000117	27
+8083441000006119	2000	^ESCTHI808344		History of cocaine misuse	277061000000104	475091000000116	27
+8083421000006114	700	^ESCTHI808342		History of crack cocaine misuse	277051000000102	475071000000115	27
+8083841000006116	20	^ESCTHI808384		History of daily amphetamine misuse	277581000000104	476131000000114	27
+8083531000006111	30	^ESCTHI808353		History of daily benzodiazepine misuse	277101000000102	475171000000116	27
+8084471000006113	600	^ESCTHI808447		History of daily cannabis misuse	278541000000106	478051000000116	27
+8084151000006112	50	^ESCTHI808415		History of daily cocaine misuse	278061000000103	477091000000113	27
+8084221000006113	50	^ESCTHI808422		History of daily crack cocaine misuse	278181000000106	477331000000114	27
+8083761000006110	1	^ESCTHI808376		History of daily ecstasy misuse	277461000000109	475891000000114	27
+8083611000006116	100	^ESCTHI808361		History of daily heroin misuse	277221000000102	475411000000119	27
+512361000000117	3	1TB0	1TB0.00	History of daily major tranquilliser misuse	277701000000101	643751000000110	27
+8083681000006111	1	^ESCTHI808368		History of daily methadone misuse	277341000000102	475651000000117	27
+8084081000006117	200	^ESCTHI808408		History of daily opiate misuse	277941000000101	476851000000114	27
+8084551000006119	1	^ESCTHI808455		History of daily solvent misuse	278661000000106	478291000000118	27
+6354611000006118	1	^ESCTHI635461		History of drug misuse	371435006	497461000000116	32
+8085021000006117	80	^ESCTHI808502		History of ecstasy misuse	279451000000102	479831000000110	27
+8083401000006116	20	^ESCTHI808340		History of hallucinogen misuse	277041000000100	475051000000112	27
+8085001000006110	700	^ESCTHI808500		History of heroin misuse	279441000000100	479811000000119	27
+8083911000006110	4	^ESCTHI808391		History of infrequent amphetamine misuse	277641000000106	476251000000113	27
+8083571000006114	5	^ESCTHI808357		History of infrequent benzodiazepine misuse	277161000000103	475291000000110	27
+8084511000006115	100	^ESCTHI808451		History of infrequent cannabis misuse	278601000000107	478171000000112	27
+8084191000006118	50	^ESCTHI808419		History of infrequent cocaine misuse	278121000000105	477211000000111	27
+8084271000006114	50	^ESCTHI808427		History of infrequent crack cocaine misuse	278241000000108	477451000000114	27
+8083811000006115	2	^ESCTHI808381		History of infrequent ecstasy misuse	277521000000100	476011000000119	27
+8083661000006118	10	^ESCTHI808366		History of infrequent heroin misuse	277311000000103	475591000000112	27
+512381000000114	6	1TB2	1TB2.00	History of infrequent major tranquilliser misuse	277761000000102	643771000000118	27
+8083721000006116	4	^ESCTHI808372		History of infrequent methadone misuse	277401000000105	512291000000115	27
+8084121000006115	6	^ESCTHI808412		History of infrequent opiate misuse	278001000000102	476971000000113	27
+1584851000006110	50	1TB	1TB..00	History of major tranquilliser misuse	277001000000103	643811000000118	27
+8083511000006117	50	^ESCTHI808351		History of methadone misuse	277091000000105	475151000000113	27
+2418861000000117	200	1TG	1TG..00	History of novel psychoactive substance misuse	715200006	3301850013	27
+8083281000006114	900	^ESCTHI808328		History of opiate misuse	276981000000107	474931000000117	27
+8083361000006114	50	^ESCTHI808336		History of solvent misuse	277021000000107	475011000000113	27
+497451000000119	30000	1T	1T...00	History of substance misuse	371422002	497451000000119	17
+8083871000006112	6	^ESCTHI808387		History of weekly amphetamine misuse	277611000000105	476191000000110	27
+8083551000006116	8	^ESCTHI808355		History of weekly benzodiazepine misuse	277131000000108	475231000000114	27
+8084491000006114	80	^ESCTHI808449		History of weekly cannabis misuse	278571000000100	478111000000119	27
+8084171000006119	50	^ESCTHI808417		History of weekly cocaine misuse	278091000000109	477151000000116	27
+8084241000006118	20	^ESCTHI808424		History of weekly crack cocaine misuse	278211000000107	477391000000110	27
+8083631000006110	10	^ESCTHI808363		History of weekly heroin misuse	277251000000107	475471000000112	27
+512371000000112	1	1TB1	1TB1.00	History of weekly major tranquilliser misuse	277731000000107	643841000000117	27
+8084101000006113	20	^ESCTHI808410		History of weekly opiate misuse	277971000000107	476911000000115	27
+8084571000006112	1	^ESCTHI808457		History of weekly solvent misuse	278691000000100	478351000000118	27
+342434015	300	1V01	1V01.00	Long-term drug misuser	228371004	342434015	27
+7104521000006113	1	^ESCTME710452		Methadone misuse	429512006	2693538010	31
+969621000006110	60	EMISNQMI80		Misuse of Amphetamine (pharmaceutical)	969621000006106	969621000006110	17
+969611000006119	200	EMISNQMI79		Misuse of Amphetamine Sulphate	969611000006103	969611000006119	17
+969981000006118	2000	EMISNQMI111		Misuse of Amphetamines unspecified	969981000006102	969981000006118	17
+7583431000006118	1	^ESCTMI758343		Misuse of analgesic	703885002	3015297018	31
+969411000006116	1000	EMISNQMI59		Misuse of Benzodiazepines unspecified	969411000006100	969411000006116	17
+968691000006117	200	EMISNQMI6		Misuse of Cannabis herbal	968691000006101	968691000006117	17
+968731000006113	500	EMISNQMI9		Misuse of Cannabis herbal (skunk)	968731000006109	968731000006113	17
+968721000006110	20	EMISNQMI8		Misuse of Cannabis Oil	968721000006106	968721000006110	17
+968711000006119	100	EMISNQMI7		Misuse of Cannabis resin	968711000006103	968711000006119	17
+968681000006115	20000	EMISNQMI5		Misuse of Cannabis unspecified	968681000006104	968681000006115	17
+969781000006115	2000	EMISNQMI93		Misuse of Cocaine freebase (crack)	969781000006104	969781000006115	17
+969771000006118	70	EMISNQMI92		Misuse of Cocaine Hydrochloride	969771000006102	969771000006118	17
+969761000006113	5000	EMISNQMI91		Misuse of Cocaine unspecified	969761000006109	969761000006113	17
+969271000006114	80	EMISNQMI46		Misuse of Codeine linctus	969271000006105	969271000006114	17
+969231000006111	7000	EMISNQMI42		Misuse of Codeine tablets	969231000006107	969231000006111	17
+969311000006114	1000	EMISNQMI50		Misuse of Codeine unspecified	969311000006105	969311000006114	17
+969601000006117	30	EMISNQMI78		Misuse of Alprazolam	969601000006101	969601000006117	17
+970311000006111	40	EMISNQMI141		Misuse of Amitriptyline	970311000006107	970311000006111	17
+970411000006118	2000	EMISNQMI150		Misuse of Alcohol unspecified	970411000006102	970411000006118	17
+969871000006110	20	EMISNQMI101		Misuse of Acetone	969871000006106	969871000006110	17
+969851000006117	30	EMISNQMI99		Misuse of Amyl Nitrate	969851000006101	969851000006117	17
+970321000006115	30	EMISNQMI142		Misuse of Antabuse	970321000006104	970321000006115	17
+970431000006112	80	EMISNQMI152		Misuse of Beer or Cider	970431000006108	970431000006112	17
+969291000006110	200	EMISNQMI48		Misuse of Buprenorphine	969291000006106	969291000006110	17
+969831000006112	200	EMISNQMI97		Misuse of Butane	969831000006108	969831000006112	17
+969661000006116	30	EMISNQMI84		Misuse of Clonazepam	969661000006100	969661000006116	17
+970031000006115	30	EMISNQMI115		Misuse of Cyclizine	970031000006104	970031000006115	17
+969641000006115	30	EMISNQMI82		Misuse of Dexamphetamine (Dexadrine)	969641000006104	969641000006115	17
+968771000006111	60	EMISNQMI11		Misuse of Diamorphine	968771000006107	968771000006111	17
+969421000006112	1000	EMISNQMI60		Misuse of Diazepam	969421000006108	969421000006112	17
+969051000006113	1000	EMISNQMI24		Misuse of Dihydrocodeine	969051000006109	969051000006113	17
+295340017	90000	E25z	E25z.00	Misuse of drugs NOS	361055000	477158014	17
+969161000006114	80	EMISNQMI35		Misuse of Fentanyl	969161000006105	969161000006114	17
+970301000006113	40	EMISNQMI140		Misuse of Fluoxetine	970301000006109	970301000006113	17
+970721000006116	500	EMISNQMI180		Misuse of GHB/GBH	970721000006100	970721000006116	17
+968761000006116	6000	EMISNQMI10		Misuse of Heroin illicit	968761000006100	968761000006116	17
+969381000006119	6	EMISNQMI57		Misuse of Kaolin and Morphine	969381000006103	969381000006119	17
+969971000006116	3000	EMISNQMI110		Misuse of Ketamine	969971000006100	969971000006116	17
+970691000006114	400	EMISNQMI177		Misuse of Khat	970691000006105	970691000006114	17
+969451000006115	70	EMISNQMI63		Misuse of Lorazepam	969451000006104	969451000006115	17
+969861000006115	500	EMISNQMI100		Misuse of Lysergide (LSD)	969861000006104	969861000006115	17
+969721000006119	700	EMISNQMI88		Misuse of MDMA	969721000006103	969721000006119	17
+968901000006119	30	EMISNQMI16		Misuse of Methadone mixture	968901000006103	968901000006119	17
+968951000006115	20	EMISNQMI18		Misuse of Methadone tablets	968951000006104	968951000006115	17
+968871000006119	700	EMISNQMI15		Misuse of Methadone unspecified	968871000006103	968871000006119	17
+969631000006113	200	EMISNQMI81		Misuse of Methamphetamine	969631000006109	969631000006113	17
+970641000006117	30	EMISNQMI172		Misuse of Methylphenidate	970641000006101	970641000006117	17
+970731000006118	100	EMISNQMI181		Misuse of minor Analgesics	970731000006102	970731000006118	17
+970401000006116	40	EMISNQMI149		Misuse of mixture of Alcohol	970401000006100	970401000006116	17
+969021000006116	100	EMISNQMI22		Misuse of Morphine Sulphate	969021000006100	969021000006116	17
+970751000006113	30	EMISNQMI183		Misuse of Naltrexone	970751000006109	970751000006113	17
+969441000006117	50	EMISNQMI62		Misuse of Nitrazepam	969441000006101	969441000006117	17
+970051000006110	7	EMISNQMI117		Misuse of non-Barb/Benzo sedatives unsp	970051000006106	970051000006110	17
+969331000006115	400	EMISNQMI52		Misuse of Opiate compound analgesics	969331000006104	969331000006115	17
+969261000006119	50	EMISNQMI45		Misuse of Opiate containing mixture	969261000006103	969261000006119	17
+969011000006112	9000	EMISNQMI21		Misuse of Opiates unspecified	969011000006108	969011000006112	17
+969041000006111	90	EMISNQMI23		Misuse of Opium	969041000006107	969041000006111	17
+969391000006116	500	EMISNQMI58		Misuse of other Opiates	969391000006100	969391000006116	17
+970701000006114	100	EMISNQMI178		Misuse of other Psychoactive drugs unsp	970701000006105	970701000006114	17
+970631000006110	50	EMISNQMI171		Misuse of other stimulants	970631000006106	970631000006110	17
+969501000006118	6	EMISNQMI68		Misuse of Oxazepam	969501000006102	969501000006118	17
+969141000006110	60	EMISNQMI33		Misuse of Oxycodone	969141000006106	969141000006110	17
+970361000006114	40	EMISNQMI146		Misuse of Paroxetine	970361000006105	970361000006114	17
+969081000006117	100	EMISNQMI27		Misuse of Pethidine	969081000006101	969081000006117	17
+970541000006118	70	EMISNQMI162		Misuse of Poly drug - no details	970541000006102	970541000006118	17
+295327010	5000	E2594	E259400	Misuse of prescription only drugs	191939002	295327010	32
+970711000006112	20	EMISNQMI179		Misuse of Procylidine Hydrochloride	970711000006108	970711000006112	17
+970041000006113	20	EMISNQMI116		Misuse of Promethazine	970041000006109	970041000006113	17
+970131000006119	30	EMISNQMI125		Misuse of Propranolol	970131000006103	970131000006119	17
+970001000006111	20	EMISNQMI112		Misuse of Sedatives unspecified	970001000006107	970001000006111	17
+969751000006111	400	EMISNQMI90		Misuse of Solvents unspecified	969751000006107	969751000006111	17
+970491000006111	20	EMISNQMI158		Misuse of Spirits	970491000006107	970491000006111	17
+970381000006116	500	EMISNQMI148		Misuse of Steroids unspecified	970381000006100	970381000006116	17
+970551000006116	50	EMISNQMI163		Misuse of Stimulants unspec	970551000006100	970551000006116	17
+969521000006111	300	EMISNQMI70		Misuse of Temazepam	969521000006107	969521000006111	17
+970451000006117	200	EMISNQMI154		Misuse of Testosterone & Esters	970451000006101	970451000006117	17
+969811000006118	70	EMISNQMI95		Misuse of Toluene (glue)	969811000006102	969811000006118	17
+969241000006118	2000	EMISNQMI43		Misuse of Tramadol Hydrochloride	969241000006102	969241000006118	17
+970111000006113	60	EMISNQMI123		Misuse of Zolpidem Tartrate	970111000006109	970111000006113	17
+970091000006116	300	EMISNQMI121		Misuse of Zopliclone	970091000006100	970091000006116	17
+494053016	6000	1V26	1V26.00	Misused drugs in past	44870007	494053016	27
+852211000006112	200	EMISQMI2		Misused drugs in past	852211000006108	852211000006112	17
+8271291000006111	40	^ESCTMI827129		Misuses anabolic steroids	824001000000103	2144571000000113	27
+477158014	10000	1V0	1V0..00	Misuses drugs	361055000	477158014	17
+342441014	1000	13cB	13cB.00	Misuses drugs orally	228375008	342441014	17
+342452015	2	1V03	1V03.00	Misuses drugs sublingually	228384008	342452015	27
+342450011	1	1V05	1V05.00	Misuses drugs vaginally	228382007	342450011	27
+4979231000006111	5	^ESCTMU497923		Multi-drug misuser	228372006	342437010	27
+12619091000006119	2	^ESCT1261909		Nitrous oxide misuse	1104931000000109	2765741000000111	31
+2371251000000114	400	13cM0	13cM000	Novel psychoactive substance misuse	713775002	3297607012	17
+7094161000006118	30	^ESCTOP709416		Opiate misuse	428819003	2692029014	31
+2548434014	4000	13cH	13cH.00	Persistent substance misuse	417471002	2548434014	17
+342435019	2000	1V02	1V02.00	Poly-drug misuser	228372006	342435019	27
+2548950012	50	13cF	13cF.00	Preoccupied with substance misuse	416437003	2548950012	17
+476311000000116	600	1T43	1T43.00	Previous history of amphetamine misuse	277671000000100	476311000000116	27
+476791000000114	10	1TC3	1TC3.00	Previous history of anti-depressant misuse	277911000000102	476791000000114	27
+477991000000114	9	1TA3	1TA3.00	Previous history of barbiturate misuse	278511000000105	477991000000114	27
+475351000000110	200	1T33	1T33.00	Previous history of benzodiazepine misuse	277191000000109	475351000000110	27
+478231000000119	3000	1T83	1T83.00	Previous history of cannabis misuse	278631000000101	478231000000119	27
+477271000000118	1000	1T53	1T53.00	Previous history of cocaine misuse	278151000000100	477271000000118	27
+477511000000114	600	1T63	1T63.00	Previous history of crack cocaine misuse	278271000000102	477511000000114	27
+476071000000112	300	1T23	1T23.00	Previous history of ecstasy misuse	277551000000105	476071000000112	27
+477751000000115	30	1T73	1T73.00	Previous history of hallucinogen misuse	278391000000106	477751000000115	27
+475531000000111	2000	1T02	1T02.00	Previous history of heroin misuse	277281000000101	475531000000111	27
+476551000000111	10	1TB3	1TB3.00	Previous history of major tranquilliser misuse	277791000000108	643861000000116	27
+475831000000113	90	1T13	1T13.00	Previous history of methadone misuse	277431000000104	475831000000113	27
+477031000000112	700	1TD3	1TD3.00	Previous history of opiate misuse	278031000000108	477031000000112	27
+478471000000116	200	1T93	1T93.00	Previous history of solvent misuse	278751000000104	478471000000116	27
+8087671000006116	3	^ESCTPR808767		Previous history of substance misuse	285861000000109	493571000000116	31
+3984651000006110	1	^ESCTPS398465		Psychoactive substance misuse disorder	91388009	509424018	32
+1777051000006117	300	EMISNQRE263		Reason for referral: Substance Misuse	1777051000006101	1777051000006117	40
+2549278014	300	13c8	13c8.00	Reduced drugs misuse	416751004	2549278014	17
+2640381000000112	40	8T24		Referral for brief intervention for substance misuse	1048091000000104	2640381000000112	32
+2640651000000111	90	8T25		Referral for specialist substance misuse intervention	1048221000000107	2640651000000111	32
+8259601000006117	30	^ESCTRE825960		Referral to alcohol misuse clinic	809401000000103	2112501000000115	40
+12117371000006112	10	^ESCT1211737		Referral to alcohol misuse service	1099141000000106	2751801000000111	31
+1926131000006117	8	8W2	8W2..00	Referral to mental health services deferred until alcohol misuse resolved	933641000000103	2391941000000114	32
+1926121000006115	1	8W1	8W1..00	Referral to mental health services deferred until substance misuse resolved	933621000000105	2391901000000111	32
+540591000000111	9000	8HkF	8HkF.00	Referral to substance misuse service	201521000000104	540591000000111	40
+2733881000000116	3	^ESCT1171976		Referral to substance misuse service declined	1091431000000107	2733881000000116	31
+8121241000006115	200	^ESCTSE812124		Seen by counsellor for alcohol misuse	372501000000100	732101000000112	31
+1854731000006115	40	EMISNQSE108		Seen in drug misuse clinic	1854731000006104	1854731000006115	37
+2264491000000115	20000	9N1yJ	9N1yJ00	Seen in drug misuse clinic	700187009	2989521019	37
+1063801000000119	70000	9No5	9No5.00	Seen in substance misuse clinic	494041000000102	1063801000000119	37
+540681000000110	800	8Hh1	8Hh1.00	Self referral to substance misuse service	304301000000105	540681000000110	40
+1627491000006112	50000	13cM	13cM.00	Substance misuse	66214007	2310431000000117	17
+970391000006118	2000	EMISNQND25		Substance misuse of Alcohol	970391000006102	970391000006118	17
+968631000006116	2000	EMISNQND8		Substance misuse of Amphetamines	968631000006100	968631000006116	17
+970281000006114	9	EMISNQND24		Substance misuse of Anti-depressants	970281000006105	970281000006114	17
+969911000006113	20	EMISNQND21		Substance misuse of Barbiturates	969911000006109	969911000006113	17
+969401000006119	3000	EMISNQND16		Substance misuse of Benzodiazepines	969401000006103	969401000006119	17
+968651000006111	20000	EMISNQND9		Substance misuse of Cannabis	968651000006107	968651000006111	17
+969711000006110	5000	EMISNQND18		Substance misuse of Cocaine	969711000006106	969711000006110	17
+969741000006114	10000	EMISNQND19		Substance misuse of Crack	969741000006105	969741000006114	17
+969701000006112	1000	EMISNQND17		Substance misuse of Ecstasy	969701000006108	969701000006112	17
+969791000006117	60	EMISNQND20		Substance misuse of Hallucinogens	969791000006101	969791000006117	17
+968741000006115	20000	EMISNQND10		Substance misuse of Heroin	968741000006104	968741000006115	17
+970251000006118	10	EMISNQND23		Substance misuse of major tranquillisers	970251000006102	970251000006118	17
+968841000006110	400	EMISNQND14		Substance misuse of Methadone	968841000006106	968841000006110	17
+969991000006115	1000	EMISNQND22		Substance misuse of other drugs	969991000006104	969991000006115	17
+969001000006114	1000	EMISNQND15		Substance misuse of other Opiates	969001000006105	969001000006114	17
+970531000006111	1000	EMISNQND26		Substance misuse of poly drug	970531000006107	970531000006111	17
+968751000006118	500	EMISNQND11		Substance misuse of Solvents	968751000006102	968751000006118	17
+6218951000006115	60	^ESCTSU621895		Substance misuser	361055000	477161010	17
+3559668010	200	^ESCT1168473		Under care of drug misuse service	744857009	3559668010	31

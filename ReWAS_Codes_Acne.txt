@@ -1,0 +1,326 @@
+medcodeid	observations	originalreadcode	cleansedreadcode	term	snomedctconceptid	rewas_readcode	Acne
+17565013	600	M261L		Excoriated acne	10065003		1
+1218808012	4000	M261E	M261E00	Acne excoriee des jeunes filles	10065003	M26	1
+424351000006117	80	Myu5	Myu5.00	[X]Radiation-related disorders of the skin and subcutaneous tissue	105965008	Myu	1
+4125621000006114	1	^ESCTSK412562		Skin disorder due to physical agent AND/OR foreign substance	105965008		1
+413651000006118	30	Myu52	Myu5200	[X]Other skin changes/chronic exposure/nonionizing radiation	105965008	Myu	1
+414001000006112	10	Myu51	Myu5100	[X]Other specified acute skin changes due to UV radiation	105965008	Myu	1
+312583010	100	Nyu47	Nyu4700	[X]Other systemic diseases of connective tissue	105969002	Nyu	1
+309384013	50	Myu79	Myu7900	[X]Other specified localized connective tissue disorders	105969002	Myu	1
+400155018	100	N00y	N00y.00	Other specified diffuse collagen diseases	105969002	N00	1
+312574017	4000	Nyu4	Nyu4.00	Disorder of connective tissue	105969002	Nyu	1
+309391011	100	Myu7F	Myu7F00	[X]Localised connective tissue disorder, unspecified	105969002	Myu	1
+428621000006114	10	Nyu4C	Nyu4C00	[X]Systemic disorders/connective tissue in other diseases CE	105969002	Nyu	1
+621001000006118	7000	N00	N00..00	Diffuse diseases of connective tissue	105969002	N00	1
+221451000000115	20000	N-1	N....11	Connective tissue disease	105969002	N..	1
+736251000006113	400	M2V	M2V..00	Localized connective tissue disorder, unspecified	105969002	M2V	1
+572101000006119	300	N00-1	N00..11	Collagen diseases	105969002	N00	1
+362991000006116	500	Myu21	Myu2100	Allergic contact dermatitis caused by chemical	10676871000119103	Myu	1
+308579014	1000	M1284	M128400	Allergic contact dermatitis due to other chemical products	10676871000119103	M12	1
+19014018	80	M261C	M261C00	Tropical acne	10954006	M26	1
+1775284012	30000	M129	M129.00	Irritant contact dermatitis	110979008	M12	1
+4189031000006112	2	^ESCTIC418903		ICD - Irritant contact dermatitis	110979008		1
+4189011000006118	1	^ESCTPR418901		Primary irritant dermatitis	110979008		1
+394521000006117	200	Myu24	Myu2400	[X]Irritant contact dermatitis due to oth chemical products	110979008	Myu	1
+309321019	300	Myu25	Myu2500	[X]Irritant contact dermatitis due to other agents	110979008	Myu	1
+309386010	2000	Myu7A	Myu7A00	Vascular disease of the skin	11263005	Myu	1
+2679421000006119	8	^ESCTDI267942		Disorder of blood vessels affecting skin	11263005		1
+399946010	900	M2y0z	M2y0z00	Vascular disorders of skin NOS	11263005	M2y	1
+1219787019	1000	M2y0	M2y0.00	Vascular disorders of skin	11263005	M2y	1
+13765431000006111	200	^ESCT1376543		Acne vulgaris	11381005		1
+309361018	4000	Myu68	Myu6800	[X]Other acne	11381005	Myu	1
+309109014	200000	M261	M261.00	Other acne	11381005	M26	1
+453121000006111	1000000	M261X	M261X00	Acne	11381005	M26	1
+1806391000006119	1	JHCAC4		Acne	11381005		1
+309368012	70000	Myu6F	Myu6F00	[X]Acne, unspecified	11381005	Myu	1
+309129010	30000	M261z	M261z00	Other acne NOS	11381005	M26	1
+106893016	3000	M28y-1	M28y.11	Nettle rash	126485001	M28	1
+81555016	1000000	M28	M28..00	Urticaria	126485001	M28	1
+309338015	4000	Myu40	Myu4000	[X]Other urticaria	126485001	Myu	1
+399943019	100000	M28z	M28z.00	Urticaria NOS	126485001	M28	1
+309206010	1000	M28yz	M28yz00	Other specified urticaria NOS	126485001	M28	1
+399942012	5000	M28y	M28y.00	Other specified urticaria	126485001	M28	1
+22719019	50000	M2616	M261600	Cystic acne	13277001	M26	1
+2710601000006118	8	^ESCTCY271060		Cystic acne vulgaris	13277001		1
+309325011	8	Myu29	Myu2900	Dermatitis due to substances taken internally	13582007	Myu	1
+980491000006115	20000	Myu22	Myu2200	Exacerbation of eczema	135843006	Myu	1
+309352018	20000	Myu60	Myu6000	[X]Other nail disorders	17790008	Myu	1
+399928016	1000	M23yz	M23yz00	Other specified nail disease NOS	17790008	M23	1
+315318019	3000	PH5z	PH5z.00	Specified nail anomalies NOS	17790008	PH5	1
+991531000006111	8	M23-99	M23..99	Diseases of nail NOS	17790008	M23	1
+308974013	800	M23y	M23y.00	Other specified nail disease	17790008	M23	1
+133631000006118	3000	PH5	PH5..00	Specified anomalies of nails	17790008	PH5	1
+308992017	100000	M23z	M23z.00	Nail disease	17790008	M23	1
+623181000006112	100000	M23	M23..00	Disorder of nail	17790008	M23	1
+309303017	20000	Myu0	Myu0.00	[X]Infections of the skin and subcutaneous tissue	19824006	Myu	1
+399908015	1000000	M07z	M07z.00	Infection of skin and/or subcutaneous tissue	19824006	M07	1
+12172671000006111	10	^ESCT1217267		Infection of skin and/or subcutaneous tissue	19824006		1
+2814721000006111	400	^ESCTSK281472		Skin infection	19824006		1
+15961000006118	7000	M07yz	M07yz00	Other spec local skin/subc infection NOS	19824006	M07	1
+308463010	4000	M0y	M0y..00	Other specified infections of skin or subcutaneous tissue	19824006	M0y	1
+2814711000006115	20	^ESCTIN281471		Infective dermatological disorders	19824006		1
+415871000006114	200	Myu01	Myu0100	[X]Other specified local infections/skin+subcutaneous tissue	19824006	Myu	1
+2814731000006114	300	^ESCTSK281473		Skin and subcutaneous tissue infection	19824006		1
+12704631000006116	10	^ESCT1270463		Infection of skin AND/OR subcutaneous tissue	19824006		1
+399910018	200000	M0z	M0z..00	Skin and subcut tissue infection NOS	19824006	M0z	1
+143421000006115	1000000	M0	M0...00	Skin and subcutaneous tissue infections	19824006	M0.	1
+4805471000006111	300	^ESCTAN480547		Annular erythema	200920000		1
+308677015	5000	M1510	M151000	Erythema annulare	200920000	M15	1
+309340013	30	Myu42	Myu4200	[X]Other chronic figurate erythema	200920000	Myu	1
+309114013	70	M2612	M261200	Bromine acne	201215003	M26	1
+309116010	6	M2614	M261400	Iodine acne	201217006	M26	1
+309117018	40	M2615	M261500	Colloid acne	201218001	M26	1
+309119015	100	M2619	M261900	Occupational acne	201220003	M26	1
+309121013	800	M261B	M261B00	Steroid acne	201222006	M26	1
+309123011	400	M261D	M261D00	Acne urticata	201224007	M26	1
+309144011	200	M2630	M263000	Seborrhoea corporis	201236001	M26	1
+309147016	2000	M2631	M263100	Seborrhoea faciei	201237005	M26	1
+309148014	200	M2632	M263200	Seborrhoea nasi	201238000	M26	1
+309152014	3	M2634	M263400	Post-encephalitic seborrhoea	201240005	M26	1
+763381000006114	2000	M2W	M2W..00	Follicular cyst of skin & subcutaneous tissue, unspecif	201294000	M2W	1
+309233014	6000	M2B	M2B..00	Follicular cysts of skin and subcutaneous tissue	201294000	M2B	1
+410261000006110	900	Myu6A	Myu6A00	[X]Other follicular cysts of the skin+subcutaneous tissue	201294000	Myu	1
+387081000006119	300	Myu6G	Myu6G00	[X]Follicular cyst of skin & subcutaneous tissue, unspecif	201294000	Myu	1
+309330010	200	Myu3	Myu3.00	[X]Papulosquamous disorders	22585003	Myu	1
+309306013	6000	Myu02	Myu0200	Secondary impetiginisation	238377008	Myu	1
+5123451000006113	2	^ESCTAC512345		ACD - Allergic contact dermatitis	238575004		1
+309319012	800	Myu23	Myu2300	[X]Allergic contact dermatitis due to other agents	238575004	Myu	1
+357566010	50000	M128	M128.00	Allergic contact dermatitis	238575004	M12	1
+410661000006113	2000	Myu77	Myu7700	Granulomatous disorder of the skin and subcutaneous tissue	238673000	Myu	1
+377951000006117	100	Myu6	Myu6.00	[X]Disorders of skin appendages	238714008	Myu	1
+11381000006113	700	M245	M245.00	Disorder of skin appendage	238714008	M24	1
+309365010	100	Myu6C	Myu6C00	[X]Other eccrine sweat disorders	238714008	Myu	1
+309359010	100	Myu66	Myu6600	[X]Other hair colour and hair shaft abnormalities	238714008	Myu	1
+309353011	100	Myu61	Myu6100	[X]Nail disorders in other diseases classified elsewhere	238714008	Myu	1
+309364014	600	Myu6B	Myu6B00	[X]Other specified follicular disorders	238714008	Myu	1
+309360017	300	Myu67	Myu6700	[X]Other hypertrichosis	238714008	Myu	1
+309357012	100	Myu65	Myu6500	[X]Other cicatricial alopecia	238714008	Myu	1
+309366011	50	Myu6D	Myu6D00	[X]Other apocrine sweat disorders	238714008	Myu	1
+309356015	300	Myu64	Myu6400	Non-scarring alopecia	238725004	Myu	1
+5125591000006116	20	^ESCTNO512559		Non-scarring hair loss	238725004		1
+357818011	5000	M261K	M261K00	Acne keloidalis	238742005	M26	1
+221391000000119	8000	M2610-2	M261012	Comedonal acne	238744006	M26	1
+357823011	3000	M261H	M261H00	Acne keloid	238746008	M26	1
+453021000006110	9000	M25y6	M25y600	Acne keloid	238746008	M25	1
+357834014	700	M261G	M261G00	Acne agminata	238752009	M26	1
+489401000006119	700	M25yX	M25yX00	Apocrine sweat disorder, unspecified	238753004	M25	1
+309373018	90	Myu6J	Myu6J00	Disorder of apocrine gland	238753004	Myu	1
+5128031000006115	1	^ESCTTI512803		Tinea amiantacea	238924007		1
+5128021000006118	400	^ESCTPI512802		Pityriasis amiantacea	238924007		1
+345711000000116	3000	Myu36	Myu3600	[X]Pityriasis amiantacea	238924007	Myu	1
+399940016	300	M260z	M260z00	Acne varioliformis NOS	23894009	M26	1
+40135015	5000	M260	M260.00	Acne varioliformis	23894009	M26	1
+40136019	30000	M2600	M260000	Acne frontalis	23894009	M26	1
+369535010	7000	M2610-1	M261011	Blackhead	247467008	M26	1
+5244381000006111	1000	^ESCTCO524438		Comedone	247467008		1
+730201000006111	400	M21X	M21X.00	Hypertrophic disorder of skin, unspecified	24782002	M21	1
+309390012	200	Myu7E	Myu7E00	Hypertrophic condition of skin	24782002	Myu	1
+379262019	100000	M22B	M22B.00	Keratosis	254666005	M22	1
+309378010	200	Myu73	Myu7300	[X]Keratoderma in diseases classified elsewhere	254666005	Myu	1
+379280011	8000	M2620	M262000	Trichilemmal cyst	254677004	M26	1
+5348181000006111	2	^ESCTIS534818		Isthmus catagen cyst	254677004		1
+379282015	30000	M2621	M262100	Pilar cyst	254677004	M26	1
+308794011	300000	M18	M18..00	Pruritus and related conditions	279333002	M18	1
+5624741000006115	1	^ESCTPR562474		Pruritic dermatitis	279333002		1
+309327015	5000	Myu2B	Myu2B00	[X]Other pruritus	279333002	Myu	1
+399924019	3000	M18yz	M18yz00	Other pruritic conditions NOS	279333002	M18	1
+5624751000006118	3	^ESCTPR562475		Pruritic disorder	279333002		1
+5624731000006113	4	^ESCTPR562473		Pruritus - disorder	279333002		1
+2579713018	300000	M18z-2	M18z.12	Pruritic disorders	279333002	M18	1
+308813013	3000	M18y	M18y.00	Other specified pruritic conditions	279333002	M18	1
+399925018	500000	M18z	M18z.00	Pruritus of skin	279333002	M18	1
+156821000006112	10000	M26	M26..00	Disorder of sebaceous gland	3441005	M26	1
+309156012	300	M26y	M26y.00	Other specified sebaceous gland diseases	3441005	M26	1
+309160010	4000	M26yz	M26yz00	Other sebaceous gland diseases NOS	3441005	M26	1
+889531000006118	200	M26-99	M26..99	Sebaceous gland disease	3441005	M26	1
+309161014	2000	M26z	M26z.00	Sebaceous gland diseases NOS	3441005	M26	1
+61243016	80000	M151	M151.00	Erythema multiforme	36715001	M15	1
+745391000006116	20	M151-1	M151.11	Leyell's syndrome	36715001	M15	1
+309339011	200	Myu41	Myu4100	[X]Other erythema multiforme	36715001	Myu	1
+308685012	100	M151y	M151y00	Other specified erythema multiforme	36715001	M15	1
+308686013	2000	M151z	M151z00	Erythema multiforme NOS	36715001	M15	1
+135182014	30	M1511	M151100	Erythema iris	36715001	M15	1
+1488914013	5000	M26y4	M26y400	Sebaceous gland hypertrophy	395220005	M26	1
+889281000006115	6000	M153-99	M153.99	Rosacea Of Face	398909004	M15	1
+1786588010	700000	M1530	M153000	Acne rosacea	398909004	M15	1
+309362013	1000	Myu69	Myu6900	[X]Other rosacea	398909004	Myu	1
+889291000006117	20000	M1530-99	M153099	Acne roscea	398909004	M15	1
+1778393010	600000	M153	M153.00	Rosacea	398909004	M15	1
+308696016	20000	M153z	M153z00	Rosacea NOS	398909004	M15	1
+6634401000006110	20	^ESCTCI663440		Cicatricial alopecia	400088006		1
+309367019	1000	Myu6E	Myu6E00	Scarring alopecia	400088006	Myu	1
+557231000006116	1000	M24X	M24X.00	Scarring alopecia	400088006	M24	1
+6636411000006116	1	^ESCTSK663641		Skin atrophy	400190005		1
+309380016	700	Myu75	Myu7500	Atrophic condition of skin	400190005	Myu	1
+6636421000006112	2	^ESCTAT663642		Atrophic skin	400190005		1
+6636401000006119	1	^ESCTAT663640		Atrophy of skin	400190005		1
+335626013	40000	M2622	M262200	Pilar cyst of scalp	401158006	M26	1
+6649401000006112	3	^ESCTTR664940		Trichilemmal cyst of scalp	401158006		1
+931751000006117	50000	M2622-1	M262211	Sebaceous cyst of scalp	401158006	M26	1
+6660931000006111	3	^ESCTAC666093		Acute effect of ultraviolet radiation on normal skin	402165001		1
+362431000006111	20	Myu54	Myu5400	[X]Acute skin change due to ultraviolet radiation, unspecified	402165001	Myu	1
+460411000006114	70	M1X	M1X..00	Acute skin change due to ultraviolet radiation, unspecif	402165001	M1X	1
+3148031000006112	3	^ESCTCO314803		Contact eczema	40275004		1
+399912014	200000	M12	M12..00	Contact dermatitis and other eczemas	40275004	M12	1
+309323016	300	Myu27	Myu2700	[X]Unspecified contact dermatitis due to other agents	40275004	Myu	1
+308624013	30000	M12zz	M12zz00	Contact dermatitis NOS	40275004	M12	1
+63652013	500000	M12-1	M12..11	Contact dermatitis	40275004	M12	1
+3148021000006114	2	^ESCTCD314802		CD - Contact dermatitis	40275004		1
+1494721011	30000	M12-2	M12..12	Contact eczema	40275004	M12	1
+430281000006110	50	Myu26	Myu2600	[X]Unspcfd contact dermatitis due to other chemical products	40275004	Myu	1
+308602013	400	M12y	M12y.00	Contact dermatitis due to other specified agents	40275004	M12	1
+308623019	600	M12yz	M12yz00	Contact dermatitis: specified agent NOS	40275004	M12	1
+591221000006115	100000	M12z	M12z.00	Contact dermatitis NOS	40275004	M12	1
+309344016	400	Myu50	Myu5000	[X]Other sunburn	403194002	Myu	1
+39182017	100000	M1271	M127100	Sunburn	403194002	M12	1
+6677141000006114	5000	^ESCTSO667714		Solar erythema	403194002		1
+43904014	7000	M26y2	M26y200	Giant comedo	403357002	M26	1
+405131000006118	20	Myu53	Myu5300	[X]Other specified disorders of the skin and subcutaneous tissue related to radiation	409001000000102	Myu	1
+309304011	200	Myu00	Myu0000	[X]Acute lymphadenitis of other sites	41174002	Myu	1
+197551016	9000	M04-2	M04..12	Acute adenitis	41174002	M04	1
+197552011	90000	M04	M04..00	Acute lymphadenitis	41174002	M04	1
+309376014	5000	Myu71	Myu7100	Disorder of pigmentation	414032001	Myu	1
+309329017	50000	Myu2D	Myu2D00	Pruritus	418363000	Myu	1
+6920121000006115	40000	^ESCTIT692012		Itching of skin	418363000		1
+2580186011	400000	M262-2	M262.12	Sebaceous cyst	419603000	M26	1
+156781000006118	1000000	M262	M262.00	Epidermoid cyst of skin	419603000	M26	1
+221411000000119	5000	M262-1	M262.11	Keratinous cyst	419603000	M26	1
+70464010	4000	M2611	M261100	Acne conglobata	42228007	M26	1
+399917015	7000000	M12z1	M12z100	Eczema	43116000	M12	1
+309315018	70000	Myu2	Myu2.00	[X]Dermatitis and eczema	43116000	Myu	1
+309324010	30	Myu28	Myu2800	[X]Dermatitis due to other substances taken internally	43116000	Myu	1
+3227071000006110	4	^ESCTTY322707		Tycoon's scalp	45072005		1
+453041000006115	700	M260z-1	M260z11	Acne necrotica	45072005	M26	1
+3227061000006115	20	^ESCTAC322706		Acne necrotica miliaris	45072005		1
+494096014	600	M261J	M261J00	Acne necrotica	45072005	M26	1
+12481391000006115	50	^ESCT1248139		[X]Urticaria and erythema	462821000000106		1
+309337013	2000	Myu4	Myu4.00	[X]Urticaria and erythema	462821000000106	Myu	1
+623821000006119	100	M1W	M1W..00	Disord skin and subcut tis related to radiation, unspec	463181000000108	M1W	1
+377591000006118	60	Myu55	Myu5500	[X]Disorder of skin and subcutaneous tissue related to radiation, unspecified	463181000000108	Myu	1
+8786013	700	M261F	M261F00	Acne fulminans	4659007	M26	1
+308787013	10000	M170z	M170z00	Lichen planus NOS	4776004	M17	1
+8963013	300000	M170	M170.00	Lichen planus	4776004	M17	1
+309333012	4000	Myu32	Myu3200	[X]Other lichen planus	4776004	Myu	1
+2575151000006111	1	^ESCTLP257515		LP - Lichen planus	4776004		1
+1230762011	3000	M2617	M261700	Acne neonatorum	49706007	M26	1
+3304561000006118	1000	^ESCTNE330456		Neonatal acne	49706007		1
+82790012	500	M2618	M261800	Infantile acne	49706007	M26	1
+889121000006112	5000	M101-98	M101.98	Seborrhoeic dermat/eczema NOS	50563003	M10	1
+84230010	1000000	M101	M101.00	Seborrhoeic dermatitis	50563003	M10	1
+889131000006110	20000	M101-99	M101.99	Seborrhoeic dermatitis/eczema	50563003	M10	1
+3318761000006119	1	^ESCTSB331876		SBD - Seborrheic dermatitis	50563003		1
+3318721000006113	30	^ESCTSE331872		Seborrheic dermatitis	50563003		1
+3318751000006116	3	^ESCTSB331875		SBD - Seborrhoeic dermatitis	50563003		1
+309316017	900	Myu20	Myu2000	[X]Other seborrhoeic dermatitis	50563003	Myu	1
+84231014	200000	M101-2	M101.12	Seborrhoeic eczema	50563003	M10	1
+495721011	100	PA25-1	PA25.11	Fordyce's disease of mouth	50584008	PA2	1
+3319231000006114	100	^ESCTFO331923		Fordyce's disease	50584008		1
+84280016	8000	M26y3	M26y300	Fordyce spots	50584008	M26	1
+3319311000006112	10	^ESCTEC331931		Ectopic sebaceous glands	50584008		1
+3319291000006113	2	^ESCTFO331929		Fordyce's granules	50584008		1
+3319261000006117	2	^ESCTFO331926		Fordyce granules	50584008		1
+3319271000006112	1	^ESCTFO331927		Fordyce disease	50584008		1
+309393014	1000	Myu7G	Myu7G00	[X]Vasculitis limited to skin, unspecified	53312001	Myu	1
+65971000006112	6000	M2y0X	M2y0X00	Vasculitis of the skin	53312001	M2y	1
+98310017	30000	M261A	M261A00	Pustular acne	59172008	M26	1
+208541000006113	80000	M251	M251.00	Miliaria	63951004	M25	1
+309372011	700	Myu6H	Myu6H00	[X]Miliaria, unspecified	63951004	Myu	1
+702221000006112	2000	M251X	M251X00	Miliaria, unspecified	63951004	M25	1
+3540251000006118	2	^ESCTSE354025		Seborrhoea adiposa	63977007		1
+106347012	40	M2633	M263300	Seborrhoea oleosa	63977007	M26	1
+309326012	400	Myu2A	Myu2A00	[X]Other prurigo	64144002	Myu	1
+308809018	3000	M182z	M182z00	Prurigo NOS	64144002	M18	1
+3543221000006118	5000	^ESCTPR354322		Pruritic rash	64144002		1
+3543241000006113	10	^ESCTIT354324		Itchy skin eruption	64144002		1
+106630017	50000	M182	M182.00	Prurigo	64144002	M18	1
+308660015	200	M144z	M144z00	Pemphigus NOS	65172003	M14	1
+309309018	100	Myu10	Myu1000	[X]Other pemphigus	65172003	Myu	1
+108297019	10000	M144	M144.00	Pemphigus	65172003	M14	1
+889541000006111	400	M26z-99	M26z.99	Sebaceous gland disorder NOS	654961000000106	M26	1
+3609971000006113	1	^ESCTPA360997		Patchy loss of hair	68225006		1
+3609991000006114	3	^ESCTAA360999		AA - Alopecia areata	68225006		1
+309354017	9000	Myu62	Myu6200	[X]Other alopecia areata	68225006	Myu	1
+113328010	200000	M2401	M240100	Alopecia areata	68225006	M24	1
+309328013	2000	Myu2C	Myu2C00	[X]Other specified dermatitis	703938007	Myu	1
+740221000006117	70000	M07z-4	M07z.14	Dermatitis	703938007	M07	1
+1160721000000115	20000	2F1C	2F1C.00	Inflammation of skin	703938007	2F1	1
+614361000006113	100000	M1-1	M1...11	Dermatitis/dermatoses	703938007	M1.	1
+308625014	1000000	M12z0	M12z000	Inflammatory dermatosis	703938007	M12	1
+309383019	900	Myu78	Myu7800	Cutaneous lupus erythematosus	7119001	Myu	1
+13461000006110	900	M2y	M2y..00	Other specified diseases of skin or subcutaneous tissue	80659006	M2y	1
+309374012	400	Myu7	Myu7.00	[X]Other disorders of the skin and subcutaneous tissue	80659006	Myu	1
+399927014	100000	M22z	M22z.00	Disorder of skin AND/OR subcutaneous tissue	80659006	M22	1
+143411000006111	2000000	M	M....00	Disorder of skin and/or subcutaneous tissue	80659006	M..	1
+362601000006118	100	Myu	Myu..00	[X]Additional skin and subcutaneous tissue disease classification terms	80659006	Myu	1
+309299010	10000	M2z	M2z..00	Other skin and subcutaneous tissue disease NOS	80659006	M2z	1
+308905013	2000	M215	M215.00	Other abnormal granulation tissue	80659006	M21	1
+409651000006117	30	Myu7D	Myu7D00	[X]Other disorders/skin+subcutaneous tissue in diseases CE	80659006	Myu	1
+308835017	4000	M2	M2...00	Other skin and subcutaneous tissue disorders	80659006	M2.	1
+308852018	2000	M21	M21..00	Other atrophic and hypertrophic conditions of skin	80659006	M21	1
+399951016	300000	Mz	Mz...00	Skin and subcutaneous tissue disease	80659006	Mz.	1
+411151000006113	50	Myu7B	Myu7B00	[X]Other infiltrative disorders/skin+subcutaneous tissue	80659006	Myu	1
+309379019	1	Myu74	Myu7400	[X]Other transepidermal elimination disorders	80659006	Myu	1
+308912016	200	M21y	M21y.00	Other specified atrophic and hypertrophic conditions of skin	80659006	M21	1
+16221000006114	90	M21yz	M21yz00	Other spec skin atrophic and hypertrophic conditions NOS	80659006	M21	1
+308948019	50	M224	M224.00	Leukokeratosis NEC	80659006	M22	1
+309301015	2000	My	My...00	Other specified diseases of skin or subcutaneous tissue	80659006	My.	1
+415241000006117	50	Myu7C	Myu7C00	[X]Other specified disorders/skin+subcutaneous tissue	80659006	Myu	1
+16481000006112	30000	M2yz	M2yz.00	Other skin and subcutaneous tissue disease NOS	80659006	M2y	1
+315265010	10	PH33z	PH33z00	Specified syndromes involving skin anomalies NEC NOS	80659006	PH3	1
+3812021000006111	1	^ESCTDI381202		Disorder of skin and subcutaneous tissue	80659006		1
+309381017	100	Myu76	Myu7600	[X]Other hypertrophic disorders of the skin	80659006	Myu	1
+315253011	20	PH33	PH33.00	Specified syndromes NEC involving skin anomalies	80659006	PH3	1
+138786017	100	M2613	M261300	Chlorine acne	83684005	M26	1
+309311010	300	Myu12	Myu1200	[X]Other pemphigoid	86142006	Myu	1
+308664012	900	M145z	M145z00	Pemphigoid NOS	86142006	M14	1
+142845014	40000	M145	M145.00	Pemphigoid	86142006	M14	1
+309155011	1000	M263z	M263z00	Seborrhoea NOS	86708008	M26	1
+143792011	50000	M263	M263.00	Seborrhoea	86708008	M26	1
+3910011000006112	1	^ESCTSE391001		Seborrhea	86708008		1
+309342017	50	Myu44	Myu4400	[X]Erythema in other diseases classified elsewhere	86735004	Myu	1
+648431000006110	20000	M15	M15..00	Erythematous condition	86735004	M15	1
+308718010	2000	M15y4	M15y400	Other exfoliative erythema	86735004	M15	1
+399921010	5000	M15yz	M15yz00	Other erythematous conditions NOS	86735004	M15	1
+308724016	10000	M15z	M15z.00	Erythematous conditions NOS	86735004	M15	1
+309341012	300	Myu43	Myu4300	[X]Other specified erythematous conditions	86735004	Myu	1
+308710015	600	M15y	M15y.00	Other specified erythematous conditions	86735004	M15	1
+309355016	10000	Myu63	Myu6300	Androgenic alopecia	87872006	Myu	1
+3928091000006111	30	^ESCTPA392809		Pattern baldness	87872006		1
+145676010	30000	M2402	M240200	Male pattern alopecia	87872006	M24	1
+3928071000006110	20	^ESCTMA392807		Male pattern baldness	87872006		1
+3928101000006117	90	^ESCTAN392810		Androgenetic alopecia	87872006		1
+146283019	2000	M162	M162.00	Parapsoriasis	88233000	M16	1
+309332019	10	Myu31	Myu3100	[X]Other parapsoriasis	88233000	Myu	1
+308770011	80	M162z	M162z00	Parapsoriasis NOS	88233000	M16	1
+308755010	80	M1620	M162000	Parapsoriasis unspecified	88233000	M16	1
+146927011	6000000	M2610	M261000	Acne vulgaris	88616000	M26	1
+147751015	5000	M26y1	M26y100	Xerosis cutis	89105000	M26	1
+147750019	7000	M26y0	M26y000	Asteatosis cutis	89105000	M26	1
+308753015	2000000	M161z	M161z00	Psoriasis	9014002	M16	1
+308731017	9000	M161	M161.00	Other psoriasis	9014002	M16	1
+308725015	500000	M16	M16..00	Psoriasis and similar disorders	9014002	M16	1
+309331014	3000	Myu30	Myu3000	[X]Other psoriasis	9014002	Myu	1
+308732012	300000	M1610	M161000	Psoriasis unspecified	9014002	M16	1
+308776017	80000	M16z	M16z.00	Psoriasis and similar disorders NOS	9014002	M16	1
+309314019	300	Myu15	Myu1500	[X]Acantholytic disorder, unspecified	943191000000101	Myu	1
+309310011	200	Myu11	Myu1100	[X]Other specified acantholytic disorders	943191000000101	Myu	1
+8342851000006117	4	^ESCTPA834285		Papulosquamous disorder	943201000000104		1
+309336016	60	Myu35	Myu3500	[X]Papulosquamous disorder, unspecified	943201000000104	Myu	1
+250141000006113	200	M2X	M2X..00	Papulosquamous disorder, unspecified	943201000000104	M2X	1
+309334018	40	Myu33	Myu3300	[X]Other specified papulosquamous disorders	943201000000104	Myu	1
+309335017	2	Myu34	Myu3400	[X]Papulosquamous disorders in diseases classified elsewhere	943201000000104	Myu	1
+309375013	60	Myu70	Myu7000	[X]Other disorders of diminished melanin formation	943241000000101	Myu	1
+8342881000006113	2	^ESCTDI834288		Disorder of diminished melanin formation	943241000000101		1
+8342891000006111	1	^ESCTDI834289		Disorder of epidermal thickening	943251000000103		1
+309377017	200	Myu72	Myu7200	[X]Other specified epidermal thickening	943251000000103	Myu	1
+309312015	200	Myu13	Myu1300	[X]Other specified bullous disorders	95320005	Myu	1
+309308014	20000	Myu1	Myu1.00	Disorder of skin	95320005	Myu	1
+143451000006112	40000	M21z	M21z.00	Disorder of skin	95320005	M21	1
+4054581000006116	20	^ESCTDE405458		Dermatological disease	95320005		1
+4054591000006118	40	^ESCTDE405459		Dermatological disorder	95320005		1
+309272013	1000	M2y4	M2y4.00	Skin disease	95320005	M2y	1
+309313013	50	Myu14	Myu1400	[X]Bullous disorders in diseases classified elsewhere	95320005	Myu	1
+308932015	9000	M22	M22..00	Dermatosis	95320005	M22	1
+399950015	20000	M2y4z	M2y4z00	Other specified skin disorder NOS	95320005	M2y	1
+308922010	800	M21zz	M21zz00	Skin atrophy/hypertrophy NOS	95320005	M21	1
+4054571000006119	4	^ESCTSK405457		Skin disorder	95320005		1
